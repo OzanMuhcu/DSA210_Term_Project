@@ -1,9 +1,9 @@
 # Chess Data Analysis - DSA210 Project
 
 ## **Project Overview**
-In this project, I’ll be diving into chess games and player profiles using data from Lichess. My goal is to explore statistical trends related to player country, rating, game type, and opening choices. I want to uncover patterns like which openings work best at different rating levels, how player profiles relate to different types of games, and what counterplay strategies tend to be the most effective against specific openings.
+n this project, I will explore chess games and player profiles using data from Lichess. My goal is to examine statistical trends related to player nationality, rating, game type, and opening choices. I aim to uncover patterns such as which openings are most effective at different rating levels, how player profiles influence their game types, and which counterplay strategies are most successful against specific openings.
 
-This project brings together my love for chess and data analysis. Instead of using complex chess engines to calculate winning probabilities, I’ll keep things simple by focusing on fundamental statistics and correlations just enough to spot interesting trends without overcomplicating things.
+This project brings together my love for chess and data analysis. Instead of relying on complicated chess engines to figure out winning probabilities, I’m keeping it simple. I’ll focus on basic stats and correlations to spot interesting trends without getting bogged down in unnecessary details.
 
 ---
 
@@ -28,7 +28,7 @@ This project brings together my love for chess and data analysis. Instead of usi
 
 ## **Dataset**
 
-To carry out this analysis, I’ll be gathering two types of data from Lichess databases:
+In order to conduct this analysis, I will be collecting two kinds of data from the Lichess databases:
 
 ### **1. Game Data**
 Each game record will include:
@@ -76,12 +76,12 @@ Each player's profile will include:
 ## **Expected Findings**
 
 By the end of this project, I expect to answer questions such as:
-- Which openings perform best at different Elo levels?
-- What are the most common counterplays for popular openings?
-- Do players from certain countries favor specific openings or game types?
-- How do Blitz and Bullet (or any gametpe) players differ in their opening selections?
+- What openings tend to be most effective at various Elo levels?  
+- What are some common counter strategies for popular openings?  
+- Do players from specific countries show a preference for particular openings or styles of play?  
+- How do the opening choices of Blitz and Bullet (or other gametypes) players differ from one another?  
 
-These insights can be valuable for both me and other players looking to refine their game strategies based on their rating, preferred game type, or other factors I’ll be exploring.
+These insights could be truly valuable for me and my other players who are looking to improve their game strategies. 
 
 ---
 
