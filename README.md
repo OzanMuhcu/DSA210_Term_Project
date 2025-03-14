@@ -1,9 +1,9 @@
 # Chess Data Analysis - DSA210 Project
 
 ## **Project Overview**
-In this project, I will analyze chess games and player profiles with using data collected from Lichess. My goal is to understand statistical trends related to player country, rating, game type, and opening choices. I aim to identify patterns such as which openings are more effective at different rating levels, how player profiles correlate with game types, and what counterplay strategies work best against certain openings.
+In this project, I’ll be diving into chess games and player profiles using data from Lichess. My goal is to explore statistical trends related to player country, rating, game type, and opening choices. I want to uncover patterns like which openings work best at different rating levels, how player profiles relate to different types of games, and what counterplay strategies tend to be the most effective against specific openings.
 
-This project combines my passion for chess and data analysis. Unlikee advanced chess engines which calculates probabilities for winning, I will keep the analysis simple by focusing on fundamental statistics and correlations.
+This project brings together my love for chess and data analysis. Instead of using complex chess engines to calculate winning probabilities, I’ll keep things simple by focusing on fundamental statistics and correlations just enough to spot interesting trends without overcomplicating things.
 
 ---
 
@@ -28,7 +28,7 @@ This project combines my passion for chess and data analysis. Unlikee advanced c
 
 ## **Dataset**
 
-To make this analysis, I will collect two types of data from Lichess databases:
+To carry out this analysis, I’ll be gathering two types of data from Lichess databases:
 
 ### **1. Game Data**
 Each game record will include:
@@ -81,16 +81,16 @@ By the end of this project, I expect to answer questions such as:
 - Do players from certain countries favor specific openings or game types?
 - How do Blitz and Bullet (or any gametpe) players differ in their opening selections?
 
-These insights can provide valuable information for me and players who looking to optimize their game strategies based on their rating and preferred game type or other perspectives I will study.
+These insights can be valuable for both me and other players looking to refine their game strategies based on their rating, preferred game type, or other factors I’ll be exploring.
 
 ---
 
 ## **Conclusion**
-This project aims to bring light to meaningful insights from chess games and player profiles via analyzing opening trends, player behaviors, and win probabilities across rating levels. With using data visualization and statistical testing, I hope to find and be able to provide useful strategies for chess players while applying my data analysis skills to a subject I am passionate about.
+This project aims to uncover meaningful insights from chess games and player profiles by analyzing opening trends, player behaviors, and win probabilities across different rating levels. Through data visualization and statistical testing, I hope to identify useful strategies that can help chess players improve their game while also applying my data analysis skills to a subject I’m passionate about.
 
-By using data science techniques, I will gain a better understanding of chess patterns while also developing skills in data collection, processing, and statistical evaluation.
+By exploring chess through the data science, I’ll not only deepen my understanding of game patterns but also strengthen my skills in data collection, processing, and statistical evaluation.
 
 ---
 
-I look forward to seeing what the data tells and improvine my chess knowledge through this analysis.
+I’m excited to see what the data reveals and to deepen my chess knowledge through this analysis.
 
