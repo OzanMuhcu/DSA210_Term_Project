@@ -1,7 +1,7 @@
 # Chess Data Analysis - DSA210 Project
 
 ## **Project Overview**
-n this project, I will explore chess games and player profiles using data from Lichess. My goal is to examine statistical trends related to player nationality, rating, game type, and opening choices. I aim to uncover patterns such as which openings are most effective at different rating levels, how player profiles influence their game types, and which counterplay strategies are most successful against specific openings.
+In this project, I will explore chess games and player profiles using data from Lichess. My goal is to examine statistical trends related to player nationality, rating, game type, and opening choices. I aim to uncover patterns such as which openings are most effective at different rating levels, how player profiles influence their game types, and which counterplay strategies are most successful against specific openings.
 
 This project brings together my love for chess and data analysis. Instead of relying on complicated chess engines to figure out winning probabilities, I’m keeping it simple. I’ll focus on basic stats and correlations to spot interesting trends without getting bogged down in unnecessary details.
 
