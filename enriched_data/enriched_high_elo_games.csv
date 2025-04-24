@@ -1,1 +1,1001 @@
-
+white,black,white_elo,black_elo,result,opening,eco,site,time_control,termination,white_country,white_title,white_preferred_game,white_peak_bullet,white_peak_blitz,white_peak_rapid,white_peak_classical,white_total_wins,white_total_draws,white_total_losses,black_country,black_title,black_preferred_game,black_peak_bullet,black_peak_blitz,black_peak_rapid,black_peak_classical,black_total_wins,black_total_draws,black_total_losses
+Alireza_rst0074,biagiobiagin92,2042,2158,0-1,Queen's Pawn Game: London System,D02,https://lichess.org/FFn9epZC,180+0,Normal,,,blitz,,,,,113,12,109,,,blitz,2231.0,2316.0,,,25533,3219,20707
+SackofSasquatch,SilentHero,2191,2249,1/2-1/2,French Defense #2,C00,https://lichess.org/GQILS7lW,60+0,Normal,,,bullet,,,,,10710,568,8048,,,bullet,,,,,2072,139,554
+Blitzki,ADNDADN,2237,2311,1/2-1/2,Indian Game,A45,https://lichess.org/Ni42gbx0,60+2,Normal,,,blitz,,,,,4981,445,2678,,,bullet,,,,,4342,1126,3573
+mamurik,Cranken,2031,2270,1-0,Sicilian Defense: Four Knights Variation,B45,https://lichess.org/s8i4FPoy,300+0,Normal,,,blitz,,,,,3863,221,1807,,,blitz,,,,,10253,594,4830
+Aurorachess11,par40,1808,2222,0-1,Mieses Opening,A00,https://lichess.org/0loDtHnm,60+0,Time forfeit,,,bullet,,,,,70726,5816,71732,,,bullet,2457.0,2204.0,,,39613,2076,15431
+patatoide64,liparrene,2097,2001,1-0,Owen Defense,B00,https://lichess.org/8PeWGsq0,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,9603,690,7319
+popolesimi,VavaOcel,2235,2071,1-0,Indian Game,A45,https://lichess.org/lJ6GY9j3,90+1,Time forfeit,,,bullet,,,,,2260,396,1852,,,unknown,,,,,0,0,0
+frozen_shadow,jonhybabyrossi,2040,2170,1-0,Four Knights Game: Double Spanish,C49,https://lichess.org/tYloW8kj,300+0,Normal,,,blitz,2202.0,2408.0,2218.0,,41690,6580,39748,,,blitz,,,,,373,22,354
+paulovskj,Tinhau,2494,2303,1-0,Four Knights Game: Spanish Variation,C48,https://lichess.org/f7zRIhyz,60+0,Normal,,,bullet,2590.0,,,,32504,1561,16525,,LM,bullet,2334.0,2257.0,,,15654,1056,18025
+Silahtar,el_chimpo,1995,2175,0-1,Mikenas Defense,A40,https://lichess.org/bkCdEop9,180+0,Time forfeit,,,blitz,,,,,3826,337,5483,,,unknown,,,,,0,0,0
+olowobaba,Chesspirate421,2065,2380,0-1,Queen's Pawn Game #2,D00,https://lichess.org/ixHemLFJ,60+0,Time forfeit,,,bullet,,,,,3673,396,5518,,,unknown,,,,,0,0,0
+themurdercastle,TheJudgeTruth,2575,2477,1-0,Nimzo-Larsen Attack,A01,https://lichess.org/QNkNS3vr,30+0,Time forfeit,,LM,bullet,,2598.0,,,8971,654,5139,,,unknown,,,,,0,0,0
+de3,operadora,2277,1950,1-0,Saragossa Opening,A00,https://lichess.org/bGZJtq9A,30+0,Time forfeit,,,bullet,,,,,2036,106,830,,,bullet,,,,,1118,76,1740
+raskerino,NueveReinas,2318,2293,1-0,Pirc Defense: Kholmov System,B07,https://lichess.org/SqGeFNOz,60+1,Time forfeit,,NM,bullet,2692.0,2502.0,,,41105,3769,24717,,,unknown,,,,,0,0,0
+eurostar,dariel,2047,2046,1/2-1/2,French Defense: Rubinstein Variation,C10,https://lichess.org/FGjwbGpS,60+0,Time forfeit,,,bullet,2362.0,,,,53602,5466,46973,,,puzzle,,,,,1714,130,2122
+blvdwoude,PeakyBlinder,2128,2093,0-1,Sicilian Defense: Smith-Morra Gambit #2,B21,https://lichess.org/EXAv8mxF,180+0,Time forfeit,,,blitz,,2213.0,,,7416,449,4756,,,blitz,,2206.0,,,14949,1304,17395
+occipitex1,occipitex,2210,2253,0-1,Alekhine Defense: Two Pawn Attack,B02,https://lichess.org/gobGpOPt,30+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,5867,447,7430
+biorelle,arhean,2233,2262,0-1,"English Opening: Anglo-Indian Defense, Queen's Knight Variation",A16,https://lichess.org/TYYr49XT,60+0,Time forfeit,,,bullet,,,,,48917,4969,54321,,,bullet,,2370.0,,,27929,1366,12009
+Paanoos,bogdanb,2505,2449,1-0,"Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation",B97,https://lichess.org/GmVQSWmz,60+0,Time forfeit,,IM,bullet,2824.0,2767.0,,,6785,726,4348,,,unknown,,,,,0,0,0
+Alrrash,TheWeeknd,2075,2205,0-1,Sicilian Defense: Modern Variations,B56,https://lichess.org/3o2BQdZz,180+0,Time forfeit,,,blitz,1993.0,1975.0,,,27925,2833,25215,,,bullet,,,,,6853,549,7862
+marcosales,sniperchess,2062,2037,1-0,"Sicilian Defense: Accelerated Dragon, Modern Bc4 Variation",B35,https://lichess.org/1VpYR6jE,180+2,Normal,,,blitz,,,,,5906,911,4536,,,blitz,,,,,4634,441,3290
+herbsboy,MarcoRico,2061,2252,0-1,Caro-Kann Defense: Breyer Variation,B10,https://lichess.org/YAeZKctG,60+0,Time forfeit,,,bullet,,,,,6126,311,4176,,,unknown,,,,,0,0,0
+gerardt,Dienekes,2038,2074,1-0,Caro-Kann Defense,B10,https://lichess.org/vjDZ69wJ,300+5,Normal,,,rapid,,1936.0,,,4982,366,3555,,,unknown,,,,,0,0,0
+Cocorichess,thisisdhaas,2286,2171,1-0,Scandinavian Defense: Blackburne Gambit,B01,https://lichess.org/Jo6ZNHKE,30+0,Time forfeit,,,bullet,,,,,155146,7149,87706,,,bullet,2339.0,2266.0,,,126836,7205,94647
+IguanaAstronaut,Stifmeister,2294,2029,1-0,"French Defense: Advance Variation, Nimzowitsch System",C02,https://lichess.org/c65uAgfQ,60+0,Time forfeit,,,bullet,2574.0,2374.0,,,59122,5053,41040,,,bullet,2151.0,2229.0,,,5481,849,6576
+Xyugo,Mr4nd3rson,2142,2117,0-1,"English Opening: Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense",A33,https://lichess.org/4P3D5rAF,60+0,Time forfeit,,,bullet,,,,,6154,539,6395,,,unknown,,,,,0,0,0
+Sabaidee11,sumpor,2043,2262,1-0,"Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation",B00,https://lichess.org/uBAQ3WEs,480+0,Normal,,,blitz,,,2139.0,,5840,571,5474,,,blitz,,2402.0,2442.0,,37843,4946,18161
+biji179,biokovo,2235,2093,1-0,Pirc Defense #2,B07,https://lichess.org/TelaSOxc,300+0,Normal,,,blitz,,,,,63,1,9,,,unknown,,,,,0,0,0
+damonachey,Lance5500,1702,2474,0-1,Hungarian Opening: Symmetrical Variation,A00,https://lichess.org/dW7MV583,600+0,Normal,,,chess960,,1884.0,,,37329,4370,38832,,LM,bullet,2959.0,2612.0,,,133522,6225,16441
+gous,komikbirisim,2041,2033,1-0,Owen Defense,B00,https://lichess.org/Om18NyCN,180+0,Normal,,,blitz,,,,,2457,247,2218,,,unknown,,,,,0,0,0
+Tranceislove,Daimon1990,2193,2170,0-1,Hungarian Opening,A00,https://lichess.org/sHJwHnNR,60+0,Time forfeit,,,puzzle,,,,,659,67,582,,,unknown,,,,,0,0,0
+bicyclethief,AlexisArsenal,2170,2184,0-1,Queen's Pawn Game: Zukertort Variation,D02,https://lichess.org/kAeNV6Rf,60+0,Time forfeit,,,blitz,,,,,15308,1538,8724,,,bullet,,,,,19257,2599,26516
+Gapawa,domajo,2064,2100,0-1,English Defense #2,A40,https://lichess.org/cXbJKrbz,60+0,Time forfeit,,,bullet,,,,,32035,1871,20887,,,bullet,2155.0,2283.0,,,29217,560,30012
+serpy73,mrgoon,2088,2170,0-1,Caro-Kann Defense: Advance Variation,B12,https://lichess.org/p0rqScYc,180+0,Normal,,,blitz,,,,,11592,1280,22540,,,unknown,,,,,0,0,0
+Dcriminal,only_berserk,1935,2078,0-1,Dutch Defense: Fianchetto Attack,A81,https://lichess.org/aKr7Sxkt,180+0,Normal,,,bullet,,,,,6031,447,5126,,,bullet,,,,,6824,557,5569
+MyPirateShip,bobbyjoe44445,2039,2095,0-1,Caro-Kann Defense: Breyer Variation,B10,https://lichess.org/jl14vhNl,180+0,Normal,,,blitz,,,,,2455,672,4770,,,bullet,2377.0,2178.0,,,11031,470,6319
+sinax121,rohankant2269,2077,2095,0-1,Hungarian Opening,A00,https://lichess.org/vLXzZP8X,180+0,Time forfeit,,,bullet,,,,,7905,1062,8718,,,blitz,,,,,3418,289,3071
+CormoranKR,elos63,2110,2224,0-1,Trompowsky Attack,A45,https://lichess.org/h1X1erXE,180+0,Normal,,,bullet,2379.0,,,,25406,1593,26809,,,blitz,2375.0,2385.0,,,31863,4010,33839
+gregorio26239795,maxlav,2072,2028,1-0,French Defense: Two Knights Variation,C00,https://lichess.org/pBcWeud6,180+0,Normal,,,blitz,2044.0,2135.0,,,15903,1361,12453,,,blitz,,,,,4552,283,3024
+GGfrancesco,MuitaTreta,2293,2311,1-0,Sicilian Defense: Old Sicilian,B30,https://lichess.org/OAJ7vJLl,180+0,Normal,,,blitz,,,,,1148,177,1392,,,unknown,,,,,0,0,0
+demiridis,Polydamas,2286,2386,1-0,"Sicilian Defense: Nimzowitsch Variation, Closed Variation",B29,https://lichess.org/SldVdyb4,60+2,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+alexandretemate,MAGGLE,2159,2188,1-0,French Defense: Knight Variation,C00,https://lichess.org/tFUtbAaY,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,6991,805,7419
+Chubbyserg,peor2,2037,2101,0-1,"English Opening: King's English Variation, Four Knights Variation, Fianchetto Line",A29,https://lichess.org/zb1K02pN,180+1,Normal,,,bullet,,,,,69550,2571,10453,,,blitz,2170.0,2222.0,,,36442,2568,35622
+SANOGICELLO,Matthew_Castle,2018,2032,0-1,Queen's Pawn Game,D00,https://lichess.org/mi9tgtpB,300+0,Time forfeit,,,blitz,,1752.0,,,27091,1972,26134,,,blitz,,,,,2483,127,1514
+CtrlAltDelicious,NoBanPlease,2053,2037,1-0,King's Indian Attack,A08,https://lichess.org/yDzpQslC,60+0,Time forfeit,,,bullet,2564.0,2331.0,,,26342,2755,22040,,,bullet,2237.0,,,,47306,2954,25736
+Triatlon123,Slaifer,2170,2134,0-1,Gruenfeld Defense: Stockholm Variation,D80,https://lichess.org/s8daGtXu,180+2,Normal,,,puzzle,2057.0,2216.0,,,13096,2281,13134,,,unknown,,,,,0,0,0
+EmirhanKoca,FraGer68,1920,2533,0-1,Sicilian Defense: Classical Variation,B56,https://lichess.org/yMk9E1eh,120+1,Normal,,,bullet,,,,,393,16,399,,,bullet,2703.0,,,,59885,2348,9619
+drzymek_1,sdg423,2121,2089,1-0,Alekhine Defense: Exchange Variation,B03,https://lichess.org/s8C9Rokl,180+1,Normal,,,bullet,2268.0,,,,8040,1153,7731,,,blitz,,,,,1086,95,1208
+gpv,umano,2097,1922,1-0,French Defense: Two Knights Variation,C00,https://lichess.org/atn5Qjz0,300+0,Normal,,,blitz,,,,,9443,525,5817,,,blitz,,,2186.0,,6554,492,6189
+AleksandarTot,MorphyAgain,2032,1997,1-0,Polish Opening: Queenside Defense,A00,https://lichess.org/5juG8Hiy,600+0,Normal,,,blitz,1917.0,2013.0,,,11668,1250,7965,,,rapid,,1902.0,1944.0,2022.0,21816,1290,13050
+castles,xXKnightMareXx,1830,2263,0-1,Old Indian Defense,A41,https://lichess.org/x2itvIQT,60+0,Normal,,,bullet,,,,,12042,450,14900,,,unknown,,,,,0,0,0
+NiVeR,bobspass,2048,2068,1-0,King's Pawn Game: Macleod Attack,C20,https://lichess.org/KCo7GKXn,600+5,Normal,,,rapid,,,,,1019,114,761,,,rapid,,,,,1189,143,922
+RocketZapdos,mordicus,2069,2070,1-0,Pirc Defense,B07,https://lichess.org/AlKQVVKK,300+0,Normal,,,bullet,,,,,31,1,31,,,blitz,2149.0,2124.0,2255.0,,6734,628,4827
+hikokokokoko,hamburg_nights,2051,2249,0-1,Zukertort Opening: Tennison Gambit,A06,https://lichess.org/P9nS02oq,60+0,Time forfeit,,,bullet,,,,,355,20,341,,,bullet,,,,,14873,901,10615
+staryzgred,ahmetrasay,2080,1974,1-0,Scandinavian Defense: Main Line,B01,https://lichess.org/rvsQtWQn,600+0,Normal,,,blitz,,,,,3680,285,1517,,,rapid,,,,,2693,311,2648
+Grewia,Kristensen,1977,2122,0-1,"French Defense: Winawer Variation, Advance Variation",C16,https://lichess.org/A8eP4T8F,900+15,Normal,,,bullet,1980.0,2047.0,2111.0,2089.0,13548,941,23838,,,unknown,,,,,0,0,0
+ducharnel,gambitodorei,2119,2170,0-1,"Sicilian Defense: Closed Variation, Traditional",B25,https://lichess.org/zTFL40uy,180+0,Normal,,,blitz,2030.0,1856.0,,,41215,4936,39860,,,blitz,,,,,9679,1592,9240
+Analgesico,Domostroi,2096,2066,0-1,Queen's Pawn Game: Mason Attack,D00,https://lichess.org/mGwQYswI,180+0,Normal,,,blitz,2037.0,2040.0,,,17612,1925,19814,,,unknown,,,,,0,0,0
+gmjeff,RogerMore,2196,2103,1-0,Queen's Pawn Game #2,D00,https://lichess.org/qUEv45Ty,600+0,Time forfeit,,,bullet,,,,,409,47,427,,,blitz,1722.0,1991.0,2051.0,,11128,674,9398
+bobjm,yzerman,2406,2217,1-0,Queen's Gambit Declined: Queen's Knight Variation,D31,https://lichess.org/68M8D3J1,180+2,Normal,,,rapid,,,,,97,1,16,,,blitz,2097.0,2154.0,,,26639,2350,16409
+billyparham,nikipaso,2018,2006,1-0,Nimzo-Larsen Attack: Modern Variation #3,A01,https://lichess.org/Cmi98C87,180+0,Time forfeit,,,bullet,2046.0,,2169.0,,16351,1592,15342,,,unknown,,,,,0,0,0
+Pinoychessmaster,Cranmob,2245,2319,0-1,Scotch Game: Classical Variation,C45,https://lichess.org/mmE9twyo,180+0,Normal,,,blitz,,,,,549,77,939,,,blitz,,,,,4382,301,2612
+TossIMBA,dougthehead,2269,2093,1-0,Sicilian Defense: Najdorf Variation,B90,https://lichess.org/eCdL5chg,180+1,Normal,,,blitz,,,,,9263,445,3854,,,bullet,,,,,5116,388,5030
+packattack737,Fanatist,1844,2238,0-1,"English Opening: Symmetrical Variation, Normal Variation",A34,https://lichess.org/AwRs9VE9,60+0,Time forfeit,,,bullet,,,,,12017,544,16020,,FM,bullet,,2308.0,,,28555,1753,8119
+goran_milosevic,bilguun2007,2195,1933,1-0,Sicilian Defense: Staunton-Cochrane Variation,B20,https://lichess.org/8TFXkmB2,600+0,Normal,,,blitz,,,,,5624,386,2193,,,rapid,,,,,128,12,105
+wendi,JeanValjeanX,1971,2033,1/2-1/2,Hungarian Opening: Slav Formation,A00,https://lichess.org/Zulx28qi,600+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+POUYA123456,matetechnique,2111,2209,0-1,Pirc Defense,B07,https://lichess.org/AMsxjlrf,180+0,Normal,,,blitz,,,,,1226,139,2391,,,blitz,,,,,8929,810,7849
+hg1015,chessforce,2007,2137,0-1,English Opening: Anglo-Indian Defense,A15,https://lichess.org/YtJz3gTY,120+0,Normal,,,bullet,,,,,51,1,5,,,blitz,,,,,8313,1256,9320
+korshar,fantombug,2059,1974,1-0,King's Pawn Game: Nimzowitsch Defense,B00,https://lichess.org/6XkBz55E,180+0,Normal,,,blitz,,,,,1127,101,947,,,blitz,,1775.0,,,7196,277,7985
+Elphinstone,evilcoyote,2169,2222,0-1,"Slav Defense: Czech Variation, Krause Attack",D17,https://lichess.org/cCNUdHyV,300+0,Normal,,,puzzle,,,,,309,22,118,,,unknown,,,,,0,0,0
+Danippov,erindreki,2469,2635,0-1,Queen's Pawn Game: Zukertort Variation,D02,https://lichess.org/sGCjjIe4,30+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,12747,999,6256
+jailtoncampos,TheHouseThe,1958,2068,1-0,"Gruenfeld Defense: Three Knights Variation, Paris Variation",D94,https://lichess.org/2YYJQlQK,180+0,Time forfeit,,,blitz,2111.0,2110.0,2258.0,,16536,1554,12689,,,bullet,2377.0,2306.0,,,18266,1504,13621
+francomo,inge_7000,2210,1946,1-0,Pirc Defense: Classical Variation,B08,https://lichess.org/JuO9y3uD,60+8,Normal,,,blitz,,,,,53,1,28,,,unknown,,,,,0,0,0
+Supelyel,Ludision,2169,2014,1-0,Sicilian Defense: Hyperaccelerated Dragon,B27,https://lichess.org/ABilH2bK,60+1,Normal,,NM,bullet,2645.0,2400.0,,,35144,1782,15331,,,unknown,,,,,0,0,0
+WarriorStar,Zhang,2227,1864,0-1,"Sicilian Defense: Scheveningen Variation, Modern Variation #3",B83,https://lichess.org/C5Q6WLNT,900+0,Normal,,,rapid,,,,,54,0,27,,,rapid,,,,,1760,79,32
+a1300,migarbi,2034,2048,0-1,Queen's Gambit Declined: Queen's Knight Variation,D31,https://lichess.org/imzv8bRx,480+0,Normal,,,unknown,,,,,0,0,0,,,rapid,,1835.0,1935.0,,12989,1595,15185
+dinke68,juju-33,2054,2030,1-0,Scandinavian Defense: Main Line,B01,https://lichess.org/aT9hs0z1,180+0,Normal,,,blitz,2273.0,2132.0,1815.0,,4439,319,2963,,,blitz,,,,,1768,269,1602
+FlyingDropKick,Pc3,2140,2147,1-0,Saragossa Opening,A00,https://lichess.org/XZyjXc8M,30+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+juanx7,JohnMadden,1863,2247,0-1,Sicilian Defense: Jalalabad Variation,B27,https://lichess.org/zBJh4Gh6,60+0,Normal,,,bullet,2146.0,2057.0,,,12185,1064,11925,,,bullet,,,,,6806,148,3582
+rallye,vojpet,2202,2217,0-1,Nimzo-Larsen Attack: Modern Variation #2,A01,https://lichess.org/dHRpZ3cJ,180+2,Normal,,,blitz,,,,,2951,676,4182,,,puzzle,,2202.0,,,1283,294,1392
+jupeq,BeepBeepImAJeep,2007,2783,0-1,Danish Gambit,C21,https://lichess.org/4xSsK1XL,60+0,Normal,,,bullet,,,,,33823,742,23344,,IM,bullet,2875.0,,,,11200,851,2177
+haranski,aila,2073,1993,1-0,"King's Gambit Declined, Queen's Knight Defense",C30,https://lichess.org/AeRD6xyK,300+0,Normal,,,blitz,2105.0,2116.0,,2127.0,3208,287,3109,,,blitz,1705.0,1868.0,2026.0,,35589,4149,29548
+tamik,sodel,2418,2375,1/2-1/2,Sicilian Defense: Hyperaccelerated Dragon,B27,https://lichess.org/aJOBZ6Wr,180+0,Normal,,,blitz,,2405.0,,,25299,4941,17943,,,blitz,,2301.0,2325.0,,32221,6225,23897
+Vadimovich,kunderiano,2259,2224,0-1,"French Defense: MacCutcheon Variation, Lasker Variation",C12,https://lichess.org/3re1txqj,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2274.0,2224.0,,,16609,1289,16593
+maris88,pepi_1800,2124,1925,1/2-1/2,Slav Defense,D10,https://lichess.org/SDrPisPt,300+5,Normal,,,blitz,,2121.0,,,1273,224,1416,,,rapid,,,,,3654,295,3335
+lotofacil,boye,1987,2204,0-1,"Queen's Pawn Game: Torre Attack, Gossip Variation",D03,https://lichess.org/63QBMBlT,300+5,Normal,,,blitz,,,,,874,112,1294,,,unknown,,,,,0,0,0
+lesia,korov55,1920,2081,0-1,"French Defense: Exchange Variation, Monte Carlo Variation",C01,https://lichess.org/b1Wldi1O,180+2,Normal,,,blitz,,,,,1626,120,985,,,blitz,,,,,17342,2516,15724
+RicardOmonstro,RrealSquare,1952,2059,0-1,"Sicilian Defense: Accelerated Dragon, Modern Variation",B34,https://lichess.org/FlBlDxio,180+0,Normal,,,blitz,1993.0,2082.0,,,8254,634,7395,,,blitz,,2061.0,,,28681,2597,27639
+Airatush74,WinniePuuh,2019,2008,0-1,Borg Defense,B00,https://lichess.org/dUoPi2h2,180+0,Normal,,,blitz,1923.0,2022.0,,,10406,1529,10551,,,bullet,,,,,6729,376,6759
+pshlos_007,NightM,2138,2014,1-0,Slav Defense: Exchange Variation,D10,https://lichess.org/fuXOqWBV,120+3,Normal,,,bullet,,,,,27669,1159,24969,,,bullet,,,,,1162,131,1373
+Dymitskiy,ostap32,2055,1948,1/2-1/2,Philidor Defense #2,C41,https://lichess.org/wt95rFNo,600+0,Normal,,,blitz,,1780.0,2144.0,,31526,2769,29817,,,blitz,,,,,9377,763,9492
+edixon29,mensob,1998,2109,0-1,Queen's Gambit Refused: Marshall Defense,D06,https://lichess.org/7KU1g5SQ,180+0,Normal,,,blitz,,,,,3445,344,3174,,,blitz,2224.0,2219.0,2325.0,,15479,1801,9397
+JekkuNaama,Siana,2633,2787,0-1,London System,A48,https://lichess.org/E1E4FCLp,60+0,Normal,,,bullet,2601.0,2457.0,,,18390,1374,8640,,GM,bullet,,,,,1022,42,259
+MikiLazovic,kostan,2124,1954,1-0,Sicilian Defense: McDonnell Attack,B21,https://lichess.org/KMe45iLu,300+2,Time forfeit,,,blitz,,,,,2770,237,1459,,,rapid,,,,,370,38,335
+hax123,DJA,1983,2094,0-1,London System,A48,https://lichess.org/itqsisne,600+0,Normal,,,blitz,,2021.0,,,2721,200,2756,,,blitz,2278.0,2141.0,,,18624,1667,17750
+dezzionChess,cocoarg,2100,2254,0-1,Zukertort Opening: Lisitsyn Gambit,A04,https://lichess.org/GUOLrZmp,30+0,Normal,,,bullet,,,,,2345,190,2224,,,bullet,2263.0,,,,40413,3019,35817
+FelixNL,gravihouse,2003,1999,1-0,Old Benoni Defense,A43,https://lichess.org/Eh6JB15S,30+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+Argonn3007,daviiiiiidzzzzzz,2195,2174,0-1,"Benoni Defense: Classical Variation, New York Variation",A70,https://lichess.org/5LCMWqRT,180+0,Normal,,,bullet,,,,,27809,2411,20462,,,blitz,,,,,822,58,603
+Arsenicum7,zembelek,2104,2072,1-0,"Sicilian Defense: Najdorf Variation, Opocensky Variation",B92,https://lichess.org/nICvmn0B,600+0,Normal,,,blitz,,,,,9561,786,7608,,,blitz,,,,,14351,916,8346
+ChessBoy_99,cheesecakemate,2473,2288,1-0,Hungarian Opening: Indian Defense,A00,https://lichess.org/qHSepCLe,60+0,Normal,,LM,bullet,,,,,6377,302,2602,,,unknown,,,,,0,0,0
+faramir,MoorSoldaten,1970,2280,1-0,Modern Defense: Standard Line,B06,https://lichess.org/ewZmBWD0,180+2,Time forfeit,,,bullet,2159.0,2105.0,,,26893,2649,26455,,,blitz,2302.0,2310.0,,,9632,944,4407
+antoniobo62,Jerezev,1839,2232,0-1,Vienna Game: Vienna Gambit,C25,https://lichess.org/ZEy5NXj0,180+0,Normal,,,bullet,2155.0,1907.0,,,26745,1491,25517,,,blitz,,2117.0,,,18182,2429,17619
+saddam_disney,czento53,1941,2073,0-1,Sicilian Defense: Smith-Morra Gambit #2,B21,https://lichess.org/isjBRRbm,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2121.0,2089.0,,,1807,171,1548
+bb8,segevsg,1956,2050,0-1,Sicilian Defense: Bowdler Attack,B20,https://lichess.org/haJHCeSa,0+1,Time forfeit,,,bullet,2201.0,,,,11086,1010,11205,,,unknown,,,,,0,0,0
+AjedrezNomada,Monterizo,2107,2089,1-0,"Sicilian Defense: Modern Variations, Tartakower",B53,https://lichess.org/F2mSJXy7,900+0,Normal,,,bullet,2215.0,2000.0,2005.0,2131.0,18766,1528,18888,,,puzzle,,,,,2379,264,2539
+Vedius,loveol,2021,2019,1-0,Old Benoni Defense,A43,https://lichess.org/9oTD2Dtg,180+0,Time forfeit,,,blitz,,,,,962,104,719,,,rapid,,,,,3314,179,1968
+chunkylover00,MagnusMinor,2143,1872,1-0,English Defense #2,A40,https://lichess.org/CgyqwADr,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,18945,2048,26251
+IsolatedPun-Youtube,Taurinchess74,1950,2103,1-0,French Defense: Exchange Variation,C01,https://lichess.org/n9QxuNbP,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,510,39,257
+shammies,karlos_korona,2249,2011,1-0,Dutch Defense: Classical Variation,A92,https://lichess.org/sp3xAtn8,900+2,Normal,,,blitz,2266.0,2269.0,2404.0,,26614,2141,23043,,,blitz,1939.0,1990.0,,,2861,181,2980
+Doudous34,blablub,2213,2126,1-0,Caro-Kann Defense: Breyer Variation,B10,https://lichess.org/XNkDbYQP,240+0,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,,,,,27976,2937,15368
+Bjorgvin1,usuarioconnombre,1885,2452,1/2-1/2,Slav Defense: Chameleon Variation,D15,https://lichess.org/Sp2PjBy8,180+0,Normal,,,bullet,2105.0,2107.0,,,6163,411,5893,,,unknown,,,,,0,0,0
+GMIGURNYS,MatiesTugores,2081,1943,1-0,French Defense: Knight Variation,C00,https://lichess.org/hy1zV8Qz,0+1,Time forfeit,,,bullet,2237.0,2025.0,,,37421,3069,44089,,,puzzle,,,,,2157,108,1637
+suni_11,morfolideo_sacco,2245,2046,1-0,Sicilian Defense: Four Knights Variation,B45,https://lichess.org/e14X90oA,300+0,Normal,,,blitz,,,,,953,43,302,,,unknown,,,,,0,0,0
+gawk,Freudlixo,2307,2227,1-0,Zukertort Opening: Slav Invitation,A04,https://lichess.org/woI48vux,60+0,Normal,,,bullet,,,,,3099,125,2265,,,bullet,,,,,7111,314,4339
+Paul-B,RicardOmonstro2,1982,2065,0-1,Trompowsky Attack: Classical Defense,A45,https://lichess.org/1YC7D9i9,300+5,Time forfeit,,,rapid,,,,,5015,1202,4538,,,bullet,,,,,568,44,501
+nodrim,O-Dannyboy,2104,2013,1-0,Trompowsky Attack,A45,https://lichess.org/NQxqlNhq,120+0,Normal,,,puzzle,,,,,12643,590,5517,,,bullet,2201.0,2122.0,,,52196,3054,45717
+winstonl,Tharus,2006,2053,0-1,Bogo-Indian Defense: Wade-Smyslov Variation,E11,https://lichess.org/hofjgsQf,180+0,Normal,,,blitz,2122.0,2068.0,,,11271,1597,10891,,,bullet,,,,,2973,157,1010
+diego_zimba,Albert_Vicario,2014,2293,0-1,Philidor Defense: Lion Variation,C41,https://lichess.org/EkKPOgVJ,300+8,Time forfeit,,,rapid,1796.0,1850.0,2047.0,,4580,403,3942,,,bullet,,,,,1975,179,1212
+gudubettin,azzarrakk,2132,1983,1-0,"Benko Gambit Accepted, Pawn Return Variation",A57,https://lichess.org/Yol8lKX6,-,Time forfeit,,,blitz,2053.0,2103.0,,,6152,924,4683,,,antichess,,,,,32815,1300,16703
+Astrilla,blade2012,2098,2041,1-0,Scandinavian Defense: Modern Variation #2,B01,https://lichess.org/NcFpxVge,300+0,Normal,,,blitz,,2151.0,2217.0,,17657,1014,7395,,,blitz,1965.0,2084.0,2304.0,,4160,407,2601
+log2309,vardapet,2045,2203,0-1,"Danish Gambit Declined, Sorensen Defense",C21,https://lichess.org/jD2GUB7e,180+0,Normal,,,blitz,,,,,3296,310,2355,,,bullet,2444.0,,,,9523,921,8165
+GRIGORICH,meyil72,2277,2043,0-1,Slav Defense: Modern,D11,https://lichess.org/c98VjLDX,300+5,Time forfeit,,,rapid,,2230.0,,,6839,1113,4687,,,blitz,,,,,12317,655,7287
+Javierjmc,erikelrojo,1931,2216,0-1,"Ruy Lopez: Berlin Defense, l'Hermet Variation",C67,https://lichess.org/CFbS3rEY,600+0,Time forfeit,,,blitz,1809.0,2083.0,,,3793,493,2871,,,blitz,,,,,8124,515,2228
+alrawy,DD_DD_DD,2050,2021,1-0,"English Opening: Agincourt Defense, Catalan Defense",A13,https://lichess.org/8qJ1MLat,600+0,Normal,,,blitz,,,,,4195,206,1702,,,unknown,,,,,0,0,0
+aquiles88,CarlosEstevez,2119,2207,1-0,Hungarian Opening: Slav Formation,A00,https://lichess.org/7IMM0IFL,180+0,Time forfeit,,NM,blitz,2304.0,2259.0,,,11447,1107,4576,,,bullet,2277.0,2167.0,,,32985,2620,29615
+Mamin_Sin,WBGM95,2024,2011,1-0,King's Pawn,B00,https://lichess.org/vnkn0Fr7,60+0,Abandoned,,,bullet,,,,,1910,99,1222,,,bullet,,,,,929,58,626
+everyfuknametaken,Allirey,2187,2245,0-1,French Defense: La Bourdonnais Variation,C00,https://lichess.org/GDuNaWN6,180+0,Time forfeit,,,blitz,,,,,1488,140,1510,,,unknown,,,,,0,0,0
+sak64,KurisuMakise,1933,2165,0-1,"Gruenfeld Defense: Three Knights Variation, Burille Variation, Reversed Tarrasch",D94,https://lichess.org/AxFjtsij,300+0,Time forfeit,,,puzzle,1843.0,1962.0,2037.0,,10386,501,7864,,FM,blitz,,,,,3327,311,1571
+Risen3,glendayzar,1977,2113,1-0,Sicilian Defense: Old Sicilian,B30,https://lichess.org/1T9vFDti,180+0,Normal,,,blitz,,,,,945,96,2272,,,bullet,,,,,3185,214,2427
+goles2,GeorgeWBush,1816,2231,0-1,Scandinavian Defense: Gubinsky-Melts Defense,B01,https://lichess.org/E8iT4Pgv,480+4,Normal,,,rapid,,,,,970,67,1498,,,bullet,2360.0,2103.0,2323.0,2140.0,107105,4245,31185
+thony5,jorquerov,1909,2121,0-1,Sicilian Defense: Bowdler Attack,B20,https://lichess.org/7GOj8bH5,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,9357,610,6434
+ngvking,james_9,1923,2097,0-1,Scandinavian Defense: Gubinsky-Melts Defense,B01,https://lichess.org/zShzvXWg,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,,,,,806,60,795
+TROXEN,DonJohn,1991,2046,1-0,Hungarian Opening,A00,https://lichess.org/bekR0d6K,300+0,Normal,,,puzzle,,,,,1295,102,1332,,,unknown,,,,,0,0,0
+Bayron7,alifant,1774,2259,0-1,London System,A48,https://lichess.org/mj2H5r5m,60+0,Time forfeit,,,bullet,,,,,2928,84,3035,,,puzzle,,,,,7943,276,4481
+sfwc,Betaa97,2012,2039,1-0,Indian Game: London System,A46,https://lichess.org/R9liHEHs,300+0,Normal,,,blitz,1852.0,2012.0,,,9102,841,8242,,,bullet,,,,,3512,179,2913
+houdini1ply,Amun,2214,1881,1-0,Scandinavian Defense: Modern Variation,B01,https://lichess.org/XCDx7ViZ,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,,1909.0,1935.0,,29416,1742,27461
+totoloto,khelaslou,1986,2044,0-1,Rat Defense: English Rat,A41,https://lichess.org/9LFz5N0M,240+9,Normal,,,puzzle,,2052.0,2136.0,,2848,356,2259,,,blitz,,1988.0,,,36110,3775,38044
+Confacimus,texttire,2235,2068,0-1,Zukertort Opening: Vos Gambit,A04,https://lichess.org/Mks7Eeqk,30+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+p-wnattack,Specialolympics,1991,2027,0-1,"English Opening: Symmetrical Variation, Botvinnik System",A36,https://lichess.org/6034BdMp,600+8,Time forfeit,,,unknown,,,,,0,0,0,,,puzzle,,,,,561,53,759
+MeneerMandje,INDIANCHESSKING,2389,1933,1-0,Zukertort Opening: Queenside Fianchetto Variation,A04,https://lichess.org/f5tky0yu,0+1,Time forfeit,,GM,bullet,3075.0,2636.0,,,30511,2100,13356,,,unknown,,,,,0,0,0
+Berder,TheSherif,2011,1991,0-1,Russian Game: Stafford Gambit,C42,https://lichess.org/TSt6qlwH,1500+10,Time forfeit,,,bullet,1909.0,,,,7454,206,7351,,,unknown,,,,,0,0,0
+Urnik,VojFromMars,2299,2220,1-0,Italian Game: Two Knights Defense #2,C55,https://lichess.org/06n4jweC,180+0,Normal,,,blitz,,,,,165,15,116,,,blitz,2113.0,2125.0,,,8083,1079,5774
+serkanatis,wildercoto,2039,1973,1/2-1/2,Borg Defense: Borg Gambit,A40,https://lichess.org/5Dxaw80C,600+0,Normal,,,blitz,,,,,10991,1142,11642,,,bullet,,,,,8224,559,9206
+jethrotool56,Ludovico-Technique,2262,1749,1-0,Queen's Pawn,A40,https://lichess.org/gqLEel8R,300+0,Normal,,,blitz,1987.0,2204.0,2501.0,,18735,799,3438,,,unknown,,,,,0,0,0
+slipenko,chessrojas,2077,1995,0-1,Caro-Kann Defense,B10,https://lichess.org/9k0klfKa,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,2212.0,2091.0,2106.0,,8210,964,4354
+stevefillion,timetodie,2082,2030,0-1,French Defense: Chigorin Variation,C00,https://lichess.org/vhUEuZwx,300+0,Normal,,,blitz,,2351.0,,,8612,1765,8100,,,blitz,,,,,12,0,13
+oohuuh,mabulghe,2135,2080,1-0,Scandinavian Defense,B01,https://lichess.org/ng2H8aat,180+0,Time forfeit,,,blitz,,,,,2215,146,1642,,,bullet,,,,,972,60,899
+fondfaced,Talriva,2018,1990,1/2-1/2,Sicilian Defense: Snyder Variation,B20,https://lichess.org/NTUTsbSc,180+2,Normal,,,unknown,,,,,0,0,0,,,blitz,,2181.0,,,5297,632,4206
+ToniKroos,rca05f,2180,1860,1-0,"French Defense: Tarrasch Variation, Closed Variation, Main Line",C06,https://lichess.org/SgDutAnd,180+0,Time forfeit,,,blitz,,,,,1850,151,910,,,puzzle,,1762.0,,,2666,181,2430
+TJK125HQF,Bozin,2066,1956,1-0,"King's Gambit Declined, Classical Variation",C30,https://lichess.org/Og5ZLptw,300+10,Normal,,,rapid,,,,,7530,1173,7451,,,puzzle,,,,,572,30,407
+Luminosity,eduardo_gonzalez,2081,1941,1-0,Vienna Game,C27,https://lichess.org/M5wlstmc,60+0,Time forfeit,,,bullet,,,,,70780,3518,53358,,,bullet,,,,,29543,705,32190
+soos,ktb1770,2040,2004,0-1,Sicilian Defense: Smith-Morra Gambit #2,B21,https://lichess.org/pfZdZr5S,600+0,Normal,,,bullet,1886.0,1904.0,,,12057,869,13416,,,rapid,,,,,1629,118,2681
+Brocadox,Gambitos88,1886,2282,0-1,Pirc Defense,B07,https://lichess.org/uoh9uXgo,120+2,Time forfeit,,,blitz,1960.0,,,,2578,210,2554,,,unknown,,,,,0,0,0
+BananaDealer,Goodmorningblues,2363,2057,1-0,"Ruy Lopez: Schliemann Defense, Classical Variation",C63,https://lichess.org/ExVJ8UOV,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,276,20,226
+berkay99,oinegue,2039,2176,0-1,Sicilian Defense: Closed #2,B24,https://lichess.org/aSldelHE,180+0,Normal,,,bullet,2460.0,,,,18879,1519,18210,,,bullet,2256.0,2116.0,,,6781,668,6242
+PrepareToLoseBruh,matederei,2332,2302,1-0,"Sicilian Defense: Alapin Variation, Smith-Morra Declined",B22,https://lichess.org/jXfS8OfN,180+0,Normal,,,blitz,,,,,112,15,42,,,unknown,,,,,0,0,0
+goltrpoat,FatihKulaber,2020,1983,1-0,Semi-Slav Defense: Accelerated Move Order,D31,https://lichess.org/XZrxXOkq,180+0,Time forfeit,,,blitz,,,,,4770,405,3919,,,blitz,2075.0,2061.0,,,14790,1467,14752
+khanwer,GameofFrowns,2077,1939,1-0,Dutch Defense: Queen's Knight Variation,A85,https://lichess.org/8uN43mL6,600+0,Normal,,,rapid,,,,,2625,184,1206,,,blitz,,,,,1475,74,1416
+GuillaumeCharron,Troll_Account,2069,1975,1-0,Sicilian Defense: Grand Prix Attack,B23,https://lichess.org/ED9rJ3ST,60+0,Normal,,,bullet,,,,,299,22,185,,,bullet,,,,,790,47,655
+Joselito_XR,alainsoral,2034,2135,1-0,English Opening: Anglo-Gruenfeld Defense,A16,https://lichess.org/jkQBxbLz,120+0,Normal,,,bullet,,,,,671,51,616,,,bullet,,,,,38100,3410,54782
+PokemonPlayer,GMcanty,2322,2328,1-0,Horwitz Defense,A40,https://lichess.org/Nx22gP9t,30+0,Time forfeit,,,crazyhouse,,,,,203,2,129,,FM,bullet,,,,,4326,397,2473
+optokopper,nomoreshoes,2243,2018,1-0,French Defense: Queen's Knight,C00,https://lichess.org/YDfDC2LR,60+0,Time forfeit,,,puzzle,,,,,63324,2039,28772,,,unknown,,,,,0,0,0
+ostapbender1,gbsalvio,1992,2107,0-1,Latvian Gambit: Clam Gambit,C40,https://lichess.org/6Lf1FNbL,180+0,Time forfeit,,,blitz,,,,,4308,219,4131,,,unknown,,,,,0,0,0
+meise,Hell_boy,2299,2217,1/2-1/2,Sicilian Defense: Delayed Alapin Variation,B40,https://lichess.org/gjm986es,180+0,Time forfeit,,,blitz,2418.0,2403.0,,,16456,2221,15069,,,blitz,,,,,256,24,177
+fr3ir3,sheon,2544,2304,1-0,Queen's Indian Defense: Classical Variation,E17,https://lichess.org/JSdaFHcm,180+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+WaterFromStone,kn8mare64,2017,2012,1-0,King's Indian Attack: Symmetrical Defense,A05,https://lichess.org/OzNmbd6s,180+0,Normal,,,bullet,,,,,3069,161,2258,,,unknown,,,,,0,0,0
+SlicedBrain,Puertoaguamar,1915,2168,0-1,Hungarian Opening: Catalan Formation,A00,https://lichess.org/iW96i3oK,30+0,Normal,,,bullet,1858.0,,,,37766,1427,39244,,,unknown,,,,,0,0,0
+DonFulgenzio,Biloute20,2339,2292,0-1,"Sicilian Defense: Classical Variation, Dragon Transfer",B58,https://lichess.org/6m1XMh6X,120+3,Time forfeit,,FM,blitz,,2458.0,,,8883,1646,6420,,,bullet,2132.0,2324.0,,,25154,1552,23090
+Graminho,hm647,1798,2249,0-1,"English Opening: King's English Variation, Two Knights Variation, Reversed Dragon",A22,https://lichess.org/LZzYJ05H,60+2,Normal,,,bullet,2238.0,2068.0,2102.0,,37778,3809,31275,,,bullet,,,,,2666,158,569
+Afilal,jugando90,2052,1949,1-0,Englund Gambit,A40,https://lichess.org/MpZOVUi9,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2245.0,2108.0,,,46804,4744,49987
+anax_makis,raumlich,2196,1819,1-0,"Nimzowitsch Defense: Scandinavian Variation, Bogoljubov Variation, Nimzowitsch Gambit",B00,https://lichess.org/vP8A2tJs,600+0,Normal,,,blitz,,2102.0,,,27599,2969,9958,,,rapid,,,1703.0,,9662,1116,9052
+pursang,Shouldbeworking,2092,2185,0-1,Queen's Pawn Game: Zukertort Variation,D02,https://lichess.org/EE3kYiJz,180+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2302.0,2349.0,,,29780,1466,26354
+Hennns,Farhad4479,2236,1806,0-1,French Defense: Normal Variation,C00,https://lichess.org/GKP9Ujgo,300+0,Time forfeit,,,blitz,2453.0,,,,6995,581,2967,,,blitz,,,,,7496,280,6568
+RickoCaro,Latvian,2014,2014,0-1,Queen's Gambit Declined: Modern Variation,D50,https://lichess.org/5dwMdpol,180+0,Time forfeit,,,blitz,,1972.0,,,23815,646,15133,,,puzzle,2064.0,2037.0,2082.0,,10390,822,9262
+tavomanes,Clikmate,2006,2013,1-0,Robatsch (Modern) Defense,B06,https://lichess.org/4h9rUIgC,180+0,Normal,,,blitz,,,,,26862,2510,18461,,,unknown,,,,,0,0,0
+CrossGP,Sxakamanto,2105,2043,1-0,Zukertort Opening: Queen's Gambit Invitation,A04,https://lichess.org/Lp33mN6i,180+0,Normal,,,bullet,,,,,2138,111,894,,,unknown,,,,,0,0,0
+DamascenoDF,matejbn,2161,2154,0-1,Bird Opening,A02,https://lichess.org/lD5VwdhV,180+0,Normal,,,bullet,,,,,18426,941,11973,,,unknown,,,,,0,0,0
+NoMoreBots,Imwaysmart,1787,2280,1-0,"King's Indian Defense: Fianchetto Variation, Classical Fianchetto",E67,https://lichess.org/zatMRzRJ,600+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+Longhair,Gunnsibeib,2043,2033,1-0,French Defense: Rubinstein Variation,C10,https://lichess.org/hQVIGcBv,300+0,Normal,,,blitz,,,,,23151,2847,20143,,,blitz,,,,,3952,298,3514
+assssss22133,Volapot,1957,2145,1-0,Old Benoni Defense #2,A43,https://lichess.org/i4X7HDFV,180+0,Normal,,,blitz,,,,,3432,437,4766,,,blitz,,1990.0,2192.0,,8452,1177,9645
+grosnez,hkn19,2074,2004,1/2-1/2,French Defense: Exchange Variation,C01,https://lichess.org/lttXEPcx,300+5,Normal,,,blitz,,,,,3628,209,1637,,,bullet,1947.0,1835.0,2062.0,,23420,1837,23370
+vasja2,kotgo,1951,2184,1-0,Caro-Kann Defense: Breyer Variation,B10,https://lichess.org/iPaRDHzs,60+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+rexgb16,StarThanatos,1817,2251,0-1,Pirc Defense: Classical Variation,B08,https://lichess.org/s2oI8BNB,60+0,Normal,,,bullet,2262.0,2093.0,,,10617,637,8896,,,bullet,2473.0,2340.0,2267.0,,31482,2058,17119
+TheChessPawn,chesssn1992,2360,1934,1-0,Zukertort Opening: Sicilian Invitation,A04,https://lichess.org/iItO6x0A,60+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+Pichichoneso,IGottaPoop,1973,2150,0-1,"Dutch Defense: Classical Variation, Ilyin-Zhenevsky Variation, Modern Main Line",A99,https://lichess.org/mhW8Xqw8,180+2,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,692,96,525
+Carbuncle,jausa,2110,1907,0-1,"French Defense: Tarrasch, Open, 4.exd5 exd5",C08,https://lichess.org/H8q09H1Q,180+0,Normal,,,blitz,2063.0,1882.0,1828.0,,36486,2970,33550,,,blitz,,,,,7074,548,12752
+kayhiking,evert,2036,2031,1-0,"Sicilian Defense: Wing Gambit, Marshall Variation",B20,https://lichess.org/ZYRvmhow,60+0,Time forfeit,,,bullet,2222.0,2104.0,2176.0,,29726,1185,25392,,,bullet,,,,,20,1,17
+CHESSMASTEP,Thorzie,2017,2025,0-1,"King's Gambit Accepted, Hanstein Gambit",C38,https://lichess.org/CuVefnZO,900+1,Normal,,,rapid,,,,,1623,115,1195,,,blitz,,,,,1118,80,1261
+wanderlei,frostbitten,2367,2304,0-1,Mexican Defense,A50,https://lichess.org/gS1Fhroh,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+karl333,N3ubau3rGER,1864,2245,0-1,Sicilian Defense: Bowdler Attack,B20,https://lichess.org/f2BI0seu,180+0,Normal,,,blitz,,,,,3741,470,3990,,,unknown,,,,,0,0,0
+MoiRon,totenkopf27,2069,1993,0-1,Bird Opening,A02,https://lichess.org/NkdHBKc6,180+0,Normal,,,bullet,2017.0,2050.0,2005.0,1913.0,33614,2774,24928,,,bullet,,,,,7676,567,7770
+communist23,GoKnight123,2032,2241,0-1,"Italian Game: Two Knights Defense, Polerio Defense, Bishop Check Line",C58,https://lichess.org/VOWdUWx9,180+0,Normal,,,bullet,2491.0,2301.0,,,19441,1128,13107,,,unknown,,,,,0,0,0
+C-efi-Tres,nxst1963,2282,2299,1-0,Philidor Defense: Nimzowitsch Variation #2,C41,https://lichess.org/FfAJCXSB,180+2,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,739,26,611
+NimzoBoe,James369,1613,2440,0-1,Benoni Defense: Old Benoni,A43,https://lichess.org/KojywrgC,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,ultraBullet,,,,,7851,291,3157
+cxecxe,Ded_Atlet_40_let,2324,2092,1-0,French Defense: Steiner Variation,C00,https://lichess.org/mciT7zhI,30+0,Time forfeit,,,bullet,,,,,8375,355,4616,,,bullet,,,,,4415,214,3078
+Aldmuo,chrisstansell,2128,1915,1-0,"King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Advance Line",E66,https://lichess.org/68XDjnIw,180+2,Normal,,,blitz,,,2411.0,,8346,1053,6004,,,bullet,1664.0,,,,24688,365,26726
+chess4life23,lchuza_otro,2380,1734,1-0,"Sicilian Defense: Closed Variation, Traditional",B25,https://lichess.org/xcrk3dpA,60+0,Normal,,NM,bullet,,2197.0,,,9914,379,2624,,,bullet,1691.0,1748.0,,,30281,2038,45541
+Ulqinaku,SIUeChess,2050,1978,1-0,Sicilian Defense: Grand Prix Attack,B23,https://lichess.org/CVKRCHRX,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,3528,203,2026
+heptagon,alcofribas,2281,1738,1-0,Alekhine Defense: Scandinavian Variation,B02,https://lichess.org/VRTl3YG5,60+0,Time forfeit,,,bullet,,,,,31717,2685,13923,,,crazyhouse,,,,,243,7,478
+Vicit,Vicvon,2130,2169,0-1,Pirc Defense #2,B07,https://lichess.org/GIfrRgfs,60+0,Time forfeit,,,bullet,2090.0,,,,13951,581,13912,,,bullet,,,,,4296,170,2458
+vy3RQB5X,Vinchess,2011,2110,0-1,Queen's Pawn Game: Chigorin Variation,D01,https://lichess.org/wmLg5dV5,180+0,Normal,,,blitz,,,,,5528,373,3941,,,bullet,2327.0,2256.0,,,32038,2740,30546
+AxiomsAndProof,clownopening,1972,2153,1-0,Sicilian Defense: Closed,B23,https://lichess.org/tJB1vA8f,60+0,Time forfeit,,,bullet,1950.0,,,,10829,899,12287,,,unknown,,,,,0,0,0
+walllflowerr,breakfastitem,2118,1995,1-0,"Sicilian Defense: Kan Variation, Knight Variation",B43,https://lichess.org/dZQeFiJH,60+0,Time forfeit,,,bullet,,,,,2880,163,2216,,,unknown,,,,,0,0,0
+lichinut,RatDefense,1823,2230,0-1,Hungarian Opening,A00,https://lichess.org/DI2znFLB,0+1,Time forfeit,,,ultraBullet,2175.0,1719.0,,,83163,1892,132812,,,bullet,,,,,3159,88,1035
+Chaliko,ferrisx,2366,1950,1-0,Mikenas Defense: Lithuanian Variation,A40,https://lichess.org/ar0ehmTh,30+0,Normal,,,bullet,,,,,6711,367,3479,,,bullet,2324.0,,,,70287,4826,54761
+Undvik,gioGo,2170,2299,1-0,Scandinavian Defense: Schiller-Pytel Variation,B01,https://lichess.org/GRtpZVUX,60+1,Normal,,,bullet,,,,,908,58,620,,NM,blitz,2702.0,2470.0,2501.0,,12782,1439,12797
+eflc,IvanMartins,2004,2005,1-0,"Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation",B21,https://lichess.org/q08mhaZb,900+30,Normal,,,crazyhouse,,1945.0,2133.0,1466.0,12791,134,7230,,,bullet,1912.0,1736.0,,,6580,596,6182
+MSC_Govahi,evan40,1998,2133,0-1,Queen's Gambit Refused: Marshall Defense,D06,https://lichess.org/QdwXJTUq,45+0,Time forfeit,,,bullet,,,,,4641,220,6552,,,unknown,,,,,0,0,0
+Mcforever,sund987,2089,1934,1-0,English Opening: Anglo-Scandinavian Defense,A10,https://lichess.org/Annx5Nmv,600+5,Time forfeit,,,bullet,,,,,897,52,370,,,blitz,,,,,7819,768,6690
+gmpokerin,Kuhfighter,1969,2193,1-0,"Sicilian Defense: Kan Variation, Modern Variation",B42,https://lichess.org/I6OUSPbJ,300+0,Time forfeit,,,bullet,2090.0,2052.0,,,1916,141,1883,,,blitz,2404.0,2342.0,,,9519,1525,6366
+chixmate,Belcea64,1960,2069,0-1,"King's Indian Defense: Orthodox Variation, Classical System, Neo-Classical Line",E99,https://lichess.org/lwSmAkB8,180+2,Normal,,,blitz,2350.0,2247.0,,,3649,380,3147,,,unknown,,,,,0,0,0
+Alerezi,xadrezdapraia,1818,2258,0-1,Caro-Kann Defense,B10,https://lichess.org/bqCW1R5s,60+0,Time forfeit,,,bullet,,,,,3243,173,3078,,,blitz,,,,,7536,707,6809
+minimiseregret,pancholei,2324,2066,1-0,Old Indian Defense,A53,https://lichess.org/qN4gzoZ8,180+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+adaptation123,potpiedude,2196,2489,0-1,Semi-Slav Defense: Accelerated Move Order,D31,https://lichess.org/MIGpqhBp,60+0,Time forfeit,,,bullet,2353.0,2214.0,,,3434,202,1929,,NM,bullet,2564.0,,,,16903,640,5773
+acrvc,abcdefghijk1234,2068,2391,1/2-1/2,Ruy Lopez: Berlin Defense #2,C65,https://lichess.org/QHFUsqTB,900+10,Normal,,,bullet,1268.0,1942.0,,,5786,355,6116,,,rapid,,,,,661,59,83
+Roverso,mariana-monje,2094,2029,0-1,Queen's Pawn,A40,https://lichess.org/tbsB4eu2,60+2,Normal,,,bullet,2501.0,2119.0,,,5065,462,4053,,,blitz,,,,,1718,92,1841
+pajaro,chessprophecy,2056,2232,1-0,"English Opening: Agincourt Defense, Keres Defense",A14,https://lichess.org/8Dr7YXTZ,60+0,Normal,,,bullet,,,,,10181,974,11584,,,unknown,,,,,0,0,0
+honorarycitizen,AncientRo,1966,2069,1-0,"Ruy Lopez: Morphy Defense, Modern Steinitz Defense #2",C71,https://lichess.org/lcXZQZMP,60+0,Normal,,,bullet,2137.0,1983.0,,,83416,8108,71390,,,bullet,2200.0,2017.0,2034.0,,20265,1275,14991
+mochocolototo,Dark-Lord,2044,1971,1-0,Zukertort Opening: Sicilian Invitation,A04,https://lichess.org/A97cF7Ur,180+4,Normal,,,blitz,,,,,12028,1529,10677,,,blitz,,2036.0,,,2691,281,2565
+AXELdesigner,mpomar,2179,2123,1-0,Queen's Pawn Game: London System,D02,https://lichess.org/QcqWIvGy,180+2,Time forfeit,,,blitz,,,,,2023,147,1157,,,blitz,,,,,8273,944,6832
+Bri26,BolagasinovB,2231,1853,1-0,Philidor Defense #2,C41,https://lichess.org/G0SWe2Jl,600+0,Normal,,,puzzle,,,,,68,0,5,,,rapid,,,,,953,92,2158
+strongesttt,bastya_e4,1963,2288,0-1,"Queen's Indian Defense: Classical Variation, Traditional Variation",E17,https://lichess.org/n80PpPtR,180+0,Time forfeit,,,blitz,,2047.0,,,9765,807,11045,,,unknown,,,,,0,0,0
+Artioucha,PawnShifter,2398,1832,1-0,Modern Defense: Standard Line,B06,https://lichess.org/DtO1RwKN,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,1719.0,,,6067,445,6443
+oolongish,GMercure,2030,1997,0-1,English Opening,A10,https://lichess.org/kVwR7qfR,240+0,Normal,,,bullet,,1983.0,2039.0,,7636,720,8871,,,blitz,,,,,1750,230,1538
+Cortador,Miguoel,2429,2552,1/2-1/2,English Opening: Caro-Kann Defensive System,A11,https://lichess.org/V6kghbxH,180+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+susam,chopigb,2144,2111,1-0,King's Indian Attack: Omega-Delta Gambit,A07,https://lichess.org/FjZBLoGH,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2365.0,2298.0,,,27704,1506,22663
+LoysonCosta,remulo,1938,2148,0-1,Slav Defense: Alapin Variation,D16,https://lichess.org/fJvkHPUt,300+3,Normal,,CM,blitz,,1960.0,2145.0,2004.0,7144,743,4400,,,unknown,,,,,0,0,0
+CarlosAttack,Granter,2033,2032,0-1,Trompowsky Attack,A45,https://lichess.org/AS3z90Kz,180+0,Normal,,,bullet,2453.0,2227.0,,,31776,2703,28531,,,blitz,,,,,3563,294,3865
+Magnushoracio,miguelhermoz,2178,1942,1-0,Queen's Pawn Game: Zukertort Variation,D02,https://lichess.org/ZtTIYPNQ,300+5,Normal,,,unknown,,,,,0,0,0,,,rapid,,1532.0,1959.0,,13717,1807,19770
+Thiago_Siqueira,Phoenix_Reborn,1821,2213,0-1,French Defense: Normal Variation,C00,https://lichess.org/asBa57A4,30+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+theproguy88,ADZ124,2125,1984,0-1,French Defense: Normal Variation,C00,https://lichess.org/baGj1bEl,30+0,Time forfeit,,CM,bullet,,,,,3074,267,1112,,,bullet,,,,,1242,59,972
+papasi,MadKingGeorge,2284,2097,1/2-1/2,Old Indian Defense,A41,https://lichess.org/6wiiuuMx,30+0,Time forfeit,,IM,bullet,3003.0,2630.0,2548.0,,40977,5911,26743,,,bullet,,,,,15735,930,12168
+ARIY7777,Tomsand,2220,2188,0-1,"Sicilian Defense: Najdorf Variation, Poisoned Pawn Variation",B97,https://lichess.org/1Ygzd8Dm,180+2,Time forfeit,,,blitz,,,,,11290,658,13059,,,bullet,,,,,2360,182,1982
+Prokofiev,lancerisimo,2369,2253,1-0,"King's Indian Defense: Petrosian Variation, Stein Defense",E92,https://lichess.org/RudWV34g,180+0,Normal,,,blitz,,2647.0,,,22270,2609,8497,,,blitz,2224.0,2291.0,2248.0,,31984,2620,19631
+Moscow43,GoGSWarriors_30,2809,2662,1-0,"English Opening: Agincourt Defense, Catalan Defense",A14,https://lichess.org/nVBjPX8B,30+0,Time forfeit,,,unknown,,,,,0,0,0,,LM,bullet,,,,,4067,175,1803
+DST001,funk_master,2288,2022,1-0,Old Benoni Defense,A43,https://lichess.org/EYS2aE7V,30+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2012.0,1768.0,,,9986,695,11666
+Frankovich,LoscLille,2047,2031,1/2-1/2,Neo-Gruenfeld Defense: Ultra-delayed Exchange Variation,D79,https://lichess.org/p7OWSc9w,300+0,Normal,,,blitz,,2239.0,,,5013,446,3901,,,unknown,,,,,0,0,0
+krysu,Lightsss,1959,2181,1-0,Modern Defense: Standard Defense,B06,https://lichess.org/pWDSJWvM,180+2,Time forfeit,,,blitz,,,,,5996,345,4060,,,unknown,,,,,0,0,0
+milad1367,SKUsce,2128,2097,0-1,Indian Game: East Indian Defense,E00,https://lichess.org/1ipfzM5M,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,,,,,2791,261,3001
+Fast_and_Furious,Demobilization,1988,2098,1-0,Queen's Pawn Game: Colle System,D04,https://lichess.org/azoXbAzG,600+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,2031,52,757
+JuicyKetchup,piotrpetrovic,2239,2177,0-1,Saragossa Opening,A00,https://lichess.org/SRq3VBhA,60+0,Time forfeit,,,bullet,2373.0,2217.0,,,20913,1612,22248,,,blitz,,2112.0,,,5789,713,5155
+NeRRaNT,gooornik07,1889,2175,0-1,Owen Defense,B00,https://lichess.org/itREEUFg,30+0,Time forfeit,,,bullet,,,,,1690,80,1490,,,bullet,,,,,13110,1039,9910
+vonstumm,IIURIIUBICURII4ME,2114,2397,1-0,Four Knights Game: Italian Variation,C46,https://lichess.org/ilYj5FhE,300+5,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+enigmahack,The_Wanderer,1881,2120,0-1,Rat Defense: Small Center Defense,C00,https://lichess.org/FQiYhLWg,30+0,Time forfeit,,,bullet,,,,,3579,300,3803,,,unknown,,,,,0,0,0
+BrianWall,cagtay,2158,1878,1-0,Robatsch (Modern) Defense,B06,https://lichess.org/9BsWgz2S,180+0,Time forfeit,,,blitz,,,,,971,92,397,,,bullet,,,,,13696,643,13259
+DeadBeatDad,MateInSixteen,2106,2025,0-1,"French Defense: Advance Variation, Nimzowitsch System",C02,https://lichess.org/GKBighhF,180+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2345.0,,,,7302,599,5574
+Yamilcis,chunky-pawn,2056,1946,0-1,"English Opening: Symmetrical Variation, Anti-Benoni Variation, Spielmann Defense",A32,https://lichess.org/sb06As01,60+1,Normal,,,bullet,,,,,16101,1703,10820,,,bullet,2146.0,2091.0,2162.0,,11243,1005,9607
+infernumcaeli,leonrades,1918,2100,0-1,Sicilian Defense: Closed Variation,B23,https://lichess.org/FwF7sjy5,30+0,Time forfeit,,,bullet,,,,,3137,158,3423,,,unknown,,,,,0,0,0
+Sheepay,JackBauer,1884,2126,0-1,"Queen's Gambit Declined: Semi-Tarrasch Defense, Exchange Variation",D41,https://lichess.org/wVMC6Mpq,300+0,Normal,,,unknown,,,,,0,0,0,,FM,blitz,,,,,9939,801,5670
+Maartenols,JohnMiguel,2034,2101,0-1,Caro-Kann Defense,B12,https://lichess.org/W0uUTNZj,60+0,Time forfeit,,,bullet,2355.0,2134.0,,,41108,2664,31941,,,bullet,,,,,6962,419,5262
+Kerbouchard,Wedmakk,2039,2054,1-0,"Dutch Defense: Classical Variation, Blackburne Attack",A91,https://lichess.org/AjzVQzYR,60+0,Time forfeit,,,bullet,,,,,3280,168,2793,,,bullet,,,,,4535,188,3625
+shash19,floydian94,1986,2110,0-1,Sicilian Defense: Wing Gambit,B20,https://lichess.org/pXikfOAu,900+0,Normal,,,blitz,,,,,3449,241,3969,,,rapid,2169.0,2075.0,2304.0,,8574,613,4310
+ElViejoDeArriba,mossdebs,2205,1908,1-0,Nimzo-Indian Defense: Ragozin Variation,E20,https://lichess.org/ORJ1eonv,180+2,Normal,,,blitz,2199.0,2160.0,,,13885,2291,5567,,,blitz,2085.0,2015.0,2148.0,,25435,1509,15981
+luitek7,cyclo,1985,2049,0-1,Scandinavian Defense: Modern Variation #2,B01,https://lichess.org/tAJQwS30,180+0,Time forfeit,,,blitz,,,,,7418,726,7325,,,blitz,,,,,14111,1171,12685
+itsmagic,bernardo_cklay,2286,1952,0-1,"Sicilian Defense: Najdorf Variation, Adams Attack",B90,https://lichess.org/fZpBV2qW,300+5,Normal,,,unknown,,,,,0,0,0,,,rapid,,,,,50,0,18
+frenchpolitician,fsanna,2059,2000,0-1,Vienna Game: Vienna Gambit,C25,https://lichess.org/4VVb0k7m,30+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2134.0,,,,47017,1065,54505
+tygerty,mutus,2224,1810,1-0,Queen's Pawn Game: Levitsky Attack,D00,https://lichess.org/6hrqgAz6,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+LetsChessL,sedore,1986,2025,0-1,Caro-Kann Defense,B11,https://lichess.org/MNBsw8EE,60+0,Normal,,,bullet,,2071.0,,,25397,1273,12361,,,bullet,2324.0,2207.0,,,35178,2101,25999
+michael696,Coolrook,2241,1919,1-0,Modern Defense: Averbakh Variation,A42,https://lichess.org/chIr9HND,60+0,Time forfeit,,,bullet,2271.0,,,,27109,1322,15482,,,puzzle,2215.0,,,,26190,719,24665
+costagalo,kartago,2048,1961,1-0,Queen's Pawn Game #2,D00,https://lichess.org/SVfMCsKu,180+0,Normal,,,bullet,1884.0,2026.0,1964.0,,57555,3420,51021,,,bullet,,2014.0,,,28645,2855,31921
+LeAlv96,Avorton,2171,2121,1-0,"Italian Game: Evans Gambit, Anderssen Variation, Cordel Line",C51,https://lichess.org/U9PUV3z1,180+0,Time forfeit,,,blitz,,,,,2253,226,2639,,,unknown,,,,,0,0,0
+CHESSkm8,daBALYAN8,2282,2045,0-1,King's Indian Attack,A08,https://lichess.org/VIS5yL3J,360+4,Normal,,,unknown,,,,,0,0,0,,,bullet,2460.0,2231.0,,,17456,1156,10497
+oberschlumpf,u_k,2199,2046,1-0,"Queen's Gambit Accepted: Classical Defense, Main Line",D27,https://lichess.org/qv6egu1X,180+2,Normal,,NM,blitz,2343.0,2315.0,2313.0,,97040,12144,20232,,,blitz,,2144.0,,,19897,6985,30851
+onubense,sneetch,2159,1986,1-0,"Neo-Gruenfeld Defense: Classical Variation, Original Defense",D78,https://lichess.org/oH6qSNxx,600+0,Normal,,LM,blitz,,2419.0,,,8542,1044,5517,,,unknown,,,,,0,0,0
+carrascof,Pierroquet,2071,2034,0-1,"French Defense: Tarrasch Variation, Open System, Main Line",C09,https://lichess.org/ZuyVPbUh,300+0,Time forfeit,,,bullet,2315.0,,,,38500,2601,44193,,,blitz,,,,,5855,395,5365
+pingouin,ChessHateCollide,2018,1999,1/2-1/2,Old Indian Defense: Ukrainian Variation,A54,https://lichess.org/5AId49lZ,180+1,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+mataLionTower,nopunchman,1882,2216,0-1,Ponziani Opening: Jaenisch Counterattack,C44,https://lichess.org/EzTjneWt,60+0,Time forfeit,,,bullet,1736.0,,,,13197,302,11083,,,unknown,,,,,0,0,0
+QUICKPEON,onelove,2279,1882,1-0,Sicilian Defense: Classical Variation,B56,https://lichess.org/k03fzOz0,60+0,Time forfeit,,,bullet,,,,,957,27,506,,,bullet,,,,,8785,376,8109
+dnowchess,ferrari9182,1775,2524,0-1,Sicilian Defense: Bowdler Attack,B20,https://lichess.org/ByIdScG1,60+0,Normal,,,bullet,1943.0,1921.0,1947.0,,7318,504,7174,,NM,bullet,2701.0,2470.0,,,47275,1220,11836
+jigganaut,lingoleng,2247,2358,1-0,Pirc Defense #2,B07,https://lichess.org/n5FxyPiB,0+1,Time forfeit,,,bullet,2632.0,,,,10789,527,9450,,,unknown,,,,,0,0,0
+LexLawless,chesslover12,2103,1916,1-0,King's Pawn Game: Macleod Attack,C20,https://lichess.org/3PYT2iCk,600+0,Time forfeit,,,bullet,2218.0,2204.0,,,115530,6320,108384,,,rapid,,,,,57,2,65
+japb__bees,akachi,2070,1985,1-0,French Defense: Queen's Knight,C00,https://lichess.org/AldmNzTr,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,2006.0,,,4255,526,4719
+Ilovediek,Wiltemberg,2024,1979,1-0,Alekhine Defense: Scandinavian Variation,B02,https://lichess.org/E0zyVmqO,180+2,Normal,,,bullet,,,,,3875,301,2781,,,unknown,,,,,0,0,0
+el8loko7,Oleg_P,2417,1877,1-0,French Defense: King's Indian Attack,C00,https://lichess.org/OePJbIb5,300+2,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,151,11,214
+pawnfury,sfSLICE,1915,2095,0-1,Catalan Opening,E00,https://lichess.org/hrlcQrpQ,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,2033,121,859
+rcosta79,breaker90,1998,2144,0-1,"King's Indian Defense: Normal Variation, King's Knight Variation",E60,https://lichess.org/zaRcsHvZ,180+0,Time forfeit,,,blitz,1613.0,1868.0,,,16801,1944,16309,,,blitz,2307.0,,,,10782,1046,7056
+AlexApple,Bikkel,1957,2229,1-0,Polish Opening,A00,https://lichess.org/f1jZZJsc,60+0,Time forfeit,,,chess960,,1945.0,,,31134,1365,25168,,,bullet,,,,,4633,438,3070
+Creizzan,EnzoPichu,2067,1987,0-1,Sicilian Defense: Closed Variation,B23,https://lichess.org/NfkI1NBp,480+0,Normal,,,blitz,1840.0,1936.0,,,15166,1711,14634,,,unknown,,,,,0,0,0
+ANTHROPOID,imbadatchessok,2066,1967,0-1,Scandinavian Defense: Mieses-Kotroc Variation,B01,https://lichess.org/qZIvd98R,180+0,Time forfeit,,,bullet,,,,,17789,358,18362,,,unknown,,,,,0,0,0
+Evans86,mattsingz,2020,2071,1-0,"English Opening: Anglo-Indian Defense, King's Indian Formation",A15,https://lichess.org/PHzj6GFe,180+0,Time forfeit,,,blitz,,,,,1291,148,1366,,,blitz,2410.0,2240.0,2401.0,,16807,2181,13940
+Musclebrain,Sasqwatch,2524,2524,1/2-1/2,Sicilian Defense: Loewenthal Variation,B32,https://lichess.org/G60DWDXA,60+0,Normal,,,bullet,,,,,4208,542,3564,,,bullet,,,,,1033,129,1317
+Chaozu,silverdmitri,2489,2335,1-0,Sicilian Defense: Najdorf Variation,B96,https://lichess.org/FjRV0vYM,180+0,Normal,,IM,blitz,,,,,19406,1209,11581,,,antichess,,,,,2952,234,3783
+bagul_56,VicgaR,1969,2099,0-1,"Sicilian Defense: Accelerated Dragon, Maroczy Bind",B38,https://lichess.org/kLpenDnM,600+0,Normal,,,rapid,,,,,6410,726,3230,,,unknown,,,,,0,0,0
+Grart,EvilChess,1979,2031,0-1,"King's Gambit Accepted, Bishop's Gambit",C33,https://lichess.org/JMgMAZId,900+10,Normal,,,rapid,,,,,1205,82,1059,,,bullet,,,2056.0,1985.0,21317,966,19633
+Albundy1681,Nf5andwins,2285,2042,1-0,"Dutch Defense: Stonewall Variation, Modern Variation",A90,https://lichess.org/xOz3gOxy,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+SamusVariation,ascunanan,1839,2244,0-1,Semi-Slav Defense,D43,https://lichess.org/88RjFBNA,60+0,Time forfeit,,,unknown,,,,,0,0,0,,NM,bullet,2603.0,,,,15178,977,6309
+dbsxadrez,Pumuckl,2135,2006,1-0,Center Game: Paulsen Attack Variation,C22,https://lichess.org/xxnj32jf,600+0,Time forfeit,,,blitz,2200.0,2166.0,,,12551,771,9727,,,rapid,1856.0,1937.0,2103.0,2058.0,1888,175,1040
+MohammedHassanin30,vudivakar,2066,1984,1-0,Sicilian Defense: Hyperaccelerated Dragon,B27,https://lichess.org/xerOZ1ei,900+5,Normal,,,blitz,1844.0,2031.0,2133.0,,42803,2874,36452,,,unknown,,,,,0,0,0
+nckqefhm,LordButternoodles,2099,2352,0-1,"Sicilian Defense: Dragon Variation, Yugoslav Attack, Modern Line",B76,https://lichess.org/TZnk1e0R,30+0,Normal,,,bullet,,,,,3141,280,2663,,,bullet,2470.0,2260.0,,,21419,2272,17451
+Giardia-Lambia,ostadreza,2237,2030,1-0,"English Opening: Anglo-Scandinavian Defense, Malvinas Variation",A10,https://lichess.org/QVJng2cp,900+0,Normal,,,rapid,,,,,432,37,124,,,bullet,,1768.0,,,7070,419,7505
+munizbc,agsone,1961,2152,0-1,Indian Game: Spielmann-Indian,A46,https://lichess.org/y6W8V6NS,120+1,Time forfeit,,,bullet,,,,,5448,258,3723,,,bullet,,,,,7288,293,2246
+Ryga,cheese111,1749,2347,0-1,Ponziani Opening: Jaenisch Counterattack,C44,https://lichess.org/AZGsjSLo,60+0,Normal,,,bullet,1796.0,,,,5338,633,6211,,,bullet,,,,,7675,390,2319
+lucky96,AntaresS81,1902,2141,0-1,Benoni Defense,A56,https://lichess.org/l5G2lmnV,180+2,Normal,,,blitz,,,,,747,98,679,,,blitz,,,,,2593,345,1467
+ChessLyf,Nembro,2189,1915,1-0,"King's Indian Defense: Saemisch Variation, Closed Variation, 7...c6",E88,https://lichess.org/w9K7sbMa,300+0,Normal,,,bullet,,,,,20563,886,13892,,,blitz,1844.0,1969.0,2184.0,,10166,1731,8912
+aruran,FrankyBono,2270,2105,1-0,Scotch Game: Schmidt Variation,C45,https://lichess.org/zGov32qw,180+0,Time forfeit,,,bullet,2411.0,2333.0,2300.0,,32349,2742,22288,,,blitz,,,,,1200,117,725
+soloman,islandification,2225,2049,1-0,Sicilian Defense: McDonnell Attack,B21,https://lichess.org/9ydyRaVb,300+5,Normal,,,blitz,,,,,1838,123,1326,,,unknown,,,,,0,0,0
+dmac1400,TERRIBLE_STORM,1891,2123,0-1,French Defense: King's Indian Attack,C00,https://lichess.org/9zgW1ucu,180+0,Normal,,,bullet,,,,,1505,91,1327,,,unknown,,,,,0,0,0
+brenopimenta,umyron,2040,2172,0-1,Caro-Kann Defense: Bronstein-Larsen Variation,B16,https://lichess.org/IdxMvc2m,180+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,558,41,527
+rookcrook8,algorithmic,1918,2140,0-1,Horwitz Defense,A40,https://lichess.org/WW6692Ni,60+0,Time forfeit,,,bullet,2120.0,1805.0,,,28763,1455,24506,,,unknown,,,,,0,0,0
+NMWillforfun,BigBoludo,2034,2007,1-0,Mikenas Defense: Lithuanian Variation,A40,https://lichess.org/qJqy7TDl,120+1,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+Irena16041986,Romoda,2074,2102,0-1,English Defense #2,A40,https://lichess.org/x8GZUgSJ,120+1,Time forfeit,,,bullet,2062.0,2110.0,,,7628,1232,7812,,,bullet,,,,,26308,1416,14197
+karjakin18,fernandocoto,2141,2217,1-0,Caro-Kann Defense: Tartakower Variation,B15,https://lichess.org/2FX5VXOa,180+0,Normal,,,blitz,,,,,1649,140,1311,,,blitz,,,,,21303,2486,11661
+Phutressniak,zapatilla,2345,1772,1-0,"King's Indian Defense: Orthodox Variation, Positional Defense, Closed Line",E94,https://lichess.org/FyqEUIvh,180+0,Time forfeit,,LM,blitz,2635.0,2437.0,,,59329,5973,27142,,,blitz,,,,,5257,701,5728
+Shenmue,doctormoy,2097,2048,1-0,"English Opening: King's English Variation, Two Knights Variation, Reversed Dragon",A22,https://lichess.org/eFgBP2ls,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,1985.0,2218.0,,,68756,1727,68224
+Grange,CheckRaiseMate,2065,2395,0-1,Mikenas Defense,A40,https://lichess.org/65SSwXlJ,60+0,Time forfeit,,,bullet,1900.0,,,,24554,1774,22960,,FM,bullet,2681.0,2512.0,,,10970,889,6269
+amiridon,saprvade,2141,2056,0-1,London System,A48,https://lichess.org/WM62yZSj,180+0,Time forfeit,,,blitz,,,,,1143,103,902,,,blitz,,,,,9373,527,6236
+Patralgan,Aexchange,2111,1969,0-1,Queen's Pawn Game #2,D00,https://lichess.org/4Pwme7oW,180+0,Normal,,,blitz,1989.0,2086.0,2167.0,,28973,1896,17804,,,bullet,2234.0,2148.0,,,22090,1316,18970
+amigochez,ThingsChange,2086,2419,0-1,Caro-Kann Defense,B10,https://lichess.org/Ng6731xd,120+0,Normal,,,bullet,,,,,7742,1132,14300,,,threeCheck,,,,,1512,55,431
+das_schach,Farhad1975,2046,2016,1-0,Queen's Pawn Game: Anglo-Slav Opening,A41,https://lichess.org/bHYqJonQ,180+2,Time forfeit,,,blitz,,2092.0,,,12066,1773,14190,,,bullet,,,,,18542,1333,17422
+Lola3745,Oldindian,2242,2382,1-0,Yusupov-Rubinstein System,A46,https://lichess.org/xOtGlPW6,180+0,Normal,,,bullet,,2281.0,,,37025,4248,29903,,,bullet,2224.0,2323.0,,,44990,3088,17185
+fox8383,mev,2226,2018,1-0,Nimzowitsch-Larsen Attack,A06,https://lichess.org/CtU0IXlX,780+8,Normal,,,rapid,,,,,35,1,5,,,blitz,,,,,6092,405,6802
+valdeilton,khashayar6,2004,2073,1-0,Queen's Pawn Game: Torre Attack,D03,https://lichess.org/8xVVQJUN,600+10,Normal,,,blitz,,1779.0,,,6394,440,6260,,,puzzle,,,,,2247,174,1560
+nARE,dragonweave,2007,2221,0-1,Sicilian Defense #2,B54,https://lichess.org/BpMv3i9X,180+0,Time forfeit,,,blitz,,,,,5796,279,4520,,,bullet,2414.0,,,,24532,1981,16266
+qtipju,tacticspro,1954,2082,0-1,"Queen's Gambit Declined: Slav, Dutch Variation",D19,https://lichess.org/D38eiKaP,600+10,Normal,,,unknown,,,,,0,0,0,,,puzzle,,,,,605,49,461
+ELMAGISTRAL,Sac1,2116,2103,1-0,"Russian Game: Modern Attack, Center Variation",C43,https://lichess.org/vho8GkuQ,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2339.0,2221.0,,,8858,681,7366
+alexmath,IRunThisShip,1896,2205,0-1,"English Opening: Symmetrical Variation, Normal Variation",A34,https://lichess.org/G2unk33g,60+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,4459,284,1911
+Corambis,simplechesszz,1939,2139,0-1,English Opening: Caro-Kann Defensive System,A11,https://lichess.org/n84P1DJA,180+0,Normal,,,blitz,,,,,44934,1929,42967,,,bullet,,,,,1276,115,911
+EmergingGM,Bill_Frundler,2087,1990,0-1,Elephant Gambit,C40,https://lichess.org/0huoJ3Hd,60+1,Normal,,,bullet,,,,,5857,374,4076,,,bullet,,,,,333,20,274
+borissm11,dukicz123,1815,2202,0-1,French Defense: Advance Variation #4,C02,https://lichess.org/IPogtfMk,60+0,Normal,,,bullet,,,,,20005,1255,14830,,FM,bullet,,,,,5062,266,1693
+alexei1897,AK442,2236,2299,0-1,King's Indian Attack: Symmetrical Defense,A05,https://lichess.org/Ii5s9RgG,180+0,Normal,,,blitz,,,,,1434,121,826,,,unknown,,,,,0,0,0
+chessosa,Vaati,1867,2215,0-1,Alekhine Defense,B03,https://lichess.org/pasLEIot,60+0,Normal,,,bullet,,,,,18237,1345,17159,,,bullet,,,,,1264,52,642
+mabes,dutch1953,1952,2133,0-1,Sicilian Defense: Dragon Variation,B70,https://lichess.org/Qn6Rzze7,300+4,Normal,,,blitz,1840.0,2055.0,,,19356,1667,20481,,,blitz,,,,,208,25,27
+kgbird,richardstinangon,2097,2146,1/2-1/2,"Scandinavian Defense: Main Line, Mieses Variation",B01,https://lichess.org/q2qor7R6,300+5,Normal,,,rapid,,1897.0,2211.0,2216.0,13102,794,10734,,,blitz,,,,,927,118,1142
+exw,chumbonalagoa,1937,2146,0-1,Alekhine Defense: Maroczy Variation,B02,https://lichess.org/PEMuW5Bg,90+1,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,1303,53,515
+provato777,sennseipt,2092,2060,0-1,"King's Indian Defense: Saemisch Variation, Double Fianchetto",E82,https://lichess.org/yXiIZfzm,60+0,Time forfeit,,,bullet,,,,,4449,588,4183,,,bullet,2343.0,2179.0,,,11280,924,9532
+mayconchess,gmchicha,1998,2064,1-0,"King's Indian Defense: Semi-Classical Variation, Exchange Variation",E61,https://lichess.org/u11lvxIv,180+0,Time forfeit,,,unknown,,,,,0,0,0,,CM,blitz,2302.0,2232.0,,,2484,284,2011
+lumil,MalutinVA,2039,2132,1-0,Pirc Defense: Kholmov System,B07,https://lichess.org/PJhV0kbl,420+5,Normal,,,rapid,,,,,5305,599,2280,,,bullet,1638.0,,,,49888,1028,49045
+InfiniteFlash,OpieOP3,2291,1798,1-0,"English Opening: King's English Variation, Nimzowitsch-Flohr Variation",A20,https://lichess.org/Ig5z33sC,60+0,Normal,,,blitz,2318.0,2405.0,2257.0,,15377,1105,7229,,,unknown,,,,,0,0,0
+Juninho23435,MikeyG,2163,2396,0-1,Alekhine Defense: Maroczy Variation,B02,https://lichess.org/GApzojO5,30+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,5772,629,4695
+aanldisaster69,Arustan12345,2191,2137,1-0,Van Geet Opening: Gruenfeld Defense,A00,https://lichess.org/WrwQJmx1,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,4421,418,6037
+EmbarrassmentSon,LickMyKnightSac,2169,1833,1-0,"French Defense: Winawer Variation, Poisoned Pawn Variation",C18,https://lichess.org/ChtqMlyN,60+0,Time forfeit,,,blitz,,,,,2279,108,810,,,unknown,,,,,0,0,0
+Asuka_Nakamura,turkeychilli,1931,2089,0-1,Old Benoni Defense,A43,https://lichess.org/5Css7e80,60+0,Normal,,,ultraBullet,,,,,93625,6122,52924,,,bullet,2217.0,2203.0,,,120301,4060,86208
+tavo86,Gendarmedesconocido,2102,2054,0-1,Queen's Pawn Game: Mason Attack,D00,https://lichess.org/WuFOI0LD,180+0,Normal,,,blitz,2602.0,2487.0,,,24427,2635,19537,,,unknown,,,,,0,0,0
+sombrerokid,growapear,2042,2032,1-0,Semi-Slav Defense,D43,https://lichess.org/D89UXKNQ,180+2,Time forfeit,,,blitz,,,,,7666,577,2097,,,blitz,,,,,542,64,611
+MagicAndy,Zeitnotcafe,2510,1576,1-0,Reti Opening #2,A04,https://lichess.org/D9LSucLB,60+0,Time forfeit,,FM,bullet,2681.0,2368.0,,,38747,2403,15225,,,bullet,1588.0,1870.0,2121.0,,18272,441,19623
+Modest_Proposal,FrostRexZ,2009,2066,1-0,Sicilian Defense: Closed,B23,https://lichess.org/B35eqphA,180+0,Normal,,,blitz,2364.0,2180.0,,,30881,1829,26776,,,bullet,,,,,2032,144,2969
+thercias,jcw895,2069,2227,1-0,Queen's Indian Defense: Capablanca Variation,E16,https://lichess.org/LPcWaXL5,300+0,Normal,,,blitz,,,,,4603,517,4909,,,blitz,2269.0,,,,2900,317,2224
+LukaTreb,Paalroyset,2296,2129,0-1,Yusupov-Rubinstein System,A46,https://lichess.org/bqZAMShU,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,3541,342,3198
+Starbux,swing_addict,2066,1956,1-0,English Opening: Great Snake Variation,A10,https://lichess.org/Sww5wAkJ,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2303.0,2131.0,2262.0,,9483,885,8345
+helmutLipfert6,JonggXi,1794,2245,0-1,Sicilian Defense: McDonnell Attack,B21,https://lichess.org/u6YLzrTP,60+0,Normal,,,bullet,,,,,32232,2469,33988,,,bullet,,,,,16447,1068,6392
+chindragon12345,magu,1950,2091,0-1,Slav Defense,D10,https://lichess.org/7j5VUchR,180+0,Normal,,,blitz,,2034.0,,,9464,1396,9442,,,unknown,,,,,0,0,0
+AlbertoGarcia,ggaabboo,1925,2199,0-1,Dutch Defense: Queen's Knight Variation,A85,https://lichess.org/n4nX8AJM,180+0,Time forfeit,,,blitz,,,,,522,49,536,,,bullet,2203.0,2286.0,,,27654,1663,24452
+khebab,alexis11,2247,1895,0-1,Nimzo-Larsen Attack: Indian Variation,A01,https://lichess.org/PdIminpn,300+0,Time forfeit,,,unknown,,,,,0,0,0,,,rapid,,,,,1007,155,388
+danielortega1112,davidmolinacontreras,2136,2001,1-0,Scandinavian Defense: Bronstein Variation,B01,https://lichess.org/VpKfd4PL,180+0,Normal,,,bullet,,,,,1493,98,2023,,,blitz,,,,,332,27,440
+Kulkid,VVeed,2057,2134,0-1,"Gruenfeld Defense: Three Knights Variation, Burille Variation",D94,https://lichess.org/JwIDiX6s,60+0,Normal,,,bullet,2352.0,2030.0,,,26372,2765,18289,,,unknown,,,,,0,0,0
+DariusIV,neoteros,2222,1887,1-0,French Defense: Knight Variation,C00,https://lichess.org/lYsdd8Ix,240+0,Time forfeit,,,bullet,,,,,23948,383,5261,,,blitz,,,,,4007,809,7335
+Zaratustrachess,bmg45404,2039,2020,0-1,"Caro-Kann Defense: Advance Variation, Short Variation",B12,https://lichess.org/IDAYCHJ7,240+0,Normal,,,blitz,,,,,1343,153,2114,,,unknown,,,,,0,0,0
+afaliem,smoesjesman,2035,2160,1/2-1/2,"Sicilian Defense: Wing Gambit, Marshall Variation",B20,https://lichess.org/OywEyLEZ,240+0,Normal,,,blitz,1812.0,2035.0,,,13125,595,15387,,,unknown,,,,,0,0,0
+joopsmarko,Slobredor,2041,1984,1-0,"Queen's Gambit Declined: Harrwitz Attack, Orthodox Defense",D37,https://lichess.org/j5G1UO2J,300+0,Normal,,,blitz,2145.0,,,,662,46,531,,,blitz,,2016.0,1281.0,,5673,667,7709
+KingPinLopez,Zerowitz,2090,2242,1-0,Queen's Pawn Game #2,D00,https://lichess.org/2Ucp5H8y,60+0,Normal,,,bullet,2457.0,2270.0,,,8078,657,6116,,,blitz,,2403.0,,,9551,1221,7130
+ninjabongo,Booma,1933,2283,0-1,"French Defense: Advance Variation, Euwe Variation",C02,https://lichess.org/yhOFlpM9,480+0,Normal,,,blitz,,,,,5058,523,5195,,,unknown,,,,,0,0,0
+anton0107,mistborn,2081,2029,1-0,Benoni Defense,A56,https://lichess.org/BA5KSDNi,60+0,Normal,,,bullet,2340.0,2314.0,,,22265,655,11034,,,bullet,2142.0,2087.0,,,12043,1121,11193
+Mithrandir1001,Vivien,2028,1979,1-0,Modern Defense: Averbakh Variation,A42,https://lichess.org/iC5mP7Mr,180+0,Normal,,,blitz,,2079.0,,,7972,657,6284,,,blitz,1960.0,2017.0,2225.0,,13040,769,9062
+nfine,feeper,2017,2042,1-0,Ruy Lopez: Exchange Variation,C68,https://lichess.org/TYlCFMer,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,1464.0,,,15402,879,20186
+LususV2,Naoseidenada,2077,1962,0-1,French Defense: Queen's Knight,C00,https://lichess.org/bzrl8kAj,180+0,Time forfeit,,,blitz,,,,,1165,85,995,,,blitz,,,,,189,42,277
+mylord-zeik,reallyreal,2105,2003,0-1,French Defense: Exchange Variation,C01,https://lichess.org/FADeXZ9Y,300+5,Normal,,,rapid,,,,,691,64,588,,,rapid,,,,,108,20,149
+anonymousgm,carlborz,2190,2152,1/2-1/2,"King's Indian Defense: Fianchetto Variation, Lesser Simagin (Spassky)",E62,https://lichess.org/SrpHlBaf,60+0,Time forfeit,,,bullet,,,,,3155,202,1302,,,bullet,2350.0,2287.0,,,25035,1783,16286
+DavidSanders,ViswanathanAdam04,2248,1798,1-0,Nimzo-Indian Defense: Leningrad Variation,E30,https://lichess.org/0eIZCPpM,60+0,Normal,,,bullet,,,,,7504,349,3943,,,bullet,2137.0,1996.0,,,26942,1074,27713
+reza3136,khaleds,1994,2030,1-0,Polish Opening: Outflank Variation,A00,https://lichess.org/0EIGikcQ,300+0,Time forfeit,,,bullet,2291.0,2232.0,,,31269,2238,25933,,,blitz,,,,,607,28,238
+Evil_chess,el_sigguiente,2207,1934,1/2-1/2,Vienna Game: Anderssen Defense,C25,https://lichess.org/OFt7ieOT,60+0,Normal,,,bullet,2160.0,1905.0,,,85349,5018,70521,,,bullet,,,,,33245,831,27972
+LeonardoSousa,ChecksMix,2255,1954,1-0,Zukertort Opening: Sicilian Invitation,A04,https://lichess.org/rXkZ4GcX,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,72657,4395,71077
+arina1999,chessplace,2251,2291,1-0,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",B31,https://lichess.org/UBOAMgjC,180+0,Time forfeit,,,bullet,,,,,6590,274,2972,,,blitz,,,,,2199,174,2314
+TheTwelfthKnight,OSRS_botter,2038,1974,1-0,Ruy Lopez: Steinitz Defense,C62,https://lichess.org/gKTTIED8,180+0,Time forfeit,,,bullet,2348.0,2125.0,,,21685,1705,19884,,,unknown,,,,,0,0,0
+meruga123,SirKnight9182,2272,1799,1-0,Zukertort Opening: Kingside Fianchetto,A04,https://lichess.org/51GA8E3a,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,1831.0,,,,5943,298,6023
+pyp0614,jposthuma,1941,2135,0-1,Scandinavian Defense: Mieses-Kotroc Variation,B01,https://lichess.org/Z6NH64iX,600+0,Normal,,,bullet,,1869.0,,,93914,7665,144125,,IM,bullet,2902.0,2803.0,2712.0,,31199,3302,13720
+FinkelFrand,redcalc,1967,2119,1-0,"Sicilian Defense: Najdorf Variation, Adams Attack",B90,https://lichess.org/UYUcwOtt,60+0,Normal,,,bullet,2235.0,2218.0,,,43467,1677,27403,,,bullet,,,,,334,4,158
+pipecat,Czeckerz,2163,2000,0-1,Sicilian Defense: McDonnell Attack,B21,https://lichess.org/kezV2xW4,180+0,Normal,,,blitz,2384.0,2202.0,,,8491,644,4859,,,bullet,,,,,56,2,11
+Etienne48,Stegtor,2028,1996,1-0,Slav Defense: Two Knights Attack,D15,https://lichess.org/5FjjF3xe,300+2,Normal,,,blitz,,,,,4717,453,3799,,,blitz,,,,,982,91,868
+Ewg2016,mastier,2215,2172,1-0,Four Knights Game: Double Spanish,C49,https://lichess.org/ZhpUKFlY,-,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+potsy722,LarsBrobakken,1922,2096,0-1,Alekhine Defense: Scandinavian Variation,B02,https://lichess.org/V3pTMsxM,60+0,Time forfeit,,,bullet,,,,,73829,2015,45244,,,bullet,2346.0,2273.0,,,27435,2866,18475
+cristofer_escobar,LaFly,1976,2139,0-1,Sicilian Defense: Old Sicilian,B30,https://lichess.org/CPtB9cf9,900+0,Normal,,,blitz,,2234.0,2180.0,,59545,4238,50186,,,blitz,,1955.0,,,154,10,107
+elpixi,bruhgotgrapes,2088,2098,0-1,"French Defense: Advance Variation, Paulsen Attack",C02,https://lichess.org/ocUbjdQ5,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,1254,41,641
+ivangrad,bistatine,1959,2046,1-0,Indian Game,A45,https://lichess.org/nIGGX50U,120+9,Normal,,,rapid,,,1948.0,,9345,1153,15667,,,blitz,,,,,409,33,406
+Tematico,under1650,2379,2284,0-1,King's Pawn Game: Beyer Gambit,C21,https://lichess.org/CCBsiSOP,180+0,Normal,,FM,bullet,2750.0,2424.0,2555.0,,34782,3062,25739,,,blitz,,,,,3281,111,1981
+s2061,julmiri,1735,2267,0-1,"Queen's Gambit Declined: Modern Variation, Normal Line",D55,https://lichess.org/zm0Z4L2A,60+0,Time forfeit,,,blitz,,,,,2876,176,2745,,,blitz,2613.0,2516.0,,,9256,544,4539
+mrjava,knives,1956,2103,0-1,Van Geet Opening,A00,https://lichess.org/Y5GeefoC,30+0,Time forfeit,,,bullet,,,,,40726,2847,27738,,,bullet,,,,,12718,521,6754
+Narahari28,champion10,2227,1945,1-0,English Opening: Agincourt Defense #2,A13,https://lichess.org/4O12Filw,60+0,Time forfeit,,,bullet,,,,,10696,1589,8497,,,bullet,,,,,1968,63,1681
+Parsifal_Micado,psuter,2085,2011,0-1,Caro-Kann Defense,B11,https://lichess.org/Xrgm5sq3,60+0,Time forfeit,,,bullet,,,,,12249,501,8232,,,bullet,1962.0,2004.0,,,20342,1238,18035
+DragonPsyruz,MarceloR,2109,1986,0-1,"Dutch Defense: Stonewall Variation, Modern Variation",A90,https://lichess.org/1fTpNIw3,180+0,Normal,,,blitz,,2171.0,,,14833,1335,12447,,,blitz,1835.0,1915.0,2114.0,,13465,1049,16011
+igrenami,islamas,2047,1971,1/2-1/2,Modern Defense,A40,https://lichess.org/WiaY7EaX,600+3,Normal,,,rapid,,,,,1561,106,1115,,,blitz,,,,,5366,498,8285
+niveKKevin,russellsteapot,2107,1991,1-0,Rat Defense: Harmonist,B07,https://lichess.org/Ol4wI710,300+0,Normal,,,puzzle,,,2387.0,,6773,821,3554,,,blitz,,,,,545,50,585
+kknight,eddyw,2168,2203,1-0,London System,A48,https://lichess.org/tBhKnq9N,180+1,Normal,,,blitz,,,,,3382,659,4177,,,bullet,,,,,25493,2405,24482
+BobC,Nikk53,2106,2192,0-1,Zukertort Opening: Pirc Invitation,A04,https://lichess.org/FwljdwLY,600+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,36427,2445,39408
+snarfels,Giperbola,2035,2005,1-0,"English Opening: Symmetrical Variation, Normal Variation",A34,https://lichess.org/RsyVzZ8a,1800+0,Normal,,,bullet,,,,,3843,275,4013,,,puzzle,,,,,1829,232,1541
+vbalyan6,graphograph,2157,1849,1-0,"Italian Game: Scotch Gambit, Janowski Defense",C55,https://lichess.org/mn5oiQuz,300+0,Normal,,,unknown,,,,,0,0,0,,,puzzle,,,,,3450,82,789
+Sputnik_Monroe,xodun,2020,1994,1-0,Owen Defense,B00,https://lichess.org/G6IExUBl,60+0,Time forfeit,,,blitz,2105.0,2035.0,2169.0,,37504,1728,17319,,,unknown,,,,,0,0,0
+piwot3,raywu,2119,2178,0-1,"Sicilian Defense: Closed Variation, Traditional",B25,https://lichess.org/68RfkKWb,60+0,Normal,,,bullet,,,,,23979,2485,27604,,,unknown,,,,,0,0,0
+VTChess,Entropist,2450,1860,1-0,Sicilian Defense: Old Sicilian,B30,https://lichess.org/RORfJjJ7,180+0,Normal,,NM,bullet,,,,,15524,654,3846,,,blitz,,,,,388,24,402
+rubik_kid,otstavnik60,1967,2040,1-0,King's Pawn Game: Leonardis Variation,C20,https://lichess.org/tb5NqOd5,45+0,Normal,,,bullet,,,,,2815,184,2249,,,unknown,,,,,0,0,0
+R-Fisher,laotzi,1946,2112,1-0,King's Indian Attack: Pachman System,A07,https://lichess.org/4LNKIgKk,300+20,Normal,,,blitz,,,,,85,12,99,,,rapid,,,2168.0,,2006,227,1447
+jumpei,Georgesantosbrasil,1833,2233,0-1,"Four Knights Game: Italian Variation, Noa Gambit",C47,https://lichess.org/QL7ZIsPR,600+0,Normal,,,puzzle,,,,,133,6,81,,,puzzle,,,,,164,1,64
+daniel2424,leroybrown789,2041,1968,1-0,Van't Kruijs Opening,A00,https://lichess.org/27p2SWww,60+0,Time forfeit,,,bullet,2207.0,1911.0,,,15234,1134,12908,,,blitz,2230.0,1998.0,2158.0,,17144,1028,17812
+annaly,lixes,2000,2200,0-1,Sicilian Defense: Bowdler Attack,B20,https://lichess.org/NmS1EuxX,300+0,Normal,,,rapid,,,,,897,102,1116,,,unknown,,,,,0,0,0
+Knightcastle,Amazing-game,2066,2139,1-0,Queen's Pawn,A40,https://lichess.org/9sOS0IeU,300+0,Abandoned,,,blitz,2037.0,1960.0,2101.0,,7065,636,5145,,,unknown,,,,,0,0,0
+s-mb,schopengarden,2030,2158,0-1,"Sicilian Defense: Najdorf Variation, Traditional Line",B98,https://lichess.org/MLgnXg1O,60+0,Time forfeit,,,bullet,,,,,3433,84,2385,,,bullet,,,,,7152,559,4195
+thecca,Akisha,2133,1941,1-0,Queen's Pawn Game: Chigorin Variation,D02,https://lichess.org/avQYy3jV,180+0,Time forfeit,,,blitz,1802.0,2168.0,2166.0,,25309,2377,24036,,,blitz,,,,,1342,106,1446
+radit94,molodoy1775,1939,2081,1/2-1/2,"King's Gambit Accepted, MacLeod Defense",C34,https://lichess.org/WSKOByYh,540+8,Normal,,,puzzle,,,,,205,30,308,,,blitz,,2046.0,2264.0,,20216,1830,21932
+rgrinberg,Eric31,2011,2067,1-0,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",B31,https://lichess.org/u9OPJ3nX,300+0,Time forfeit,,,blitz,1964.0,2062.0,2202.0,,4487,312,4410,,,puzzle,2295.0,,,,2835,148,2413
+gearhead14227,CrackxHack,2085,2037,1-0,Horwitz Defense,A40,https://lichess.org/zIr8Rgpx,60+0,Time forfeit,,,bullet,,,,,5774,348,4014,,,blitz,,,,,1368,112,1340
+modakshantanu,blitzatwork,1910,2246,0-1,Caro-Kann Defense: Bronstein-Larsen Variation,B16,https://lichess.org/kd8hDYmR,60+0,Normal,,,bullet,,,,,4172,303,3584,,,bullet,,,,,20316,1078,12911
+HawkishMood,w-e-e-d,2219,1860,1-0,Zukertort Opening: Queen's Gambit Invitation,A04,https://lichess.org/DO9k7lSX,30+0,Time forfeit,,,bullet,,,,,1507,128,806,,,unknown,,,,,0,0,0
+SR20VET,blueskyminer23,2036,2113,0-1,Gruenfeld Defense,D80,https://lichess.org/XWhfa2hl,60+0,Time forfeit,,,bullet,,,,,4335,368,3641,,,bullet,2145.0,2102.0,,,50787,2913,29020
+cheewn,vikt2,2020,2002,1-0,"French Defense: Winawer Variation, Advance Variation",C16,https://lichess.org/Tz5c8Zan,420+2,Normal,,,unknown,,,,,0,0,0,,,bullet,,1758.0,,,28256,1220,31178
+oog30,GMzielonagora,1776,2494,1-0,Semi-Slav Defense,D43,https://lichess.org/qotQWMtQ,60+0,Normal,,,puzzle,,1940.0,,,3021,198,3170,,,bullet,,,,,599,15,69
+cantakerisk,glube,2191,2121,1-0,Bishop's Opening: Vienna Hybrid,C28,https://lichess.org/21boYxDm,120+0,Normal,,,blitz,2443.0,2338.0,,,5484,553,3804,,,puzzle,,,,,1537,40,1071
+zoldsman,tarapana,2093,1985,1-0,Semi-Slav Defense: Marshall Gambit,D31,https://lichess.org/kybB4kIM,180+0,Normal,,,blitz,,,,,3892,260,1710,,,blitz,1894.0,1942.0,1903.0,,36124,2723,19967
+armine,moonbeam,2220,2108,1-0,"French Defense: Winawer Variation, Petrosian Variation",C16,https://lichess.org/DceJ6Aia,180+0,Normal,,,blitz,2405.0,2303.0,,,42871,4354,33753,,,bullet,2207.0,,,,17473,900,12755
+renr8360,WorldMVP,2248,2308,1-0,Sicilian Defense: Najdorf Variation,B90,https://lichess.org/CFGu3Hdu,180+0,Normal,,,blitz,2538.0,2205.0,,,44492,4578,38202,,,unknown,,,,,0,0,0
+CamelClutcher,HTiger,2075,1932,1-0,"Queen's Gambit Refused: Albin Countergambit, Normal Line",D08,https://lichess.org/DY3rg0SM,180+0,Normal,,NM,bullet,2552.0,2395.0,2373.0,,29305,2700,13964,,,unknown,,,,,0,0,0
+cocojuli,JamesKrimer,2045,2052,1-0,Caro-Kann Defense: Karpov Variation,B17,https://lichess.org/Ll3AnRsk,60+0,Time forfeit,,,bullet,,2269.0,,,4497,270,4798,,,bullet,,,,,23853,1676,13332
+opossum100,gaputin,1823,2219,0-1,Sicilian Defense: French Variation,B40,https://lichess.org/p7kNWx0E,60+0,Time forfeit,,,bullet,,,,,3988,230,5392,,,bullet,2342.0,,,,7008,387,4481
+parviz61,same21,2008,2047,0-1,"Sicilian Defense: French Variation, Open",B40,https://lichess.org/8Q08bIAU,600+0,Time forfeit,,,puzzle,,,,,8101,1212,8829,,,rapid,,,,,1000,91,744
+ekuliev,CuriousKnight,2365,2084,1-0,Alekhine Defense,B02,https://lichess.org/RzwE3o1h,60+0,Time forfeit,,,bullet,2562.0,2370.0,2238.0,,10484,1287,7975,,,bullet,2383.0,2300.0,,,23076,1016,18872
+GoGoChess,henrychess2016,2127,2100,1-0,Scandinavian Defense: Main Line,B01,https://lichess.org/Nxo6q80X,120+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,186,12,116
+ahmadcharife,ausbiscuit,2055,2115,0-1,Scandinavian Defense: Modern Variation #2,B01,https://lichess.org/8W3pNDxR,300+0,Normal,,,blitz,,,,,23109,1422,28088,,,blitz,,,,,693,130,625
+eekcatz,Assadour,1985,2195,1-0,English Opening: King's English Variation,A20,https://lichess.org/8fBxZtjq,180+0,Normal,,,blitz,,,,,6190,626,6210,,,blitz,,,,,6856,387,3510
+Jamming_UA,Atrophied,1826,2345,0-1,"Sicilian Defense: Smith-Morra Gambit Declined, Scandinavian Formation",B21,https://lichess.org/tqPsnbSn,60+0,Time forfeit,,,blitz,2263.0,2237.0,,,10223,1282,10935,,,unknown,,,,,0,0,0
+TampaChess,Metamorfos,2474,2485,1-0,"Alekhine Defense: Four Pawns Attack, Fianchetto Variation",B03,https://lichess.org/MiYG9eii,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+Chess_Good,Chess-Network,2150,2262,0-1,Hungarian Opening: Indian Defense,A00,https://lichess.org/7wE4iFBI,900+2,Normal,,,bullet,,,,,71,8,80,,NM,bullet,2903.0,2683.0,2658.0,,98916,6817,35775
+hectordetroya,HiHiu,2092,2155,1-0,Sicilian Defense: French Variation,B40,https://lichess.org/QnacNMhf,60+0,Time forfeit,,,bullet,2406.0,2395.0,,,54706,5487,46247,,,bullet,2447.0,2281.0,,,103632,3820,74361
+Arthas,Xynoff,2092,2031,0-1,King's Indian Defense: Smyslov Variation,E61,https://lichess.org/ejMnSCGL,180+2,Normal,,,unknown,,,,,0,0,0,,,blitz,,1973.0,,,15699,1380,13197
+pemo,pizdez,2263,2345,1-0,English Opening: Mikenas-Carls Variation,A18,https://lichess.org/nFgjn3R1,180+0,Time forfeit,,,bullet,,,,,2071,192,668,,,unknown,,,,,0,0,0
+Zdravko_Lojanica,bebaa,2061,2002,0-1,Italian Game: Classical Variation #2,C53,https://lichess.org/W8Vd2F0q,180+0,Time forfeit,,,blitz,,,,,6839,402,2320,,,blitz,,,,,13368,731,5734
+Ak202,gerardnethugo,2172,1902,1-0,Zukertort Opening: Queen's Gambit Invitation,A04,https://lichess.org/tk0KVfWI,60+2,Time forfeit,,,blitz,,2237.0,,,12185,900,8384,,,bullet,2077.0,2042.0,,,29073,1271,23815
+Miloff,oloff,2058,2023,0-1,Nimzo-Indian Defense: Leningrad Variation,E30,https://lichess.org/AxA63ZJG,60+0,Time forfeit,,,bullet,2186.0,2139.0,2242.0,,29932,3200,35558,,,bullet,,,,,1386,73,1060
+mmaattiinn,Materex,2080,2115,0-1,"Queen's Indian Defense: Kasparov-Petrosian Variation, Main Line",E12,https://lichess.org/4lC291Co,600+0,Time forfeit,,,puzzle,,,,,2861,381,2227,,,rapid,,,2119.0,,5078,512,4063
+roverlord,buzuko,1996,2123,0-1,Indian Game: Omega Gambit,A45,https://lichess.org/dbbyijFw,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+atabak,shravan2236,2024,2078,1/2-1/2,"Sicilian Defense: Najdorf Variation, Opocensky Variation",B92,https://lichess.org/t1cnXlIg,600+0,Normal,,,rapid,,,,,784,76,747,,,puzzle,,1775.0,,,1028,127,904
+qwebnmyu,LeoParra,2138,2298,0-1,"English Opening: Symmetrical Variation, Normal Variation",A34,https://lichess.org/Zv5zt2yw,180+0,Time forfeit,,,bullet,2094.0,2088.0,,,32098,1284,38924,,,bullet,2208.0,2308.0,,,78142,2836,73728
+Jony2712u,crimsonSoldier,2003,2008,1-0,Sicilian Defense,B20,https://lichess.org/vYRy5D7F,180+0,Normal,,,bullet,2456.0,2328.0,,,71003,5049,70256,,,blitz,,,,,2491,133,1362
+ORKIN81,yolowhadupptho,2154,1955,1-0,"Sicilian Defense: Modern Variations, Tartakower",B53,https://lichess.org/mJGFtf22,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,2478,95,1622
+pain83,matimati,2107,1912,0-1,English Opening: Anglo-Indian Defense,A15,https://lichess.org/fxqbcJm1,300+3,Normal,,,blitz,2002.0,2248.0,,,15223,3089,10503,,,puzzle,,,,,256,12,191
+puNki,myfacefriends,2103,1998,1-0,Nimzo-Larsen Attack,A01,https://lichess.org/Wv4bhnA9,30+0,Time forfeit,,,bullet,,,,,4537,472,3092,,,bullet,,,,,1270,136,1291
+nelsonuribexxx,Mayes,1898,2189,1-0,English Defense #2,A40,https://lichess.org/3RAYtSAe,180+0,Time forfeit,,,blitz,,,,,1044,56,991,,,blitz,2451.0,2321.0,,,14733,1198,11616
+FapFapFapFap,awzkpfwbzp,2618,2532,1-0,Alekhine Defense: Balogh Variation,B03,https://lichess.org/XHZI7VQm,60+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2552.0,,,,12986,720,7882
+shagerdehasan,Congoman,1917,2331,0-1,Danish Gambit,C21,https://lichess.org/RU2N45TS,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,2335.0,,,82694,11024,56142
+gbd,livadiic,2064,1971,1-0,Old Benoni Defense,A43,https://lichess.org/mMWHsONN,300+5,Normal,,,blitz,,,,,1721,161,1606,,,bullet,1705.0,1840.0,,,14531,795,13947
+Veline,dimanych,1735,2281,0-1,French Defense: Exchange Variation,C01,https://lichess.org/wvSgWESe,180+0,Normal,,,blitz,1694.0,1748.0,,,14790,774,18497,,,blitz,,2317.0,,,22793,1459,8605
+GrabAllThe3_141eces,torrerossa,2157,1925,0-1,Dutch Defense: Classical Variation,A84,https://lichess.org/QMyRaJ3z,60+0,Normal,,,blitz,2354.0,2236.0,,,13310,1930,11213,,,bullet,,,,,5012,439,6942
+DoubleDutch86,ruselrusel,2048,2166,0-1,Sicilian Defense: Closed Variation,B26,https://lichess.org/W3dhw8tv,180+0,Normal,,,blitz,,2075.0,,,7562,821,7812,,,unknown,,,,,0,0,0
+risperidon,Aurelio99,1985,2075,0-1,King's Pawn Game: Maroczy Defense,B07,https://lichess.org/NVk1YmGU,600+5,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+TheSettler,dflbv50,2183,1918,1-0,Nimzowitsch-Larsen Attack,A06,https://lichess.org/yaL4XW0W,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,1928.0,,,26099,4054,28932
+Ulisse12,auxilier,1952,2055,0-1,"Nimzowitsch Defense: Kennedy Variation, Linksspringer Variation",B00,https://lichess.org/84OXt7QZ,300+0,Time forfeit,,,blitz,,2004.0,,,16290,2423,25242,,,blitz,,,,,11869,474,1768
+valera1977,SophiaRodgers,1979,2028,0-1,Sicilian Defense: French Variation,B40,https://lichess.org/j82uvuGN,120+0,Time forfeit,,,bullet,2279.0,2127.0,,,91818,5451,61917,,,unknown,,,,,0,0,0
+dersu64,belcebu,2328,2210,1-0,Sicilian Defense: Hyperaccelerated Dragon,B27,https://lichess.org/ehwxRAYc,180+0,Time forfeit,,,blitz,2311.0,2401.0,,,13598,1656,10901,,,blitz,,,,,1826,199,1213
+Iouki,nakasparov,2167,2079,1-0,King's Indian Defense: Six Pawns Attack,E77,https://lichess.org/RmVePFp6,30+1,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+Koutsalogo,oh_my_goat_Im_so_bat,2613,2121,1-0,Zukertort Opening: Sicilian Invitation,A04,https://lichess.org/mWuL0vQo,30+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+Rahim3000,Dewi-Cinta,2104,2269,0-1,"Sicilian Defense: O'Kelly Variation, Normal System, Taimanov Line",B28,https://lichess.org/8306cBex,180+3,Normal,,,blitz,,2353.0,,,7642,859,6074,,,blitz,,,,,762,48,311
+mpf16,aguilar_m,2023,2317,1/2-1/2,King's Pawn Game: Maroczy Defense,B07,https://lichess.org/PLDsxD2Z,300+2,Normal,,,blitz,,2147.0,,,46,8,38,,,blitz,,,,,1271,157,450
+Fangz,mezi,2208,2127,1-0,Queen's Pawn Game: Colle System,D04,https://lichess.org/KIGxYYST,180+0,Time forfeit,,,blitz,,,,,73,8,21,,,blitz,,,,,148,14,149
+Kerium,ditzoo,2077,2105,1-0,Nimzo-Indian Defense: Spielmann Variation,E22,https://lichess.org/0ny5jSnl,120+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2017.0,2256.0,,,25823,1610,15586
+ToLazyToGetAName,OhNoMyPants,2470,2304,1-0,Russian Game: Three Knights Game,C42,https://lichess.org/Wp2dSMoA,180+2,Time forfeit,,,unknown,,,,,0,0,0,,LM,blitz,2558.0,2449.0,2409.0,,10549,1207,6761
+e4_c5,mehdi58,2076,2175,1-0,Benoni Defense,A56,https://lichess.org/lwrGwZiN,180+0,Time forfeit,,,blitz,,,,,2640,292,2313,,,blitz,2393.0,2336.0,,,40243,4906,38476
+Maratqr,OneShoe,2087,1966,0-1,Owen Defense,B00,https://lichess.org/5zA583Ab,180+0,Time forfeit,,,blitz,,2151.0,,,9553,944,11234,,,blitz,,2021.0,,,6989,525,5964
+antoni_m,SofiaWest,2058,2100,0-1,Slav Defense #2,D10,https://lichess.org/bcJ1NbzT,60+0,Normal,,,bullet,,,,,1951,181,1797,,,bullet,2251.0,2177.0,,,10291,486,4942
+Nick23,Timurist,1973,2171,0-1,"English Opening: Anglo-Indian Defense, Queen's Knight Variation",A16,https://lichess.org/lyRaTmGY,180+0,Normal,,,blitz,,,,,1054,107,744,,,unknown,,,,,0,0,0
+Unstoppabble,boy20111,2352,2169,1-0,"Benoni Defense: Benoni-Indian Defense, Kingside Move Order",A43,https://lichess.org/TzgeElLA,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,854,45,521
+ctlfc26,crunch02,2214,2150,1-0,Caro-Kann Defense: Exchange Variation,B13,https://lichess.org/Sr4HUTxs,60+0,Normal,,,bullet,,,,,1589,149,1262,,,bullet,2410.0,2298.0,,,37443,4016,33864
+Gearty,trvth,2420,1968,1-0,Bishop's Opening: Berlin Defense,C24,https://lichess.org/mpLZfPp0,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,5720,203,4402
+puppyluvr420,Litium,2751,2369,1-0,Modern Defense: Standard Line,B06,https://lichess.org/hlzNer6Q,30+0,Time forfeit,,,bullet,,2664.0,,,7086,337,2005,,,bullet,,,,,5452,645,3320
+noodle_gasp,Avatar66,2126,2049,1-0,King's Indian Attack,A08,https://lichess.org/zYwTk14K,300+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+efrenlcruzada,Jansoldier,1954,2048,1-0,Ruy Lopez: Steinitz Defense,C62,https://lichess.org/RImc1l0b,300+5,Time forfeit,,,blitz,,,,,1782,132,1925,,,blitz,,1998.0,,,13148,1816,19221
+afshinm,azzazello,2085,2258,0-1,French Defense: Steiner Variation,C00,https://lichess.org/mL7sZUoT,300+5,Normal,,,puzzle,,,,,11174,737,9490,,,rapid,,,,,495,71,304
+Blatter,cyrus57,2109,2211,0-1,Queen's Pawn Game #2,D00,https://lichess.org/RI8gySni,60+0,Normal,,,bullet,,,,,1507,124,1293,,,blitz,,,,,477,64,533
+G_Ranger,Freakwave,2008,2129,0-1,Sicilian Defense: Closed Variation,B23,https://lichess.org/hkkkWMLu,300+0,Normal,,,blitz,,1945.0,,,12685,1400,11568,,,unknown,,,,,0,0,0
+kahne12,Vaddos,2056,1989,1-0,Queen's Pawn Game,D00,https://lichess.org/mcwgx8mZ,60+0,Normal,,,bullet,,,,,1561,111,1526,,,unknown,,,,,0,0,0
+zihi,WhyNotBe,2200,2284,0-1,"French Defense: Exchange Variation, Svenonius Variation",C01,https://lichess.org/C6rlDp2h,900+10,Normal,,,kingOfTheHill,,,,,1056,120,1161,,,unknown,,,,,0,0,0
+midonik16,gedis2,2110,1907,1-0,Horwitz Defense,A40,https://lichess.org/vFmJTd8D,180+2,Time forfeit,,,blitz,2377.0,2244.0,,,9642,1047,5492,,,blitz,,2123.0,,,19498,1929,21546
+DrMohammed,dmiclass777,2096,2003,1-0,Sicilian Defense: Paulsen Variation,B44,https://lichess.org/pUSxalMF,600+5,Normal,,,bullet,,,,,1827,172,2092,,,rapid,,1800.0,1936.0,,8247,1161,5765
+steffanovo,chupchup,2271,1954,0-1,"English Opening: Anglo-Indian Defense, Scandinavian Defense, Exchange Variation",A15,https://lichess.org/QyUpbpFJ,180+0,Normal,,,blitz,,,,,9161,816,6202,,,puzzle,,,,,508,56,422
+StefanNK,N0VAT0,2153,1956,0-1,Old Benoni Defense,A43,https://lichess.org/c3A3ELVc,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+gorankumanovo,avikavik666,2146,1986,1-0,Sicilian Defense: Smith-Morra Gambit,B21,https://lichess.org/6sv0JLgr,300+0,Normal,,,blitz,,2206.0,,,10588,1011,9801,,,puzzle,,,,,275,22,356
+Tanya_mari,azioneperpendicolare,2061,2138,1/2-1/2,Pirc Defense #4,B07,https://lichess.org/PJThKXj7,120+1,Normal,,,blitz,,1378.0,,,3418,309,3244,,,bullet,2229.0,2127.0,,,12844,2898,11418
+MusAlger,kirito777,1969,2324,0-1,English Opening: The Whale,C20,https://lichess.org/AXud1lys,720+10,Normal,,,unknown,,,,,0,0,0,,,puzzle,,,,,2890,202,717
+Maximator,spanzr,1950,2076,0-1,French Defense: Exchange Variation,C01,https://lichess.org/YMsCSEWu,180+0,Normal,,,blitz,,2005.0,,,21511,2348,17601,,,blitz,,,,,3247,275,2779
+Shein,Khomich,2006,2000,0-1,Sicilian Defense: McDonnell Attack,B21,https://lichess.org/r2w2WF0g,180+1,Normal,,,blitz,,,,,698,90,753,,,bullet,2104.0,,,,14640,1517,16198
+matveis,chessfan1,1943,2099,1-0,Queen's Indian Defense: Kasparov Variation,E12,https://lichess.org/2Ipko4gy,60+0,Normal,,,blitz,2573.0,2434.0,2386.0,,18511,2530,16989,,,unknown,,,,,0,0,0
+Daedela,Obito2016,1903,2239,1-0,"French Defense: Classical Variation, Steinitz Variation",C11,https://lichess.org/gwpYfprM,60+0,Normal,,,bullet,,,,,2115,116,2976,,,bullet,2403.0,2320.0,,,8817,1152,6718
+juero,suleymano,2159,1859,1-0,Horwitz Defense,A40,https://lichess.org/4ccSbXLb,180+0,Normal,,,puzzle,,,,,5898,230,2246,,,blitz,,1651.0,1728.0,,22374,2469,22410
+vlaja13,IMATOUTMIS,2089,2053,1-0,Sicilian Defense: Four Knights Variation,B45,https://lichess.org/mmZeErid,180+0,Time forfeit,,,blitz,,,,,16812,1898,21942,,,blitz,,,,,4043,371,4481
+uditkamdar,alizay,2135,2015,1-0,Sicilian Defense: Closed,B23,https://lichess.org/P1xdiusn,600+0,Normal,,,blitz,2463.0,,,,3052,286,2317,,,blitz,,,,,3711,291,3449
+viareggio,guyrashko,2076,2068,1/2-1/2,Hungarian Opening: Symmetrical Variation,A00,https://lichess.org/spTmhcco,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,8380,267,5000
+Bad4life,dainiusk,2395,2049,1-0,Modern Defense: Pseudo-Austrian Attack,B06,https://lichess.org/NG7N1Tj9,60+0,Normal,,LM,bullet,2701.0,2501.0,,,33895,1771,15957,,,bullet,2335.0,,,,19602,2186,17278
+shelkovnikov,YuryKuznetsov,1921,2105,1/2-1/2,Polish Opening: King's Indian Variation,A00,https://lichess.org/Zceei0QI,300+0,Normal,,,blitz,,1704.0,,,3479,143,3710,,,blitz,2402.0,,,,11445,925,9930
+sunsettosunrise,ashilov,2163,2127,1-0,"Sicilian Defense: Kan Variation, Knight Variation",B43,https://lichess.org/WAfmhBSt,300+8,Normal,,,unknown,,,,,0,0,0,,,bullet,1492.0,1961.0,,,40842,2177,40565
+Atlanosos,GMaster2874,2186,2093,0-1,"Lion Defense: Anti-Philidor, Lion's Cave",B07,https://lichess.org/Ngx3XsKY,180+1,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,3949,370,5108
+Reginald,Pablouned,1928,2102,1-0,Ruy Lopez: Berlin Defense: Mortimer Variation,C65,https://lichess.org/LctiYiuw,1200+20,Normal,,,blitz,,1910.0,2056.0,,13918,2114,11271,,,rapid,,,2059.0,2102.0,6979,635,4246
+UnderPrez,spartasoldier,2146,2143,0-1,Caro-Kann Defense: Exchange Variation,B13,https://lichess.org/sieGHqEB,60+0,Normal,,,bullet,,,,,13542,883,11038,,,bullet,2374.0,2244.0,,,34310,3552,25707
+Locutus-Of-Borg,JustLiveKZ,2083,1938,1-0,Robatsch (Modern) Defense,B06,https://lichess.org/ztp3WwbR,30+0,Normal,,,blitz,,1961.0,,,11799,992,10386,,,blitz,,2111.0,,,7044,1123,8968
+giannimekk,hrnanec,1958,2115,1/2-1/2,Philidor Defense: Exchange Variation,C41,https://lichess.org/bv1vlIcr,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,2992,206,1879
+topce,martin1804,2311,2101,0-1,Queen's Gambit Declined: Cambridge Springs Variation,D52,https://lichess.org/wCw38A6E,180+0,Time forfeit,,CM,bullet,2415.0,2408.0,,,47955,3859,54470,,,blitz,,2299.0,,,3645,401,2881
+hackattack,Takeda,1735,2417,0-1,Zukertort Opening: Sicilian Invitation,A04,https://lichess.org/kisxl5S6,60+0,Normal,,,puzzle,2216.0,1930.0,2154.0,,2481,169,2443,,,bullet,2575.0,2318.0,,,119597,6488,63394
+robert_jordan,cuerosky,2008,2045,1-0,Van't Kruijs Opening,A00,https://lichess.org/syM7a3K0,180+1,Time forfeit,,,bullet,,,,,3523,403,3580,,,blitz,2216.0,2218.0,2185.0,,60859,4126,28730
+tomp1900,angusss,1925,2258,0-1,Sicilian Defense: Bowdler Attack,B20,https://lichess.org/3SQcx80x,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,4991,610,3407
+petrovich42,WildWhoosh,2067,2139,1-0,English Opening: Agincourt Defense,A13,https://lichess.org/mWxdDsz8,480+8,Normal,,,blitz,,,,,833,93,787,,,blitz,,,,,6162,584,6174
+adda,kaanaydin,2020,2053,0-1,"Four Knights Game: Spanish Variation, Symmetrical Variation",C49,https://lichess.org/Ra4NDEOs,180+2,Normal,,,blitz,,,,,10557,1791,8995,,,unknown,,,,,0,0,0
+mainline_novelty,chelin,2238,1945,0-1,Queen's Pawn,A40,https://lichess.org/8spGqedu,30+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,11967,961,17510
+Keks100,akoking,2236,2040,0-1,Sicilian Defense,B50,https://lichess.org/SEo2vrsG,180+0,Time forfeit,,,bullet,,,,,1016,109,745,,,bullet,,,,,18866,3554,18950
+Jaguar_26,Zipperface,2139,2192,0-1,Queen's Pawn,A40,https://lichess.org/APrIIf8D,60+0,Time forfeit,,,bullet,,,,,9200,1032,6426,,,bullet,2347.0,2231.0,,,65416,4388,35815
+hughstonparle,Pterodactyl,1931,2305,0-1,"Nimzo-Indian Defense: Saemisch Variation, Accelerated",E24,https://lichess.org/e7yVUZx9,900+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+Firefly_spz,Mayjin,1890,2245,1-0,Horwitz Defense,A40,https://lichess.org/9OIJumDd,60+0,Normal,,,bullet,2203.0,1954.0,1927.0,,16898,1432,15497,,,bullet,,,,,23069,1396,13969
+msda,NikaruHakamura,2140,2020,0-1,Gruenfeld Defense: Exchange Variation,D85,https://lichess.org/iZb1b6wP,180+0,Normal,,,bullet,2102.0,,,,53554,4191,59345,,,blitz,,,,,12481,536,6728
+tcr1144,Kiteloop,1954,2133,0-1,Scandinavian Defense,B01,https://lichess.org/HaCCvuvY,180+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2102.0,,,,5480,366,3602
+jrsc,kyrpa-jooseppi,2095,1943,1-0,Caro-Kann Defense: Panov Attack #2,B13,https://lichess.org/yyEaWW0P,600+0,Normal,,,blitz,,,,,10401,1573,8174,,,unknown,,,,,0,0,0
+Maxpch21,andyquibler,2159,2350,0-1,"Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation",B21,https://lichess.org/gD8LQdoW,180+0,Normal,,,blitz,,2327.0,,,3426,453,3116,,LM,bullet,,,,,3930,216,2083
+gels45,thomas2012175,2073,1979,1-0,Semi-Slav Defense: Accelerated Move Order,D31,https://lichess.org/uICCLsBV,300+0,Time forfeit,,,blitz,,1995.0,,,14141,1285,12337,,,bullet,,,,,4365,452,4066
+delcatto,tremonti,2052,2027,1-0,Grob Opening: Spike Attack,A00,https://lichess.org/l9nESyMZ,180+0,Time forfeit,,,blitz,,,,,5454,645,4432,,,bullet,,,,,5275,419,3746
+Bangladesh,anulov,2032,2270,1-0,French Defense: Knight Variation,C00,https://lichess.org/pL2HGgZG,300+0,Normal,,,blitz,,,,,1787,113,1091,,,blitz,2033.0,2187.0,2316.0,,26451,1169,6443
+themunky,secretcm,2324,2126,1/2-1/2,Bird Opening,A02,https://lichess.org/dTJ3mG5F,120+0,Normal,,,bullet,,2403.0,,,24733,2424,15768,,,bullet,2254.0,,,,16639,1059,7509
+janomiso,bakeds,2094,1947,1-0,Nimzo-Larsen Attack: Classical Variation,A01,https://lichess.org/lKkgUjtA,60+0,Time forfeit,,,bullet,2192.0,,,,125248,7105,124762,,,bullet,2110.0,1982.0,,,15701,1079,18904
+babamohsen32,brainlimit,2052,2178,0-1,Sicilian Defense: Chekhover Variation,B53,https://lichess.org/jL6qOQ5v,300+4,Normal,,,blitz,,,,,6948,519,3121,,,puzzle,,,,,2468,346,935
+O00o,FEREYDOON,1990,2048,0-1,Sicilian Defense: Open #3,B32,https://lichess.org/Ybp58W46,180+0,Time forfeit,,,blitz,,,,,1965,141,3948,,,unknown,,,,,0,0,0
+Encordado,flame2038,2007,2322,0-1,Caro-Kann Defense: Breyer Variation,B10,https://lichess.org/fJxq4hdC,60+0,Normal,,,bullet,,,,,26000,3033,46057,,,bullet,2172.0,,,,8264,595,5415
+Quynhmit123,germanperov,1967,2120,1/2-1/2,Bird Opening: Dutch Variation,A03,https://lichess.org/f1QoogaV,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,2971,243,1875
+jaythewiner,cdl15,2217,1848,1-0,Philidor Defense #4,C41,https://lichess.org/vBFathTx,180+0,Time forfeit,,,bullet,,,,,353,11,291,,,bullet,2019.0,2058.0,,,80763,5696,79873
+vrekhson,kiker-am,1978,2031,1-0,"Ruy Lopez: Morphy Defense, Caro Variation",C70,https://lichess.org/jYrx10Um,180+0,Normal,,NM,bullet,2298.0,2225.0,2180.0,,13915,989,9054,,,blitz,,2005.0,,,24085,946,16359
+Zvonimir1932,emaaa21,1919,2257,0-1,Scandinavian Defense: Gubinsky-Melts Defense,B01,https://lichess.org/9HrjIuwS,600+0,Normal,,,puzzle,,,,,25598,1894,5141,,,unknown,,,,,0,0,0
+quetiotu,igkl2,2229,1946,1-0,"Ruy Lopez: Closed Variations, Pilnik Variation",C90,https://lichess.org/POUpKrDe,60+1,Normal,,,bullet,2261.0,2220.0,,,31094,1815,26326,,,unknown,,,,,0,0,0
+Serzh1956,soho,2162,1884,1-0,"King's Indian Defense: Orthodox Variation, Gligoric-Taimanov System",E92,https://lichess.org/Gwn9oIKB,300+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2020.0,2032.0,,,15700,883,14265
+zlkjhgfdsapoiuytrewq,jj2033,1958,2077,1-0,Queen's Pawn Game: Chigorin Variation,D01,https://lichess.org/cDLFSuGS,600+0,Normal,,,blitz,,,,,3608,363,4849,,,unknown,,,,,0,0,0
+pesicdragan1954,match_gems,2247,2001,0-1,Sicilian Defense: Old Sicilian,B30,https://lichess.org/poBPK1xB,300+0,Time forfeit,,,blitz,,,,,7616,970,5674,,,unknown,,,,,0,0,0
+nesa10,nqclimaster,2146,2061,1-0,Bishop's Opening,C23,https://lichess.org/S2QYeg3X,600+0,Normal,,,unknown,,,,,0,0,0,,,rapid,,,,,9010,2054,9808
+shelajev,orthanc,2139,2069,1-0,French Defense: Paulsen Variation,C10,https://lichess.org/Pd9lZiqv,180+0,Normal,,,blitz,2528.0,2260.0,,,10667,978,11110,,,unknown,,,,,0,0,0
+lufo,Oontack,2170,1885,1-0,Caro-Kann Defense,B10,https://lichess.org/Fu95Mmo0,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+jokijo,dignocrib,1945,2065,1-0,Sicilian Defense: McDonnell Attack,B21,https://lichess.org/t1Plykhg,540+2,Time forfeit,,,rapid,,,,,5607,673,7335,,,rapid,,,,,8345,614,6236
+shaxMSTAtist,smmnna,2189,2029,1/2-1/2,Sicilian Defense: Smith-Morra Gambit,B21,https://lichess.org/IwOQdVke,900+2,Normal,,,blitz,2405.0,2438.0,,,22732,2530,20491,,,bullet,2366.0,2424.0,2410.0,,13314,1004,16287
+vlabor64,Vko_2002,2135,2271,0-1,Semi-Slav Defense: Noteboom Variation,D31,https://lichess.org/7W9W6tVe,180+0,Time forfeit,,,blitz,,,,,13289,1030,28784,,,puzzle,,,,,6293,857,4308
+Bussinesman,Patzer74,1985,2095,0-1,"Benko Gambit Accepted, Fully Accepted Variation",A58,https://lichess.org/VFWXb6pK,2700+45,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,,1973.0,,,8569,1109,7274
+Momo-NK,one_trick_pony,1937,2124,0-1,Englund Gambit Complex Declined,A40,https://lichess.org/otXuPc5u,180+0,Normal,,,blitz,,,,,406,85,686,,,bullet,2478.0,2288.0,,,57442,2325,47270
+Ziryab,c1b1,2112,2082,0-1,Nimzo-Larsen Attack: Modern Variation #4,A01,https://lichess.org/8vYSFDnw,300+0,Time forfeit,,,blitz,,,,,9405,672,3434,,,unknown,,,,,0,0,0
+VNG55,Vyllyama,1976,2051,0-1,Old Indian Defense,A53,https://lichess.org/NrqX9gKh,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,440,80,220
+ValKillme,PiotrAnton,2150,2066,0-1,Van't Kruijs Opening,A00,https://lichess.org/AagbsGOd,60+0,Time forfeit,,,bullet,,,,,12346,806,12885,,,bullet,2200.0,2017.0,,,18950,1403,19958
+heto86,EnergyVision,2069,2441,0-1,Sicilian Defense: Scheveningen Variation,B80,https://lichess.org/KOnui5hy,180+0,Normal,,,blitz,2067.0,2141.0,,,2509,278,2025,,,bullet,2635.0,2485.0,,,10779,718,6840
+pree,TRITWN,2120,2121,0-1,Modern Defense: Standard Defense,B06,https://lichess.org/Eia4G6LF,60+0,Normal,,,blitz,,2168.0,,,32415,2901,27068,,,bullet,,,,,16024,1242,22528
+banszegi,plut1962,2037,2083,1-0,Scandinavian Defense,B01,https://lichess.org/PfAYDKMm,300+5,Time forfeit,,,blitz,,1969.0,,,23805,710,15146,,,unknown,,,,,0,0,0
+Xochiquetzal,mark333,2284,1831,1-0,Queen's Pawn Game: London System,D02,https://lichess.org/6kGOJxLr,300+0,Normal,,,puzzle,,2096.0,2336.0,,691,63,340,,,blitz,,1763.0,1806.0,1944.0,32039,2298,30024
+civaxone,Viktor_Krupin,2013,2152,0-1,Queen's Indian Defense,E12,https://lichess.org/aBu1d0BZ,900+0,Normal,,,blitz,,,,,1624,117,1517,,,unknown,,,,,0,0,0
+Thalagor,Bradonja,2132,1966,1-0,Zukertort Opening: Gruenfeld Reversed,A49,https://lichess.org/RX5oaxD3,300+0,Normal,,,puzzle,,2183.0,2323.0,,1692,168,1318,,,blitz,,,,,6755,348,4965
+mihranp,ilkerozyurek,2124,1892,1-0,French Defense: Normal Variation,C00,https://lichess.org/KrNM8glB,600+0,Normal,,,blitz,2341.0,2318.0,2275.0,,5793,643,4957,,,unknown,,,,,0,0,0
+dhairya1025,heimoelo,2028,2093,0-1,Caro-Kann Defense: Exchange Variation,B13,https://lichess.org/DyhwXuF8,60+0,Normal,,,bullet,,,,,163,8,115,,,bullet,2362.0,1971.0,,,13614,1485,10664
+wynstaanchills,apostolis1,1976,2206,0-1,Trompowsky Attack,A45,https://lichess.org/s48ceoTF,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2597.0,2432.0,,,27459,1391,13480
+razum,gusanovich,2070,1956,1-0,Philidor Defense #3,C41,https://lichess.org/bjESjQOY,120+0,Normal,,,blitz,2147.0,2179.0,,,5589,636,3804,,,puzzle,,,,,426,24,252
+bopbop,iksniark66,2119,2187,1/2-1/2,"Italian Game: Giuoco Pianissimo, Normal",C50,https://lichess.org/Wms1yMQP,180+2,Normal,,,bullet,,,,,5139,516,4747,,,bullet,,,,,6505,762,3638
+everman555,Ellhaak,2143,2134,1-0,"King's Indian Defense: Normal Variation, King's Knight Variation",E60,https://lichess.org/WzeAumbQ,300+3,Normal,,,bullet,2236.0,2324.0,,,14520,950,13914,,,blitz,,,,,4127,498,3235
+zagortenay,TripleBlunder,2017,2070,0-1,Queen's Gambit Declined: 4.Bg5 Be7,D53,https://lichess.org/GZyF7HkT,60+0,Time forfeit,,,bullet,2329.0,2365.0,,,11076,1287,8623,,,unknown,,,,,0,0,0
+amine-hijazi,dkobra,1902,2145,0-1,"Ruy Lopez: Morphy Defense, Anderssen Variation",C77,https://lichess.org/FRpXyJbu,480+0,Normal,,,puzzle,,,,,1227,117,1343,,,unknown,,,,,0,0,0
+Ilya_Pugachov,muhammadshahid,2309,2205,0-1,French Defense: Wing Gambit,C00,https://lichess.org/zrw7eJiA,180+0,Normal,,,blitz,,,,,824,131,1097,,,blitz,,,,,3199,509,4736
+kurgan2016,asker07,2149,1996,1-0,"English Opening: King's English Variation, Two Knights Variation",A22,https://lichess.org/PbXjUzZ6,180+0,Time forfeit,,,blitz,,2100.0,,,23226,2454,22825,,,puzzle,2042.0,2062.0,,,8962,682,7296
+kiseiju,jyeyl,2119,1911,1-0,"French Defense: Tarrasch Variation, Closed Variation",C05,https://lichess.org/Y1A4vNoi,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2222.0,2131.0,,,20238,1808,15482
+anim_eskan,toivok,1741,2551,0-1,Sicilian Defense: Hyperaccelerated Fianchetto,A42,https://lichess.org/l4a8t2wE,30+0,Normal,,,bullet,,,,,14919,844,10874,,IM,bullet,,,,,33835,1609,11065
+sorito,Gialess,2397,2074,1-0,"King's Indian Defense: Fianchetto Variation, Panno Variation",E63,https://lichess.org/px1UMGqd,180+0,Normal,,FM,blitz,,,,,3927,268,2223,,,puzzle,,,,,13322,440,2876
+anodino,Ivan_Vodka,2152,2015,1-0,Richter-Veresov Attack,D01,https://lichess.org/ztUebbLV,300+0,Time forfeit,,,blitz,,2169.0,,,15703,1812,15771,,,puzzle,,,,,32305,2810,26315
+Apostol,dane1,1950,2260,0-1,Scotch Game: Haxo Gambit,C45,https://lichess.org/ikBkLyhD,300+0,Normal,,,blitz,1728.0,1998.0,2005.0,,33235,1626,28339,,,blitz,,,,,2713,171,1460
+Morkant,strach-na-wroble,2011,2019,1-0,"English Opening: King's English Variation, Two Knights Variation, Reversed Dragon",A22,https://lichess.org/Car6hMCP,60+3,Normal,,,blitz,2066.0,,,,5968,871,5711,,,unknown,,,,,0,0,0
+brodski,R45WW,2036,1973,0-1,Modern Defense: Standard Defense,B06,https://lichess.org/E3k8xgds,600+10,Normal,,,rapid,,,,,8956,887,10120,,,unknown,,,,,0,0,0
+Pierrodactyle,ariya91,2058,1979,1-0,English Opening: King's English Variation,A20,https://lichess.org/JuIvimE7,180+0,Time forfeit,,,blitz,,1942.0,,,6143,954,5350,,,bullet,,,,,2413,173,3917
+Beyond_Birthday,hritic333,2092,1957,1-0,French Defense: Exchange Variation,C01,https://lichess.org/E6E8TYFD,1200+10,Normal,,,blitz,,,,,459,59,461,,,rapid,1775.0,1894.0,1972.0,,18978,991,14243
+jbarthlomewtwo,Bayartulga,2040,2058,1-0,Owen Defense,B00,https://lichess.org/cybAwMyV,180+0,Normal,,,bullet,,2102.0,,,14036,529,7404,,,unknown,,,,,0,0,0
+pianist777,aktajha,1895,2162,1-0,Sicilian Defense: Four Knights Variation,B45,https://lichess.org/gXvjkYSB,300+0,Normal,,,blitz,,,,,1644,157,2487,,,blitz,,,,,11553,1047,6933
+Dav_0001,stergio,2037,2039,1-0,King's Indian Defense: Orthodox Variation,E91,https://lichess.org/ASRqGhOY,180+0,Normal,,,blitz,,2237.0,,,13480,923,9701,,,blitz,2205.0,2215.0,2201.0,2072.0,27385,3832,25732
+Falco1974,Yurachka,2126,1889,0-1,Sicilian Defense: Classical Variation,B56,https://lichess.org/9tBCxC35,600+0,Time forfeit,,,blitz,2010.0,2087.0,2151.0,2158.0,38417,3476,16957,,,rapid,,,,,3253,440,3308
+Chess3054,Capi_Capitan,2062,1954,1-0,Scotch Game,C45,https://lichess.org/FcXKysqe,180+0,Normal,,IM,puzzle,2807.0,2603.0,,,12381,873,5292,,,blitz,,,,,18058,1270,15492
+Turukmakkto,megaserg86,1945,2146,0-1,"Alekhine Defense: Scandinavian Variation, Geschev Gambit",B02,https://lichess.org/bOHez490,60+0,Normal,,,bullet,2289.0,2109.0,,,102630,4590,78782,,,bullet,2379.0,2351.0,,,44855,2552,52608
+hitsuji,shasansalari,2294,2170,1-0,"Sicilian Defense: Kan Variation, Wing Attack",B43,https://lichess.org/eSrKttZw,60+0,Normal,,,bullet,2724.0,2524.0,2426.0,,24747,3113,13279,,,unknown,,,,,0,0,0
+kekss5,chessstrategy,2234,2331,1-0,Sicilian Defense: Scheveningen Variation,B80,https://lichess.org/1cWJXlyp,240+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+FireonBoard,smurf42,2554,2585,0-1,Sicilian Defense: Alapin Variation,B22,https://lichess.org/GGntlqBM,180+0,Normal,,IM,bullet,2902.0,2705.0,,,7341,849,4870,,NM,blitz,2981.0,2635.0,,,22708,2585,11502
+perycarion,Swatchess,2372,1900,1-0,Caro-Kann Defense: Goldman Variation,B12,https://lichess.org/MdWhckDv,60+0,Normal,,,bullet,2581.0,,,,24683,2356,16580,,,bullet,,,,,13185,1545,8560
+jafar-mohammadi,eliasrod,2073,1994,1-0,"French Defense: Advance Variation, Paulsen Attack",C02,https://lichess.org/XRtEu8dy,60+16,Normal,,,rapid,,1626.0,,,8308,556,5875,,,blitz,1810.0,1972.0,2071.0,,22953,3611,33476
+vigues2015,azzurrini,2027,2290,1-0,Reti Opening #2,A04,https://lichess.org/IK5kPurs,60+0,Time forfeit,,,bullet,2262.0,,,,45715,3864,30949,,,bullet,,,,,36393,3739,26364
+tequ,Uvas822,2193,2171,1-0,"Old Indian Defense: Janowski Variation, Fianchetto Variation #2",A53,https://lichess.org/MNXXQ3b1,180+0,Time forfeit,,,blitz,2357.0,2132.0,,,14753,811,14485,,,unknown,,,,,0,0,0
+Amantis,NotTalented,2077,2015,1-0,Sicilian Defense: Delayed Alapin,B50,https://lichess.org/hdIAxLru,180+0,Normal,,,bullet,,,,,3566,221,3646,,,blitz,2055.0,1928.0,,,6784,807,8435
+pacalmisu,pishchalnikov1999,2390,2355,0-1,"King's Gambit Accepted, Bishop's Gambit, Anderssen Defense",C33,https://lichess.org/GxKUKvkr,180+0,Normal,,,blitz,,2217.0,2299.0,,4591,952,5549,,,blitz,,,,,146,13,65
+john_boone,mrzlopolis2,2217,1898,0-1,Blackmar-Diemer Gambit: Netherlands Variation,D00,https://lichess.org/F3q5loHw,30+0,Normal,,,bullet,,,,,17691,929,11967,,,bullet,2101.0,,,,20235,2027,23679
+goldilocks,blue13,2077,1997,1-0,English Opening: Jaenisch Gambit,A10,https://lichess.org/WoZRYVpY,0+1,Time forfeit,,,bullet,2216.0,,,,6713,686,7912,,,bullet,2256.0,2012.0,,,52193,3133,53801
+habo,leptonic,1958,2259,0-1,"Sicilian Defense: Modern Variations, Main Line",B57,https://lichess.org/SRsWJdam,600+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,3831,373,2274
+slagi,ches12,2005,1996,0-1,Queen's Indian Defense: Fianchetto Traditional,E15,https://lichess.org/SeBKrtke,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2030.0,2073.0,,,1674,219,1747
+wesh,shuster,2201,2420,0-1,Queen's Indian Accelerated,A50,https://lichess.org/FXWzo4oq,180+0,Time forfeit,,,blitz,,,,,9085,827,6943,,,bullet,2503.0,,,,19992,1763,15076
+teach1914,xnaop,2106,1936,1/2-1/2,Zukertort Opening: Kingside Fianchetto,A04,https://lichess.org/K9pcfdLw,60+0,Time forfeit,,,bullet,,,,,17550,1058,10831,,,bullet,,,,,350,42,660
+Admin-Skom,mojtaba7794,1963,2072,0-1,French Defense: Normal Variation,C00,https://lichess.org/XIpU6Hc8,60+0,Normal,,,bullet,,,,,577,24,444,,,unknown,,,,,0,0,0
+GMDiatlov,avanrike65,1932,2107,0-1,Trompowsky Attack: Classical Defense,A45,https://lichess.org/tXyFo9pz,300+0,Normal,,,blitz,1844.0,1906.0,,,16361,1586,16990,,,blitz,,,,,2710,225,1261
+miladksh,h4rl3k1n,2185,2314,0-1,Sicilian Defense: Grand Prix Attack,B23,https://lichess.org/O1QzXWcI,300+2,Normal,,,unknown,,,,,0,0,0,,FM,blitz,,2468.0,,,2042,193,727
+King_of_Victoria,Unikum,2350,2306,1-0,Italian Game: Deutz Gambit,C55,https://lichess.org/4RWqPuvT,180+0,Normal,,,blitz,,,,,1003,91,913,,,blitz,2507.0,,,,16519,2271,9577
+puesnada,Hiawatha-2,1989,2023,1-0,Queen's Pawn,A41,https://lichess.org/2eDisIUP,300+0,Time forfeit,,,bullet,2102.0,2001.0,,,37657,2582,59178,,,bullet,1920.0,,,,56082,2923,66495
+jero21000,T_LUKE,2169,1905,1-0,"Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan",D02,https://lichess.org/VpdpccpN,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,18376,921,18323
+churrosagogo,DiscoKnights,2046,1994,0-1,Italian Game,C50,https://lichess.org/96SSUlPt,60+0,Time forfeit,,,puzzle,,,,,17027,802,13392,,,bullet,2048.0,1963.0,,,25436,1423,25351
+TheJoker19,kaczy,2042,2019,0-1,"King's Gambit Accepted, Bishop's Gambit",C33,https://lichess.org/9ZTZRty0,180+0,Normal,,,blitz,,,,,16056,2081,18634,,,bullet,2378.0,,,,11208,973,7135
+FearNoEvil12,raika,2074,1928,1-0,Center Game: von der Lasa Gambit,C21,https://lichess.org/uxrOyEwB,120+2,Time forfeit,,NM,blitz,,,,,1855,91,781,,,bullet,1939.0,,,,16329,1092,21319
+Aiss,PeshkaCh,2134,2056,0-1,Indian Game,A45,https://lichess.org/WmI2ibmO,480+0,Normal,,,blitz,,2148.0,,,29156,3964,19346,,FM,puzzle,3057.0,,,,20891,2075,9323
+ChessTaurus,akifm,2085,2037,1-0,English Opening,A10,https://lichess.org/oQgLFXEm,120+0,Time forfeit,,,bullet,,,,,14303,1376,17833,,,bullet,,,,,7058,890,8504
+dimkarr,hollebol,2071,2157,0-1,Modern Defense,A41,https://lichess.org/bjcCT8TZ,180+0,Normal,,,bullet,2021.0,2027.0,,,51248,4419,37420,,,blitz,,,,,3798,514,3734
+webcreator,kazminsemen,1841,2275,0-1,Alekhine Defense: Maroczy Variation,B02,https://lichess.org/bX3MM4rW,0+1,Time forfeit,,,bullet,2003.0,,,,4027,164,3587,,,unknown,,,,,0,0,0
+Sambhav,OccasionalBlunder,1970,2248,0-1,Indian Game: Budapest Defense,A51,https://lichess.org/svLEqbHf,60+2,Normal,,,bullet,2028.0,2057.0,,,2422,184,2205,,,blitz,,2300.0,,,7222,950,4726
+apsid,Andzke,2003,2184,0-1,"French Defense: Horwitz Attack, Papa-Ticulat Gambit",C00,https://lichess.org/28UkFW5h,180+0,Time forfeit,,,blitz,,2112.0,,,12342,1234,10566,,,blitz,,,,,4687,439,3323
+hansi_okdk,SLEEPING,1960,2179,1-0,Van't Kruijs Opening,A00,https://lichess.org/HSa0OB8q,300+8,Normal,,,rapid,,,1861.0,,17004,1289,6455,,,unknown,,,,,0,0,0
+BigCucumber,lepoytsa,2214,2236,0-1,Zukertort Opening: Sicilian Invitation,A04,https://lichess.org/NDVuWWmf,60+0,Time forfeit,,,bullet,,,,,1066,100,1530,,,bullet,,,,,952,143,1308
+agadou,bobi83,2017,2041,0-1,"Queen's Gambit Refused: Chigorin Defense, Exchange Variation",D07,https://lichess.org/w0FJncMb,300+0,Normal,,,blitz,,2183.0,,,3566,472,2988,,,unknown,,,,,0,0,0
+Geoffrey36,Mateychipa,2009,2000,1-0,Sicilian Defense: Grand Prix Attack,B23,https://lichess.org/mD6uHJFH,480+0,Normal,,,blitz,1993.0,,,,5174,503,5634,,,bullet,1853.0,1893.0,,,3795,173,3608
+Philidor1792,Pashtunboy,2144,1883,1-0,"Sicilian Defense: Alapin Variation, Smith-Morra Declined",B22,https://lichess.org/aQMSvxzz,180+0,Normal,,,bullet,2447.0,2433.0,2516.0,,38438,2561,30977,,,blitz,1961.0,1918.0,1988.0,,12532,1273,13035
+Autsch,drsushil,2058,1954,1-0,Sicilian Defense,B50,https://lichess.org/UGroxHJs,600+4,Time forfeit,,,puzzle,,1917.0,,,5172,1000,6115,,,blitz,,1760.0,,,7288,624,6753
+Osterhase,clevereduardo,2144,1938,1-0,"Nimzowitsch Defense: Scandinavian Variation, Exchange Variation",B00,https://lichess.org/LSFTvESl,1500+25,Normal,,,bullet,,2285.0,,,8888,824,7298,,,blitz,,,,,13524,1228,12028
+kamol58,Villiers,1815,2233,0-1,Alekhine Defense: Kmoch Variation,B02,https://lichess.org/Fv88kGea,300+8,Normal,,,blitz,,,,,26906,1176,13150,,,unknown,,,,,0,0,0
+forkedpiece,le_batman,1997,2092,0-1,Zukertort Opening: Sicilian Invitation,A04,https://lichess.org/U33UrbLM,60+0,Time forfeit,,,bullet,1592.0,,,,7673,280,7857,,,bullet,2166.0,2110.0,2056.0,,49279,4544,45928
+gambit672,mamadmeshk,1978,2149,0-1,"Sicilian Defense: Kan Variation, Knight Variation",B43,https://lichess.org/2G8O4HjK,600+0,Normal,,,blitz,,2231.0,2224.0,,13403,1162,12992,,,rapid,,,,,2082,234,1060
+elrond,ljdr,2322,2369,1-0,Indian Game: Przepiorka Variation,A49,https://lichess.org/GRIwZFeO,180+0,Normal,,,blitz,2400.0,2254.0,,,19313,3318,13646,,,blitz,2704.0,2494.0,,,34203,2963,31525
+jozarov,OHBANANA1972,2325,1956,1-0,Horwitz Defense,A40,https://lichess.org/tOBzZUj4,180+0,Normal,,,blitz,2601.0,2371.0,,,67467,7446,55420,,,bullet,2050.0,,,,69069,8877,78112
+pinnoy,ribarisah,2353,2193,0-1,Modern Defense,A40,https://lichess.org/aTVCASQG,0+1,Time forfeit,,,bullet,2554.0,2410.0,,,10931,570,5021,,,bullet,,,,,86033,8412,118371
+menetrend,kolybri,2153,2075,1-0,English Opening: King's English Variation,A20,https://lichess.org/koGZH7r3,60+0,Normal,,,bullet,,,,,2443,252,1674,,,bullet,,,,,14854,444,12414
+FaithNChaos,Ichigo123,2162,1991,1-0,Sicilian Defense: Delayed Alapin Variation,B40,https://lichess.org/eDT9a90W,45+0,Normal,,,bullet,2415.0,2164.0,2240.0,,34211,2798,26254,,,blitz,2276.0,2166.0,,,14419,2449,12353
+hasered,pensioner_98,2010,2001,0-1,"Ruy Lopez: Open Variations, Riga Variation",C80,https://lichess.org/kO7hbuB5,180+0,Normal,,,blitz,,1950.0,,,21575,1999,17703,,,bullet,2139.0,2015.0,,,12109,1557,10785
+faust0251,tsm-chess,2119,2103,1/2-1/2,"Dutch Defense: Stonewall Variation, Modern Variation",A90,https://lichess.org/gtp4SmTk,300+8,Normal,,,puzzle,,,,,143,11,39,,,unknown,,,,,0,0,0
+bulletbaby,tozimaru,1950,2074,0-1,Bird Opening,A02,https://lichess.org/bR06dgER,30+0,Normal,,,bullet,,,,,4770,228,4325,,,bullet,2500.0,2266.0,,,10256,483,7367
+marco44,wangliqin,2083,1982,1-0,"Sicilian Defense: Scheveningen Variation, Keres Attack",B81,https://lichess.org/73zInbrx,180+2,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,1601,116,1402
+Mars3000,nanozwer,2234,1825,1-0,Caro-Kann Defense: Main Line,B15,https://lichess.org/2BX5BVFp,180+0,Normal,,,blitz,2313.0,2285.0,,,35577,2930,14451,,,bullet,1568.0,1855.0,,,29222,1066,52233
+nikshok25,taio,1875,2155,0-1,Sicilian Defense,B20,https://lichess.org/X8BXTJ5g,300+8,Normal,,,rapid,,,,,41,6,39,,,unknown,,,,,0,0,0
+tehnari,yala,2127,1880,1-0,English Opening: King's English Variation,A20,https://lichess.org/mV92B3jA,1500+0,Normal,,,puzzle,,,,,566,53,159,,,blitz,,,,,223,19,630
+azuaga,KarlAugust,2071,2283,1/2-1/2,Sicilian Defense: Pin Variation,B40,https://lichess.org/C4LoWW9P,480+0,Normal,,,blitz,2117.0,2015.0,2103.0,,15930,1817,15907,,,blitz,,1983.0,2256.0,,15726,1662,12846
+werter_user,kazablanka,2050,2017,1-0,"Ruy Lopez: Classical Variation, Central Variation",C64,https://lichess.org/tJqB5BwH,180+0,Normal,,,blitz,,,,,402,23,374,,,blitz,,,,,6117,546,3588
+Kotov_Syndrome,hydargos,2032,2000,1-0,Queen's Gambit Refused: Baltic Defense,D02,https://lichess.org/H3lMH9DN,-,Normal,,,antichess,,,,,108104,8700,67843,,,blitz,,,,,587,41,355
+ahmedfaroukhameed,WelcomeToReality,1981,2090,0-1,Queen's Pawn Game: London System,D02,https://lichess.org/TheSyn2B,900+0,Normal,,,blitz,,1908.0,1958.0,,9293,1003,8768,,,unknown,,,,,0,0,0
+sasan_mansoori,RenanChess,2144,1959,1-0,"Sicilian Defense: Modern Variations, Main Line",B57,https://lichess.org/zfhsrBpM,1200+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+izetfazlinovic,MorozevichSP,2024,2037,0-1,Sicilian Defense: Hyperaccelerated Fianchetto,A42,https://lichess.org/xHwsp0G8,300+0,Normal,,,blitz,,2005.0,,,9397,834,9385,,,blitz,,,,,2929,283,2882
+Boldeagle,Cool94,2041,1974,1/2-1/2,Bird Opening: Williams Gambit,A03,https://lichess.org/XXRU6Eue,60+0,Normal,,,bullet,1949.0,1990.0,,,30441,1343,36601,,,unknown,,,,,0,0,0
+djek,Becri,1911,2103,0-1,"King's Gambit Accepted, Cunningham Defense, McCormick Defense",C35,https://lichess.org/5ZEahkvN,600+0,Normal,,,rapid,,,1842.0,1874.0,12841,1820,9229,,,rapid,,2340.0,2109.0,,1105,144,737
+afchex,warrior13,2063,1957,1-0,"Philidor Defense: Hanham Variation, Schlechter Variation",C41,https://lichess.org/8yfDE97z,60+0,Normal,,,blitz,2559.0,2440.0,2499.0,,49481,6252,39517,,,bullet,,,,,24321,1966,29472
+dgalanis,nizzle_fe_shizzle,2064,2098,1-0,Modern Defense,A40,https://lichess.org/1wjl4p7p,60+0,Time forfeit,,,bullet,2544.0,2229.0,,,50206,4732,56173,,,bullet,2298.0,,,,69953,5130,37112
+Leonardo_P,Nazaric35,2076,2092,1-0,Trompowsky Attack: Classical Defense,A45,https://lichess.org/cu4J1geW,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,1147,209,1055
+lugoking,Rotflmao,2136,2017,1-0,"Italian Game: Two Knights Defense, Steinitz Variation",C59,https://lichess.org/tZ5bYPe3,180+0,Normal,,,bullet,2474.0,2236.0,2390.0,,36061,3876,27779,,,antichess,2067.0,1927.0,2082.0,,33499,3134,48066
+nad767,acegrey,2164,1928,1-0,Blackmar-Diemer Gambit: Teichmann Variation,D00,https://lichess.org/bmt6raML,0+1,Normal,,,bullet,,,,,18671,1587,12137,,,bullet,,2150.0,,,24434,2015,14744
+Supermariob,Kalimtari,2047,1969,0-1,Sicilian Defense: Closed Variation,B23,https://lichess.org/CNp0gGHK,180+0,Normal,,,blitz,,2173.0,,,9160,1163,8906,,,blitz,,,,,482,35,288
+Philipp_Stuttgart,matkoOS,2098,2209,1-0,Nimzo-Larsen Attack: Classical Variation,A01,https://lichess.org/miRmuwvy,60+0,Normal,,,bullet,,,,,44802,2466,35555,,,unknown,,,,,0,0,0
+aleks63,agadmator,2218,1905,1-0,Dutch Defense: Rubinstein Variation,A84,https://lichess.org/5cSmC0QV,30+0,Time forfeit,,,bullet,,,,,32790,1041,8551,,,bullet,2289.0,2168.0,2243.0,,31589,2095,28903
+muzafer,sztep,2037,1990,1-0,Semi-Slav Defense: Bogoljubov Variation,D46,https://lichess.org/BQu3dLHL,300+3,Normal,,,blitz,,,,,226,8,81,,,blitz,,1948.0,,,7466,1197,20467
+Han_S,irinas,1987,2089,1-0,Queen's Pawn Game: Franco-Sicilian Defense,C00,https://lichess.org/FCy35Bbs,0+1,Normal,,,blitz,,,,,1391,212,1876,,,bullet,2128.0,,,,42371,3296,42474
+ZG-arh,2Ap,2214,2112,0-1,Scandinavian Defense: Modern Variation #2,B01,https://lichess.org/VyF20dNJ,180+0,Time forfeit,,,blitz,2010.0,2072.0,2114.0,,14655,1127,10642,,,blitz,,2325.0,,,8950,873,6502
+Maria_K,ensaha,2079,2314,1-0,Caro-Kann Defense: Panov Attack,B13,https://lichess.org/V4J3lWeO,180+0,Normal,,,blitz,,,,,7489,565,7057,,,puzzle,2321.0,2480.0,,,44065,1438,24655
+andrei70ster,Giacomix,2139,2014,1-0,English Opening: Caro-Kann Defensive System,A11,https://lichess.org/etoX2FZh,180+0,Normal,,,puzzle,,,,,17716,2097,25024,,,blitz,,,,,3421,377,3719
+decidement,marcin110987,1996,2112,0-1,Caro-Kann Defense,B10,https://lichess.org/QgzozPqX,60+0,Normal,,,bullet,2355.0,2042.0,,,307716,16267,164729,,,bullet,,,,,9345,784,6849
+SKI1946,vzam,2144,1919,1-0,"Caro-Kann Defense: Advance Variation, Botvinnik-Carls Defense",B12,https://lichess.org/olMI4GHp,900+0,Normal,,,rapid,,,,,5368,479,4067,,,unknown,,,,,0,0,0
+TheCombinator,neguri10,2127,2038,0-1,"Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation",B21,https://lichess.org/xkNnzAfw,300+0,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,,,,,6113,1099,5866
+Dipol1982,FujiXx,2163,1998,1-0,Queen's Gambit Declined: Barmen Variation,D37,https://lichess.org/25Gwlu4W,120+0,Normal,,,bullet,2513.0,2339.0,,,26573,2134,7200,,,blitz,,,,,9006,1162,10918
+uomogatto,destructor77,2043,1995,1-0,Sicilian Defense: Marshall Counterattack,B40,https://lichess.org/1FXOBPlT,180+0,Normal,,,blitz,,2109.0,,,16877,3295,13596,,,unknown,,,,,0,0,0
+Carpistadimare,Petromichalich,2069,1980,1-0,"Ruy Lopez: Morphy Defense, Neo-Arkhangelsk Variation",C78,https://lichess.org/CsCRn0Jo,300+5,Normal,,,blitz,,1789.0,,2007.0,32024,1708,20886,,,rapid,,,,,2320,339,3015
+torturer_123,ars54321,2168,2217,0-1,"Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation #2",B33,https://lichess.org/UkZWfE7k,1800+20,Time forfeit,,,bullet,,,,,555,48,378,,,unknown,,,,,0,0,0
+vepashka,OBAFGKM,2119,2209,1/2-1/2,Slav Defense: Schlechter Variation,D15,https://lichess.org/nydAQz9G,180+1,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+bigwh,Caissa64,2243,2187,1-0,Gruenfeld Defense: Exchange Variation,D85,https://lichess.org/9y1n73EV,180+2,Normal,,,blitz,2359.0,2334.0,,,20945,3248,13857,,,blitz,2119.0,,,,3962,461,2803
+KarAv,binibin,2242,2178,1-0,Zukertort Opening: Queenside Fianchetto Variation,A04,https://lichess.org/9R2LEkFw,30+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2197.0,2176.0,,,19260,1930,15930
+stirnerb3b6,legolord,2283,2056,1-0,King's Indian Defense: Orthodox Variation,E91,https://lichess.org/PXV4YmTl,180+0,Normal,,,blitz,,,,,1617,184,1066,,,bullet,2216.0,2046.0,,,4263,255,3235
+chessbtoy,kohinoor9,2075,2104,1/2-1/2,Queen's Gambit Refused: Austrian Defense,D06,https://lichess.org/zFBXTMTW,300+2,Normal,,,blitz,,,,,1925,212,1321,,,unknown,,,,,0,0,0
+I0euros,BIV,2282,2126,1-0,Zukertort Opening: Sicilian Invitation,A04,https://lichess.org/X1T0rHY7,60+0,Time forfeit,,,bullet,,,,,25187,1147,16889,,,blitz,,,,,31606,2008,13435
+FraszczakRenaud,elmuthalleth,1854,2175,0-1,Sicilian Defense: Old Sicilian,B30,https://lichess.org/NCGL6twg,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2374.0,2248.0,2328.0,2274.0,13738,1384,6341
+eclm72,giulio78,2257,2084,1-0,Dutch Defense,A80,https://lichess.org/rFQGU9Hv,180+0,Time forfeit,,,blitz,,,,,492,59,412,,,crazyhouse,,2300.0,,,28736,2155,19205
+lliill12,nestorzgz,2117,2218,1-0,English Opening: King's English Variation,A20,https://lichess.org/9zg05Pat,180+0,Normal,,,bullet,2027.0,2159.0,,,33392,2147,35291,,,blitz,2239.0,2206.0,,,7105,947,6754
+Sonata2,timeh,2165,2081,1-0,Queen's Pawn,A40,https://lichess.org/4T9pN29S,180+0,Normal,,,bullet,,,,,18832,1963,15280,,,bullet,,,,,3528,296,3468
+Alpha-du-centor,fuha,2009,2037,1/2-1/2,Queen's Gambit Declined: 4.Bg5 Be7,D53,https://lichess.org/67aGb7qY,600+0,Time forfeit,,,bullet,,,,,8900,234,11188,,,rapid,,,,,9407,1616,10489
+batan,abulia,2048,1961,1-0,French Defense: Queen's Knight,C00,https://lichess.org/HXdAOuYT,180+0,Time forfeit,,,blitz,,1545.0,,,11439,1331,14069,,,unknown,,,,,0,0,0
+cluke,wojda4,2196,1857,1-0,"French Defense: Steinitz Variation, Gledhill Attack",C11,https://lichess.org/XeiXnKqY,180+0,Normal,,CM,bullet,2346.0,2238.0,,,8442,809,6290,,,unknown,,,,,0,0,0
+Knightstormer,Elz,2052,1996,0-1,"Caro-Kann Defense: Classical, Spassky Variation",B19,https://lichess.org/vRXjaRpb,240+7,Time forfeit,,,bullet,1834.0,,,,43919,502,41398,,,rapid,,,,,1210,87,777
+sortavala,Biolog,1933,2075,0-1,"King's Gambit Declined, Classical Variation #2",C30,https://lichess.org/Kkzqssb4,300+0,Time forfeit,,,puzzle,,1947.0,,,11052,1042,8332,,,blitz,,,,,16356,1950,14272
+c4e4,schach95,1993,2012,0-1,Sicilian Defense: Staunton-Cochrane Variation,B20,https://lichess.org/htImzKDe,120+2,Time forfeit,,,blitz,,,,,8975,1109,12370,,,blitz,1813.0,2047.0,,,3543,311,3572
+steppenwolffff,monchikaa,1991,2058,0-1,Indian Game,A45,https://lichess.org/wScqfWU8,0+1,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+grandebib,RMortensen88,1810,2225,1-0,Reti Opening #2,A04,https://lichess.org/yr1f9gtf,60+0,Normal,,,bullet,1864.0,,,,30098,1809,30804,,,blitz,,,,,11612,1241,9717
+Gelkram,Captain-Calagan,2023,2442,0-1,Queen's Gambit Accepted: Janowski-Larsen Variation,D25,https://lichess.org/FNM1Q7Lw,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,,,,,789,59,487
+Rapecci,RezaZabihi,2098,2135,0-1,"Ruy Lopez: Closed Variations, Martinez Variation",C78,https://lichess.org/sSNdGBtu,300+0,Normal,,,blitz,,2280.0,,,8580,867,6239,,,unknown,,,,,0,0,0
+Ralexx,Rushan_1953,2017,2005,0-1,Queen's Gambit Declined,D30,https://lichess.org/AMDwOkw6,600+8,Normal,,,rapid,,,,,1284,215,888,,,blitz,,,,,16874,632,17052
+duduasc,IngeMecch,2149,1881,1-0,Nimzo-Indian Defense: Three Knights Variation,E21,https://lichess.org/qSjxw8ot,480+0,Normal,,,bullet,2086.0,1845.0,2166.0,,21550,1027,23349,,,bullet,,1892.0,,,2459,253,5441
+mknz,livesky11,2188,1840,1/2-1/2,Horwitz Defense,A40,https://lichess.org/sXrvL1RY,60+0,Time forfeit,,,bullet,2272.0,2226.0,2256.0,,51152,3562,20474,,,bullet,2042.0,1921.0,,,12314,964,10840
+toniiiiiiiiii,Jakbot,2244,2045,1-0,"Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation",B21,https://lichess.org/DRcMZhRX,300+8,Normal,,,blitz,2238.0,2145.0,2323.0,,27911,3137,20571,,,puzzle,,,,,736,49,450
+mijaus,Kopfschlechter,1798,2290,0-1,Old Benoni Defense,A44,https://lichess.org/AOGRyhGv,180+0,Normal,,,blitz,,1589.0,1866.0,,3866,369,3816,,,bullet,,,,,10448,641,4625
+Hrners19,erwanduveau,1945,2209,1-0,Alekhine Defense: Scandinavian Variation,B02,https://lichess.org/XquDLCnA,180+0,Normal,,,unknown,,,,,0,0,0,,,puzzle,,,,,9004,611,3773
+BeWater,Buenamor,2463,2240,1-0,"Nimzo-Indian Defense: Classical Variation, Keres Defense",E32,https://lichess.org/uz3rCJh7,180+2,Normal,,CM,puzzle,,2504.0,,,3823,471,2585,,,unknown,,,,,0,0,0
+maydin,revoltp,2103,2200,1-0,Horwitz Defense,A40,https://lichess.org/dCkwAFRf,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,2256.0,,,27661,6114,28830
+netflixandchill,chupakabr,1956,2093,1-0,Indian Game: London System,A46,https://lichess.org/3s9Ml2ht,60+0,Normal,,,bullet,,,,,1734,125,1680,,,bullet,,,,,9441,442,6850
+aisn,xfqybxtr2,2073,1971,1/2-1/2,Owen Defense,B00,https://lichess.org/VWENJyZZ,240+0,Normal,,,blitz,,,,,3899,210,1792,,,unknown,,,,,0,0,0
+eupraxia,Drope63,2070,1967,1-0,Scandinavian Defense: Kiel Variation,B01,https://lichess.org/neFKJ5iq,600+10,Normal,,,puzzle,,,,,383,18,291,,,blitz,,,,,8848,770,9323
+NobbyKembuan,CapablancaJrminty,1950,2160,0-1,Queen's Pawn Game: Colle System,D04,https://lichess.org/0zWMFq48,300+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+stepan47,batistato,2161,1843,0-1,Ruy Lopez: Columbus Variation,C68,https://lichess.org/If9nb8ab,180+3,Normal,,,puzzle,,,,,19,1,22,,,blitz,1646.0,1714.0,,,10342,778,10497
+cesatd,uzaya,1874,2170,0-1,King's Indian Attack,A08,https://lichess.org/cjvKJ3SN,600+0,Normal,,,puzzle,,,,,926,71,989,,,blitz,,2471.0,,,15008,600,1794
+Fenix2,Chrocht,2228,2061,1-0,Indian Game: London System,A46,https://lichess.org/VK19SSr6,900+10,Normal,,,puzzle,,,,,253,18,104,,,unknown,,,,,0,0,0
+alirezanoor,nadipoor46,2028,2030,1-0,French Defense: Knight Variation,C00,https://lichess.org/kqNs8s1O,300+5,Normal,,,blitz,,,,,5295,616,9682,,,puzzle,,,,,1679,150,1600
+vitaminccc,Manel666,2043,1962,0-1,French Defense: Steinitz Attack,C00,https://lichess.org/A0tUw83a,30+0,Time forfeit,,,bullet,2145.0,,,,76142,7313,82864,,,bullet,,,,,3936,130,2834
+anirudh,TatoSarane,1689,2429,0-1,Modern Defense,A40,https://lichess.org/IXX6WvpO,180+0,Normal,,,unknown,,,,,0,0,0,,IM,blitz,,2676.0,,,2417,166,493
+Movses,bulkong,2176,2359,0-1,Pirc Defense #5,B07,https://lichess.org/5gR7D4Yk,180+0,Normal,,,blitz,,,,,1509,148,1030,,,blitz,2339.0,2353.0,,,5649,715,4754
+nenats,Rotete,2130,2163,0-1,English Opening,A10,https://lichess.org/9pY0hOjE,240+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2142.0,2078.0,2039.0,,57321,4681,41464
+LarsenB,leong1978,1933,2416,0-1,Nimzo-Larsen Attack,A01,https://lichess.org/62rvOYXH,60+0,Time forfeit,,,bullet,2114.0,2050.0,,,34038,4176,30142,,,bullet,2609.0,2437.0,,,30073,1338,11429
+Redbull1245,rfour,2044,2005,0-1,Queen's Pawn Game #2,D00,https://lichess.org/ideH5eR2,60+0,Normal,,,blitz,,,,,528,54,681,,,bullet,2431.0,,,,7996,363,4223
+lamorocha,Goalchessrobot123,2233,2119,1-0,Pirc Defense #3,B07,https://lichess.org/AVjNeh7t,60+0,Normal,,FM,bullet,2504.0,2293.0,,,56200,2851,17016,,,unknown,,,,,0,0,0
+kiingkiillerr,geronimo021,2070,2202,1-0,"French Defense: Classical Variation, Steinitz Variation",C11,https://lichess.org/EdjejRQT,0+1,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+locciko7,mpetrashev,2053,1956,1-0,Gruenfeld Defense: Zaitsev Gambit,D80,https://lichess.org/7NJOU6rw,300+0,Normal,,,blitz,,,,,1496,115,2126,,,blitz,,2009.0,,,31984,2967,34570
+fred1976,gena1935,2095,1909,1-0,Ruy Lopez: Cozio Defense,C60,https://lichess.org/Au19vkB8,780+0,Time forfeit,,,blitz,,,,,851,96,551,,,rapid,,,1987.0,,7401,1429,10824
+fahadfahad,fearter,1984,2026,1-0,Sicilian Defense: Staunton-Cochrane Variation,B20,https://lichess.org/HBzub0Dd,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,4412,829,4609
+kurazan,rusikk,2047,1956,1/2-1/2,Colle System #2,D05,https://lichess.org/eppdsnZK,60+0,Normal,,,bullet,2207.0,,,,19730,1211,13767,,,bullet,,,,,3773,363,3508
+amanuel,S_S,2294,2305,0-1,English Opening: King's English Variation,A20,https://lichess.org/Gf6883Lq,120+0,Time forfeit,,IM,puzzle,,,,,407,25,198,,,unknown,,,,,0,0,0
+adhr,ronaldinhoemin,1915,2152,0-1,King's Indian Defense,E61,https://lichess.org/0NxYKJOu,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,2553,229,2109
+Tragik_Ending,xaris1994,1987,2083,0-1,Sicilian Defense: Bowdler Attack,B20,https://lichess.org/dsOb3iFW,60+0,Time forfeit,,,bullet,2179.0,,,,2035,148,1203,,,bullet,,,,,5007,215,4389
+riista,buffy,1951,2176,0-1,"Caro-Kann Defense: Advance Variation, Bayonet Attack",B12,https://lichess.org/3uKMnIZT,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2153.0,2317.0,,,3965,749,2315
+zifnab,Snipy,2232,2209,1-0,Sicilian Defense: Hyperaccelerated Fianchetto,A42,https://lichess.org/IyNfenyo,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,2542.0,,,16186,1626,11513
+Hrasnica70,Billrem,2106,2046,0-1,"French Defense: Rubinstein Variation, Blackburne Defense",C10,https://lichess.org/iSSG8RAy,180+0,Time forfeit,,,blitz,2107.0,2128.0,2062.0,,21341,2782,19511,,,bullet,2176.0,2080.0,,,66606,6637,88421
+AdmiralRou,uytrewq,2092,1916,1-0,English Opening: Agincourt Defense #2,A13,https://lichess.org/0q5AFrQk,60+0,Normal,,,bullet,2259.0,2210.0,2201.0,,11933,1627,8399,,,bullet,,,,,41055,6351,63644
+minddrugs,BearJr,2010,2014,1-0,"Italian Game: Two Knights Defense, Modern Bishop's Opening",C55,https://lichess.org/DPKhgpLZ,120+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+marber,greekway,2424,2209,1-0,Pirc Defense #3,B07,https://lichess.org/fpDutnor,60+0,Time forfeit,,,bullet,2441.0,2420.0,,,43493,4888,32785,,,bullet,2296.0,2378.0,,,34708,2473,53638
+jamapada,rehanov,2059,2022,0-1,"Gruenfeld Defense: Three Knights Variation, Burille Variation",D94,https://lichess.org/fK0d06Wa,900+0,Normal,,,rapid,,,,,2619,413,2493,,,rapid,,1765.0,1946.0,,1772,254,1553
+Spiderchess,matgever,1959,2069,0-1,Queen's Pawn Game: Levitsky Attack,D00,https://lichess.org/w80QXnv5,300+8,Normal,,,blitz,,1516.0,,,14770,549,14645,,,rapid,,1663.0,1949.0,,15847,779,5801
+VL43,Vahan-SG,2021,2034,0-1,Bird Opening: Dutch Variation,A03,https://lichess.org/fTrDF2dE,180+0,Normal,,,blitz,,,,,7993,881,11069,,,blitz,,,,,3146,449,3499
+fabianoduarte,gafilho,2151,1964,1-0,English Opening: Anglo-Dutch Defense,A10,https://lichess.org/cMFik7AB,1200+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,1739.0,,,10986,1075,12022
+ozgurov,Gianbuchi,1916,2192,1-0,Van't Kruijs Opening,A00,https://lichess.org/kqwEFaOm,60+0,Time forfeit,,,bullet,,1514.0,,,15720,757,16592,,,bullet,2395.0,2097.0,,,19814,1804,9881
+Antonis1979,lahav,2014,2007,0-1,Van't Kruijs Opening,A00,https://lichess.org/gAWocnwa,60+0,Time forfeit,,,antichess,,,,,21815,1506,16001,,,bullet,,,,,6720,352,7079
+flinkston,kodachrome,2244,1936,0-1,King's Indian Attack,A08,https://lichess.org/OP0O1kUb,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,4434,120,4604
+Tvivelaktig,Ullatti,2185,2153,0-1,"King's Indian Defense: Fianchetto Variation, Panno Variation",E63,https://lichess.org/P8XQ6zsQ,60+0,Time forfeit,,,bullet,2147.0,,,,20301,934,21499,,,unknown,,,,,0,0,0
+veterano10,Jason150789,1978,2079,1-0,Pirc Defense #2,B07,https://lichess.org/iYIuQy9P,900+10,Normal,,,rapid,,,,,868,82,1257,,,unknown,,,,,0,0,0
+mlgnilou,mahabatnha,2107,1920,0-1,Italian Game: Scotch Gambit Declined,C55,https://lichess.org/VhEOhhZz,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,1923.0,,,33136,4580,39775
+Paulius01,xadrezplus,2197,2259,1-0,"King's Indian Defense: Normal Variation, King's Knight Variation",E60,https://lichess.org/ZDRsBHoU,60+2,Normal,,,bullet,,,,,318,22,337,,,bullet,,,,,1785,324,1367
+mak7ym,Joulupukki,1937,2257,0-1,Sicilian Defense,B50,https://lichess.org/tqbz9vLr,420+7,Normal,,,rapid,,,,,6649,582,5293,,,blitz,,,,,7564,927,4184
+Xeibi,Andrew1992auy,2180,2224,1-0,English Opening: Anglo-Dutch Defense,A10,https://lichess.org/cBorLo5F,180+0,Time forfeit,,,bullet,2560.0,2322.0,,,60046,3063,21356,,,blitz,,,,,1214,97,1186
+LeeveJung,TheJakeEX,2087,2281,0-1,Saragossa Opening,A00,https://lichess.org/AuCCktRj,60+0,Normal,,,bullet,,,,,13529,1497,13089,,,blitz,,,,,508,30,276
+dragonneau,Anoniem,2043,2077,0-1,"English Opening: Four Knights System, Nimzowitsch Variation",A28,https://lichess.org/V6um4214,480+0,Normal,,,blitz,,2222.0,2329.0,,11193,1287,7083,,,blitz,,,,,2739,283,1821
+coralines,galaksi,1929,2076,1-0,"Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan",D02,https://lichess.org/EnMr5Wtp,180+0,Normal,,,blitz,,1739.0,,,71448,4417,75253,,,puzzle,1877.0,1938.0,,,15363,1378,27174
+jaroslav,Dellboy69,2007,2002,0-1,Trompowsky Attack: Borg Variation,A45,https://lichess.org/Mn3oS3Tb,180+0,Normal,,,blitz,,,,,3374,554,3011,,,blitz,,1938.0,,,21705,1948,16751
+cupofcoffee,RONINPERITO,2288,2091,1/2-1/2,"Russian Game: Modern Attack, Center Attack",C43,https://lichess.org/ZhPQYrMx,720+8,Normal,,,unknown,,,,,0,0,0,,,rapid,,,,,4220,291,511
+Chess-31,JackNicholson,2042,2004,0-1,"Gruenfeld Defense: Three Knights Variation, Burille Variation",D94,https://lichess.org/GGU5Xf80,180+0,Normal,,,blitz,2028.0,1978.0,1950.0,,28344,2761,29713,,,unknown,,,,,0,0,0
+vasovyu,TravoltaX,2133,2011,0-1,Alekhine Defense,B02,https://lichess.org/eaAsaW5j,300+1,Time forfeit,,,blitz,,,,,4317,507,3343,,,blitz,,,,,97,18,115
+Firkho,Aquilabianca,2165,2216,0-1,"Caro-Kann Defense: Classical Variation, Main Line",B18,https://lichess.org/6ww8tiSs,1200+0,Normal,,,bullet,,1967.0,,,3787,437,4458,,,rapid,,,2156.0,,4220,737,3625
+raffaeles82,novice1021,2048,1985,0-1,Italian Game: Deutz Gambit,C55,https://lichess.org/5Qy8nZh2,180+2,Normal,,,blitz,2114.0,2113.0,2266.0,,8933,846,7933,,,blitz,1877.0,1939.0,2180.0,,13689,889,10089
+Cerjjj,KeBoen,2090,2012,1-0,"Italian Game: Two Knights Defense, Modern Bishop's Opening",C55,https://lichess.org/6bXxCc3i,600+0,Time forfeit,,,rapid,,,,,3360,198,1667,,,rapid,,,,,184,19,297
+topsoul,enzo1111,2075,1962,1-0,Sicilian Defense: Alapin Variation,B22,https://lichess.org/dly8R5Mz,480+0,Normal,,,blitz,1793.0,2017.0,2126.0,,22783,2259,33917,,,unknown,,,,,0,0,0
+ungureanu,viudanegra,1844,2226,0-1,French Defense: Schlechter Variation,C00,https://lichess.org/TfChZpMq,60+0,Time forfeit,,,blitz,,1840.0,,,5268,717,6277,,,unknown,,,,,0,0,0
+RASA,GarryNew,1834,2208,0-1,French Defense: Queen's Knight,C00,https://lichess.org/NdXs0Uh4,180+2,Normal,,,blitz,,,,,38448,3496,27682,,,blitz,,,,,5174,424,2109
+IndiGroove,JUANSE08,2047,1954,1-0,Philidor Defense: Morphy Gambit,C41,https://lichess.org/CbWCg5X4,900+3,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,2230,238,2906
+Marco753,AnBoris84,2084,2067,0-1,St. George Defense: Polish Variation,B00,https://lichess.org/W0MvnXB3,300+8,Normal,,,unknown,,,,,0,0,0,,,rapid,,,,,2745,239,4949
+BlitzKID100,Jaume_Barcelona,2002,2090,1-0,Sicilian Defense: Paulsen Variation,B44,https://lichess.org/1Gwsm8Ra,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2283.0,1923.0,,,70034,4648,46256
+EK22,darksquaregames,2295,2332,1-0,"Queen's Indian Defense: Classical Variation, Traditional Variation, Nimzowitsch Line",E18,https://lichess.org/HKkeJ0cR,180+0,Normal,,,blitz,,,,,1303,121,1623,,,blitz,,,,,7755,666,4043
+SamtAltn,knight131,2016,2000,1-0,Queen's Pawn Game #2,D00,https://lichess.org/Q0UTv7tx,30+0,Time forfeit,,,bullet,,,,,32,2,17,,,unknown,,,,,0,0,0
+geodev,tfab90,2166,1985,1-0,Queen's Indian Defense: Capablanca Variation,E16,https://lichess.org/GwVv06Bd,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+cimtolga,tugodum777,2134,1900,0-1,Slav Defense: Modern Line,D11,https://lichess.org/5Wi2LWBC,300+5,Normal,,,rapid,,,,,3887,176,1000,,,bullet,1388.0,,,,9696,251,9859
+Alex_1987,reaperstrum,2014,2110,0-1,"Sicilian Defense: Dragon Variation, Yugoslav Attack, Panov Variation",B76,https://lichess.org/uAvdeEJ3,180+2,Normal,,,blitz,,,,,5279,730,3298,,,unknown,,,,,0,0,0
+Lutikov,gruszle,1991,2232,0-1,"King's Indian Defense: Orthodox Variation, Positional Defense",E94,https://lichess.org/dOccBabK,30+0,Time forfeit,,,bullet,,,,,41677,1908,53169,,,unknown,,,,,0,0,0
+bogdankukic,Kobekato,1912,2170,0-1,"Queen's Gambit Refused: Albin Countergambit, Lasker Trap",D08,https://lichess.org/38vbopss,300+8,Time forfeit,,,puzzle,,,,,12845,1423,7737,,,rapid,,,,,6142,338,2017
+jmsan,JanT,2301,2175,1-0,Vienna Game,C27,https://lichess.org/4bilqCpk,60+0,Normal,,,bullet,2409.0,2325.0,,,12942,956,7372,,,bullet,,,,,4160,136,3363
+gregbaranov,surovi,2197,2396,1-0,"Queen's Gambit Refused: Baltic Defense, Argentinian Gambit",D31,https://lichess.org/DN984EU6,180+0,Normal,,,blitz,,,,,904,112,919,,,blitz,,2353.0,,,17944,5053,18597
+Udostar,Thebe,2067,1965,1-0,Queen's Pawn,A40,https://lichess.org/9LwDacGd,60+0,Normal,,,bullet,2067.0,2014.0,2252.0,,58110,4634,48155,,,puzzle,,,,,6579,246,3140
+Scop,paulki,2132,1875,1-0,Four Knights Game: Scotch Variation Accepted,C47,https://lichess.org/X56y2shK,300+0,Normal,,,blitz,,,,,3199,381,2064,,,blitz,,1630.0,,,4049,274,3950
+PredragBigovic,Bobko_DP,2055,2008,0-1,Queen's Pawn,A41,https://lichess.org/uxfURLYa,600+0,Normal,,,puzzle,,,,,2257,323,1631,,,rapid,,,,,800,70,352
+re-am,haakim,2015,1995,0-1,Slav Defense: Modern Line,D11,https://lichess.org/1TA0D4yv,480+7,Normal,,,rapid,,,,,6206,331,2826,,,puzzle,,,,,4607,304,4650
+sokolovbasic,Igor_Vechil,2058,2007,1-0,Sicilian Defense: Alapin Variation,B22,https://lichess.org/F0WDemIN,180+0,Time forfeit,,,blitz,,,,,13795,1077,9334,,,blitz,,,,,8655,1116,13268
+YouriGagarin,asIwish,2125,2024,0-1,Slav Defense: Geller Gambit,D15,https://lichess.org/BqyJeE0b,600+0,Normal,,,unknown,,,,,0,0,0,,,puzzle,,,,,58,7,108
+jonisace321,tiltbrah,1897,2206,1-0,Caro-Kann Defense,B11,https://lichess.org/rbWP4RMx,30+0,Time forfeit,,,bullet,,,,,20608,1090,19829,,,unknown,,,,,0,0,0
+Zitterfuchs,Charlie-Waffles,2235,2341,0-1,Sicilian Defense: Smith-Morra Gambit,B21,https://lichess.org/QCkqLjMZ,180+2,Normal,,,bullet,,,,,19812,2178,13015,,,unknown,,,,,0,0,0
+giurgiu1951,Elets,1912,2145,1/2-1/2,Queen's Gambit Accepted: Showalter Variation,D24,https://lichess.org/0dL6p1HF,180+2,Normal,,,blitz,,,,,3802,275,2043,,,blitz,,,,,2024,159,1118
+Knox71,Maxgor,2301,1866,1-0,Queen's Pawn Game: Zukertort Variation,D02,https://lichess.org/GewmZcdu,60+0,Normal,,,bullet,,2402.0,,,5626,729,2782,,,bullet,1916.0,1941.0,,,35255,2923,35369
+Alexis35,Mabezan123,2004,2093,1-0,Bogo-Indian Defense: Exchange Variation,E11,https://lichess.org/R0hfXKm2,600+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,1761.0,1877.0,,1227,76,992
+SAAZh,Turtogtokh,1956,2098,1-0,Queen's Gambit Accepted: Janowski-Larsen Variation,D25,https://lichess.org/4JLBr8RR,30+0,Time forfeit,,,bullet,2050.0,,,,49001,3252,30211,,,bullet,2090.0,1918.0,,,9024,578,9426
+Blue_Shadow,khosro20132013,2075,1966,1-0,"Sicilian Defense: Smith-Morra Gambit Accepted, Scheveningen Formation",B21,https://lichess.org/nwGICcGJ,180+2,Time forfeit,,,blitz,,,,,13924,1231,8933,,,blitz,2028.0,2045.0,,,7107,630,4356
+night_rid3r,MilosObilic1389,2095,2177,0-1,"Caro-Kann Defense: Advance Variation, Van der Wiel Attack",B12,https://lichess.org/7kpr6Tnw,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,1520,206,1088
+playLicht,adolf_anderssen,2442,1609,1-0,Indian Game: Wade-Tartakower Defense,A46,https://lichess.org/kll40zR9,30+0,Time forfeit,,LM,bullet,2600.0,2355.0,,,44080,3782,13090,,,rapid,,,,,1503,124,2328
+Yogisden,hansj92,2087,2115,1-0,Benoni Defense,A56,https://lichess.org/vjT985Qn,180+3,Time forfeit,,,blitz,,,,,1032,232,865,,,unknown,,,,,0,0,0
+bubblepipe,BULLKODROT,1904,2172,0-1,Nimzo-Larsen Attack: Dutch Variation,A01,https://lichess.org/Ues9JnGb,30+0,Time forfeit,,,bullet,,,,,14991,481,6728,,,bullet,,,,,10297,598,4860
+gamal1957,chessreturns,2236,1942,1-0,Scandinavian Defense: Mieses-Kotroc Variation,B01,https://lichess.org/2xbrpGgK,180+0,Normal,,,blitz,,,,,21392,1336,13056,,,blitz,,,,,10169,1002,8597
+Jimmi04,GruenfeldAdict,2200,2187,1-0,Vienna Game: Max Lange Defense,C25,https://lichess.org/R2QPzYib,180+0,Normal,,,bullet,2543.0,2322.0,,,15677,2656,10520,,,blitz,,2307.0,,,9451,1299,7087
+wichy,SiegleCarl,2139,2165,0-1,Sicilian Defense: Smith-Morra Gambit Deferred,B40,https://lichess.org/vLN4WX5n,180+1,Normal,,,bullet,2117.0,2156.0,,,26774,1942,27587,,,blitz,,2275.0,,,1442,163,1634
+DLEKSET,lenivets,2119,1905,1-0,Nimzo-Indian Defense: Leningrad Variation,E30,https://lichess.org/9djp7Hm2,300+8,Normal,,,rapid,,,2002.0,,31533,2283,9584,,,unknown,,,,,0,0,0
+rfw,zoranp,1784,2617,0-1,Van't Kruijs Opening,A00,https://lichess.org/fn257keN,60+0,Normal,,,bullet,1916.0,1819.0,,,31815,1238,36059,,IM,bullet,2633.0,2630.0,,,16643,1858,9345
+Terval,roodian,2031,2013,0-1,Modern Defense,A40,https://lichess.org/CgLKCPVn,600+0,Normal,,,puzzle,2014.0,1916.0,2141.0,2038.0,12713,1457,11731,,,unknown,,,,,0,0,0
+Singularitus,umvcue,2116,1930,1-0,Zukertort Opening: Tennison Gambit,A06,https://lichess.org/0uyXjavw,30+0,Time forfeit,,,bullet,,,,,9200,646,7150,,,bullet,2004.0,,,,17234,1383,16777
+andre55561,Demonique,2002,2034,1-0,French Defense: La Bourdonnais Variation,C00,https://lichess.org/OW2sLYxD,300+5,Normal,,,blitz,,2016.0,,,24751,3876,19684,,,puzzle,1763.0,2042.0,2223.0,,13903,1255,13158
+salamonp,wade93,2208,2264,1-0,"King's Gambit, Falkbeer Countergambit, Charousek Gambit",C31,https://lichess.org/jzuuo5Sz,180+0,Time forfeit,,,blitz,2139.0,2234.0,,,23675,3840,32470,,,unknown,,,,,0,0,0
+FPoole,paarthurnaxx,2079,2050,0-1,"King's Gambit Accepted, Becker Defense",C34,https://lichess.org/ggQRl9pq,300+0,Normal,,,blitz,,2088.0,,,7658,726,8067,,,blitz,,,,,2168,118,1918
+macaktosa,kicmak,1911,2421,0-1,"Sicilian Defense: Najdorf Variation, Opocensky Variation",B92,https://lichess.org/2J3TTy02,120+0,Normal,,,blitz,,1979.0,,,1710,160,1583,,,bullet,2721.0,2386.0,,,44243,2595,14820
+cahityilmaz,Ramoneti,1916,2108,0-1,Nimzo-Indian Defense: Ragozin Variation,E20,https://lichess.org/Wxam0wcF,900+5,Normal,,,blitz,,1750.0,,,9529,889,9823,,,unknown,,,,,0,0,0
+sticksator,Avlis,2187,2081,0-1,Trompowsky Attack: Classical Defense,A45,https://lichess.org/Kl9Dz0z0,300+0,Normal,,,blitz,,2327.0,,,5848,922,4290,,,blitz,,2171.0,,,5184,387,5354
+starlightextinction,Kilroy9376,2006,2051,0-1,Sicilian Defense: Alapin Variation,B22,https://lichess.org/GvuGFGSO,120+0,Normal,,,blitz,,,,,10269,1888,8973,,,bullet,,,,,2392,273,1945
+monstrella,Inkasators,2054,2229,1/2-1/2,Pirc Defense #2,B07,https://lichess.org/lQ1OicCa,180+2,Normal,,,blitz,,2131.0,,,9184,1339,7681,,,unknown,,,,,0,0,0
+Bolocello,makalobo,2030,2008,0-1,"Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Chelyabinsk Variation",B33,https://lichess.org/WIDkHVOI,300+0,Normal,,,blitz,,2392.0,,,5913,897,5188,,,blitz,1964.0,2042.0,2135.0,,12267,1030,13616
+Rummstein,fm960,2138,1914,1-0,Torre Attack,A46,https://lichess.org/W0fT8fbR,60+0,Time forfeit,,,bullet,2306.0,2102.0,,,49617,5649,65120,,,unknown,,,,,0,0,0
+Moustafa_hassan,Bacher,2083,1981,1-0,Scandinavian Defense: Mieses-Kotroc Variation,B01,https://lichess.org/VSk5ql3s,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,2043.0,,,12839,1787,8768
+elvijs,chunks,2009,2103,0-1,"French Defense: Advance Variation, Paulsen Attack",C02,https://lichess.org/6rqWgFqE,180+2,Time forfeit,,,blitz,2044.0,2103.0,,,2816,230,2307,,,blitz,,,,,1309,231,1141
+omeafl,Nerwal,2312,2252,1-0,Sicilian Defense: Najdorf Variation,B95,https://lichess.org/DB6xykXQ,300+3,Time forfeit,,,blitz,,,,,615,52,406,,,blitz,,2321.0,,,6562,732,3055
+icehot1,sobh,2450,1922,1-0,English Opening: Caro-Kann Defensive System,A11,https://lichess.org/BJZbE4kI,30+0,Time forfeit,,FM,bullet,,,,,4046,197,1493,,,bullet,,,,,3848,200,3962
+AlvaroDeCampos,vlado1234,2168,2177,0-1,Modern Defense: Geller's System,B06,https://lichess.org/Z4WAe0Ob,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,,,,,3490,127,1017
+dolmen77,StanGor,2013,2078,0-1,Sicilian Defense: Paulsen Variation,B46,https://lichess.org/AF0fakga,300+5,Time forfeit,,,puzzle,,1880.0,2054.0,,33469,1574,23021,,,blitz,,,,,56,2,22
+Aaron_Whitney,skies2147,2310,1985,1-0,Bishop's Opening: Vienna Hybrid,C28,https://lichess.org/nQbqUtPP,60+0,Time forfeit,,NM,bullet,2304.0,2334.0,,,24622,878,9453,,,bullet,,,,,828,19,717
+seyheshmat,Barruch,2146,2220,1-0,Elephant Gambit: Maroczy Gambit,C40,https://lichess.org/VJkXj1go,180+2,Normal,,,bullet,2312.0,2215.0,,,9071,856,12530,,,blitz,,2331.0,2327.0,,13243,1674,9447
+vazduplohov,Odisseu,2024,2016,0-1,"Sicilian Defense: Accelerated Dragon, Modern Variation",B34,https://lichess.org/hgpP9TN9,180+0,Normal,,,puzzle,,1880.0,,,5118,364,5071,,,blitz,2183.0,2207.0,,,8297,863,7596
+monomorph,milanbelobrk,1981,2167,0-1,Zukertort Opening: Queen's Gambit Invitation,A04,https://lichess.org/uer6ZaQv,180+0,Normal,,,bullet,,1884.0,,,8190,868,8115,,,bullet,,,,,57129,3455,29061
+shakhmatyneshashki,55555,2188,1956,1-0,Sicilian Defense: Old Sicilian,B30,https://lichess.org/lzvmdG1b,60+2,Normal,,,blitz,,,,,1241,107,786,,,puzzle,,,,,25348,2133,12451
+ChessDad,ElleryQueen,2247,2099,0-1,Semi-Slav Defense: Main Line,D45,https://lichess.org/MxRMRQ90,180+0,Normal,,,bullet,2419.0,,,,6507,469,6012,,,blitz,2375.0,,,,1115,183,1105
+strict,Petar50,2177,1949,0-1,Reti Opening,A09,https://lichess.org/vsDafbBC,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,3723,284,1367
+ArminFreeman,nindza1953,2310,1909,1-0,Nimzowitsch Defense: Lean Variation,B00,https://lichess.org/29HFBbWm,600+0,Normal,,,blitz,,,,,1545,117,426,,,puzzle,,,,,2389,136,1069
+chess_new,terry01,2026,2115,1-0,French Defense: Queen's Knight,C00,https://lichess.org/rCp9Vu32,180+0,Time forfeit,,,bullet,,,,,886,60,819,,,bullet,,,,,9293,237,8935
+Bufon33,medieval,2235,1819,1-0,Scandinavian Defense: Mieses-Kotroc Variation,B01,https://lichess.org/g7eKglOc,180+0,Time forfeit,,,blitz,2273.0,2075.0,2197.0,,13549,1418,8078,,,bullet,1893.0,,,,9379,2124,26544
+startstek,Rochade_Augsburg,2175,2313,0-1,"Nimzowitsch Defense, Declined Variation",B00,https://lichess.org/lFwSngGY,180+0,Normal,,,blitz,,,,,2187,253,1739,,LM,blitz,2483.0,2370.0,2416.0,2408.0,36015,2853,6163
+CeNNter,el_diez,2001,2127,0-1,Bird Opening: Williams Gambit,A03,https://lichess.org/11RrOCA9,30+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+colin_ni,Vinvin,2162,2341,0-1,Danish Gambit,C21,https://lichess.org/lBe0erJa,60+0,Normal,,,blitz,2403.0,2280.0,,,19838,1460,17150,,,bullet,2154.0,2169.0,2196.0,,131349,13916,125325
+theosan,naxcivanim,2193,1962,1-0,"Bishop's Opening: Vienna Hybrid, Spielmann Attack",C26,https://lichess.org/NWfSMefp,900+0,Normal,,,rapid,,,,,610,102,286,,,rapid,,,,,1643,137,1775
+toleq,goosesome,1918,2177,0-1,Sicilian Defense: Drazic Variation,B40,https://lichess.org/ghFZVzls,180+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2340.0,,,,25251,3291,22954
+Baluk,FischyVishy,2418,2378,1/2-1/2,Nimzo-Larsen Attack: English Variation,A01,https://lichess.org/yIvVq5si,30+0,Normal,,,bullet,2705.0,2400.0,2382.0,,86984,12480,99874,,,bullet,2704.0,2517.0,,,46041,2205,26917
+Talsteel,vosje_92,2113,2164,0-1,Modern Defense,A40,https://lichess.org/bKMr4VYV,300+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,22445,1730,16708
+michaeljmeadows,PASKAUSKAS,2086,2115,1-0,French Defense: Burn Variation,C11,https://lichess.org/iZwcc2zQ,180+2,Normal,,,bullet,,2063.0,,,18677,1696,18229,,,blitz,,2323.0,,,27137,3756,21953
+hasan123,rica1208,1980,2029,0-1,Ruy Lopez: Classical Variation,C64,https://lichess.org/CWTcWRu6,540+0,Normal,,,rapid,,,1920.0,,25925,3321,21238,,,blitz,,,,,7243,422,10484
+ednailton,nutzy35,1813,2345,0-1,East Indian Defense,A49,https://lichess.org/MHyvbcbo,180+0,Normal,,,blitz,2071.0,2018.0,,,42131,1787,31922,,,bullet,2514.0,,,,28564,2800,17677
+pureheat,Aleix1704,2108,2101,1-0,French Defense: King's Indian Attack,C00,https://lichess.org/e0NBWHud,60+1,Normal,,,bullet,,,,,4540,417,2801,,,blitz,2167.0,2118.0,,,5184,422,4323
+wolfley,paolo-06,1994,2031,0-1,"Sicilian Defense: Canal Attack, Main Line",B52,https://lichess.org/wnbj8jNu,300+0,Normal,,,blitz,,,,,647,67,509,,,bullet,2121.0,2200.0,,,9535,933,8772
+fehergabor201303,S_Ritz,2047,2028,1-0,Sicilian Defense: Old Sicilian,B30,https://lichess.org/TuAf3nyE,600+0,Time forfeit,,,puzzle,,,,,2860,162,2409,,,blitz,2164.0,2091.0,,,6806,642,6220
+slavez,HerbieKnight,2287,1735,1-0,"English Opening: Symmetrical Variation, Normal Variation",A34,https://lichess.org/A7rfOnBX,120+1,Normal,,,bullet,,,,,5362,275,3873,,,unknown,,,,,0,0,0
+FearTheBeard,malitamaro,2218,2171,1-0,Caro-Kann Defense,B12,https://lichess.org/xmAsUXYR,180+0,Normal,,,bullet,2449.0,2188.0,,,18464,1637,15002,,,blitz,,,,,5014,592,3065
+Tantalus,balibalo23,1886,2140,0-1,Queen's Pawn Game: Franco-Sicilian Defense,C00,https://lichess.org/H6QEpK3X,60+0,Time forfeit,,,blitz,,2042.0,,,30364,3789,27556,,,bullet,,,,,509,40,330
+GodOfDestruction,FADPhilidor,2085,2180,1-0,"Sicilian Defense: Lasker-Pelikan Variation, Sveshnikov Variation, Novosibirsk Variation",B33,https://lichess.org/pZFlrJR2,420+0,Normal,,,puzzle,2201.0,,,,364,6,243,,,blitz,,,,,3143,194,2162
+ferdit,Dzonas,1903,2204,0-1,Benoni Defense: King's Pawn Line,A65,https://lichess.org/SVhjt6Qv,60+0,Time forfeit,,,bullet,,2039.0,,,8057,646,7212,,,bullet,2726.0,,,,31434,1827,9505
+MADEL,olborg,1819,2230,0-1,Nimzo-Larsen Attack: Classical Variation,A01,https://lichess.org/8KSc1yWf,120+0,Normal,,,bullet,,,,,1357,93,1439,,,bullet,,2376.0,,,45636,4920,27793
+Wallerdos,DrBergerBerger,1822,2268,0-1,French Defense: Chigorin Variation,C00,https://lichess.org/LvverwPX,180+0,Normal,,,blitz,,,,,1467,105,1303,,IM,blitz,,2554.0,,,7976,1335,4076
+brough,grilledraj,2232,2196,0-1,"Sicilian Defense: French Variation, Westerinen Attack",B40,https://lichess.org/JNhJn4zL,420+7,Normal,,FM,blitz,,2455.0,,,3679,467,1811,,,blitz,,,,,59,4,10
+BenS93,Neverness,1933,2180,1-0,Scotch Gambit,C44,https://lichess.org/nU4gv4Fj,600+0,Normal,,,blitz,,1972.0,,,3512,320,3468,,,rapid,,1999.0,2024.0,2078.0,18787,1918,6749
+mmiguel44,armagedonas,2011,1990,1-0,"Russian Game: Classical Attack, Staunton Variation",C42,https://lichess.org/wchPd32H,600+10,Normal,,,rapid,,,,,73,7,36,,,rapid,,,,,2813,241,1981
+jonmagal,virushunter,2251,1892,1-0,Slav Defense #2,D10,https://lichess.org/uYYXr2hN,60+0,Normal,,,bullet,,2301.0,,,16636,1065,9001,,,unknown,,,,,0,0,0
+NoJoke,JanTouchTheSun,2045,2016,0-1,Queen's Pawn Game: Mason Attack,D00,https://lichess.org/xwtk1EGc,300+5,Normal,,,blitz,,2133.0,,,8669,971,6402,,,unknown,,,,,0,0,0
+bigidiot11,ania94,2429,2140,1-0,Queen's Pawn Game: Zukertort Variation,D02,https://lichess.org/PvHXsqws,0+1,Normal,,,bullet,,,,,8980,575,3638,,,bullet,,,,,53660,1641,53848
+Abdullah1991,oljica,1970,2037,1-0,"Scandinavian Defense: Anderssen Counterattack, Collijn Variation",B01,https://lichess.org/p0j44eOw,180+0,Time forfeit,,,blitz,,,,,14300,1162,13675,,,blitz,,,,,29108,2741,23148
+straightheat,Fallsview,2089,1983,1-0,Mieses Opening,A00,https://lichess.org/Ve0Qrr5r,0+3,Time forfeit,,,bullet,,,,,2254,176,1360,,,blitz,2061.0,2122.0,2099.0,,17138,840,9739
+luemmi,Muppetshow,2195,2143,1-0,"English Opening: Agincourt Defense, Catalan Defense, Semi-Slav Defense",A13,https://lichess.org/v7QtLfTt,180+0,Normal,,,bullet,2326.0,2303.0,,,21736,2807,19151,,,blitz,,1925.0,,,2897,459,3064
+Foliation,pseudonymous3,2097,1952,1/2-1/2,French Defense: Exchange Variation,C01,https://lichess.org/7dD7FsP5,300+0,Normal,,,bullet,,2076.0,,,1394,79,981,,,unknown,,,,,0,0,0
+nicholas1234,chuvaka4x,2017,2024,1-0,King's Pawn Game: Dresden Opening,C44,https://lichess.org/diWeJ2HX,180+0,Normal,,,blitz,,,,,1414,162,1227,,,blitz,,,,,5113,456,6124
+Davidov90,elbarca,2175,1843,1-0,"Ruy Lopez: Berlin Defense, Beverwijk Variation",C65,https://lichess.org/HmkJ1vEK,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,4007,426,3007
+lucky1,taurus63,2128,1984,0-1,Robatsch (Modern) Defense,B06,https://lichess.org/5KSonAcY,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,2324,387,4163
+Kabeljaukrieger,Chop-That-Wood,2421,2296,1-0,Sicilian Defense: Chekhover Variation,B53,https://lichess.org/tQAakHcP,180+0,Time forfeit,,IM,bullet,2672.0,2493.0,,,21559,2416,14970,,NM,blitz,2203.0,2177.0,,,12953,1248,7640
+JohnMiller,crameone,2202,1921,1-0,Torre Attack,A46,https://lichess.org/GPp6Ov3T,300+3,Normal,,,puzzle,,,,,16632,1567,6108,,,unknown,,,,,0,0,0
+wilfree,TomB82,2057,2086,1-0,Ruy Lopez: Berlin Defense,C65,https://lichess.org/f53UfzhT,300+5,Normal,,,rapid,,,,,1613,96,996,,,rapid,,,,,2314,309,1524
+javak,ZB_IG,2016,2151,0-1,Russian Game: Stafford Gambit,C42,https://lichess.org/NqT7U6sy,60+0,Normal,,,bullet,,,,,4765,324,3280,,,bullet,,,,,2342,218,1449
+caissaa,Romaley,2154,1913,1-0,"King's Indian Defense: Normal Variation, King's Knight Variation",E60,https://lichess.org/0llkZVCS,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2103.0,2036.0,,,6352,456,5365
+the_wassel,lovlas,1962,2447,0-1,"Gruenfeld Defense: Three Knights Variation, Petrosian System",D91,https://lichess.org/uL6GzsuE,180+0,Normal,,,bullet,2226.0,1984.0,2045.0,,20856,1597,22034,,IM,bullet,2868.0,2570.0,,,23224,1379,6467
+Zangezur,Aariow,2070,2170,1-0,Scotch Game: Potter Variation,C45,https://lichess.org/5gBEIevL,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+SchizoMoves,jmac26,2085,2107,0-1,"French Defense: Tarrasch Variation, Closed Variation #2",C05,https://lichess.org/WQB9Rckj,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,5251,420,5886
+crnobijelo,ramchander,2047,1971,1-0,Four Knights Game: Italian Variation,C46,https://lichess.org/n5O8Rd5P,600+0,Normal,,,rapid,,,,,572,80,535,,,rapid,,1906.0,2052.0,,11212,923,8717
+storalf,berval,2251,2404,0-1,"Sicilian Defense: Sozin Attack, Flank Variation",B87,https://lichess.org/EvnLsLsH,180+0,Normal,,,unknown,,,,,0,0,0,,FM,blitz,2708.0,2505.0,,,13577,1427,8445
+Henkel83,hakaman,2119,1895,1-0,"Queen's Pawn Game: Symmetrical Variation, Pseudo-Catalan",D02,https://lichess.org/yoj5vpCR,120+0,Time forfeit,,,bullet,,,,,605,21,136,,,bullet,1920.0,1876.0,2067.0,,19578,2241,17598
+KungFuToa,Aleks1,1899,2278,0-1,Caro-Kann Defense,B10,https://lichess.org/ZHAWekqK,300+0,Normal,,,blitz,,,,,2061,86,1230,,,blitz,,,,,2034,179,1193
+arachnoid,Slea,2001,2153,1-0,Scotch Game,C44,https://lichess.org/szeAXqwc,60+0,Normal,,,bullet,,,,,6639,233,4487,,FM,blitz,2681.0,2443.0,,,10985,1454,6287
+Dusko_P,BOCKY,2160,2203,0-1,"Italian Game: Two Knights Defense, Max Lange Attack",C55,https://lichess.org/FfFzOyXS,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,14302,1531,11701
+ayrymt,OmomboBotha,1947,2236,0-1,French Defense #2,C00,https://lichess.org/hhQPo5xn,60+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+viktor1959,negro62,2134,2035,0-1,French Defense: La Bourdonnais Variation,C00,https://lichess.org/PmZZZMIZ,900+8,Time forfeit,,,rapid,,,2162.0,,8426,1612,8242,,,rapid,,,,,5428,1011,7059
+PrawnSoup,neromagik,2100,2304,0-1,Indian Game,A45,https://lichess.org/9RibMpMi,0+1,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2501.0,2271.0,,,19943,1873,15846
+Shyb_Evgen,Koki22,1858,2166,1-0,French Defense: Knight Variation,C00,https://lichess.org/jQsK7Ppk,180+0,Time forfeit,,,blitz,,,,,3461,514,3151,,,unknown,,,,,0,0,0
+hushai,Piteco,1994,2035,1-0,"Italian Game: Classical Variation, Giuoco Pianissimo",C53,https://lichess.org/bsyKOhHm,180+0,Normal,,,blitz,,2198.0,,,22177,2045,20338,,,unknown,,,,,0,0,0
+plutarco11,Norager,1955,2130,0-1,Rat Defense: Balogh Defense,B07,https://lichess.org/0YvHhFRJ,60+0,Normal,,,bullet,1953.0,1958.0,1825.0,,84909,3295,88385,,,unknown,,,,,0,0,0
+pwnme,panaga,1909,2110,0-1,Yusupov-Rubinstein System,A46,https://lichess.org/1NagDyMo,480+0,Normal,,,bullet,,,,,6148,1140,9466,,,unknown,,,,,0,0,0
+davidgarcia,dutchghettolife,1976,2092,0-1,Alekhine Defense,B02,https://lichess.org/AACFiwzZ,300+0,Normal,,,blitz,,,,,3254,210,3016,,,bullet,,,,,9470,604,2326
+quaregnon,lukki67,2011,2027,1-0,Scandinavian Defense,B01,https://lichess.org/fesHzODw,120+1,Normal,,,bullet,,,,,1311,59,1569,,,bullet,,2145.0,,,24319,2000,9453
+liciniuscrassus,Sportpokerloto,2036,1979,1-0,Alekhine Defense,B02,https://lichess.org/3wVvJjdK,30+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,2586,353,4133
+trumpu,balsic,2004,2030,1-0,Scandinavian Defense: Main Line,B01,https://lichess.org/vvpAyIie,300+0,Normal,,,blitz,,,,,1215,212,1668,,,blitz,,1983.0,,,7791,674,6051
+guray2001,SUPERPRIME,1941,2165,0-1,"English Opening: Anglo-Indian Defense, Queen's Knight Variation",A16,https://lichess.org/4065f4Bl,30+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,4554,207,2847
+ImKurD,G3mu,2096,1937,0-1,Sicilian Defense: Closed,B23,https://lichess.org/EIcD4ruo,60+0,Normal,,,kingOfTheHill,2445.0,,,,6031,275,5012,,,bullet,,,,,5491,241,4343
+chespirituu,quentinf,1971,2216,0-1,King's Indian Attack: Sicilian Variation #2,A08,https://lichess.org/rPvfscgJ,180+0,Normal,,,blitz,,2043.0,,,21344,2073,11547,,,unknown,,,,,0,0,0
+JosefChess,angimar,2313,2187,1-0,Queen's Indian Defense: Fianchetto Variation,E15,https://lichess.org/eVgtiavs,240+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2222.0,2079.0,,,52929,2518,41457
+azteks,vinkelo,1938,2182,0-1,Four Knights Game: Italian Variation,C46,https://lichess.org/eEpyt7uf,300+0,Normal,,,blitz,,2178.0,,,5704,851,8938,,,blitz,,,,,1380,129,1106
+patzerking,Gusarenco,2010,2004,0-1,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",B31,https://lichess.org/WH5nXloq,300+5,Normal,,,puzzle,,,,,258,12,56,,,rapid,,,,,4864,223,3449
+cant_handle_h5,AkumRa,2398,1931,1-0,Queen's Gambit Declined: Exchange Variation,D35,https://lichess.org/c5YoXdM8,180+0,Time forfeit,,IM,blitz,,2660.0,,,4867,736,2897,,,blitz,,,,,1307,86,1367
+IOANNIS2312,kogaa,2001,2022,1-0,French Defense: Queen's Knight,C00,https://lichess.org/D3ug2428,30+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,26925,1567,27559
+FireDevil,gigo81,2099,2128,0-1,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",B31,https://lichess.org/7Cs1avxG,180+0,Normal,,,blitz,,,,,2723,212,2252,,,unknown,,,,,0,0,0
+Elda64,fleming-maitre,2702,2147,1-0,Torre Attack,A46,https://lichess.org/ClsuyDd9,60+0,Normal,,GM,puzzle,3061.0,2796.0,,,44670,3446,15105,,,bullet,,,,,106,8,51
+vez24,zikou,2247,1952,1-0,Torre Attack,A46,https://lichess.org/AhZGaBDM,300+4,Normal,,,puzzle,,,,,4150,302,3023,,,blitz,,,,,5693,452,7318
+leplusM,Smolensky,2497,2448,1-0,Reti Opening #2,A04,https://lichess.org/9vzIXm2t,60+0,Time forfeit,,IM,bullet,,,,,35524,1376,7524,,,unknown,,,,,0,0,0
+azuro99,GoPawn,2096,2001,1/2-1/2,Nimzo-Larsen Attack: Indian Variation,A01,https://lichess.org/2b89RQg3,180+0,Normal,,,bullet,,,,,4638,493,2585,,,blitz,,1915.0,,,21203,1349,12337
+Reytingovy_vor,pincopallino68,2147,1918,1-0,Philidor Defense,C41,https://lichess.org/MAbdKzW3,300+0,Normal,,,puzzle,,,,,1881,146,724,,,blitz,,2080.0,,,18831,3223,21514
+ibonuribeetxebarria,lupu23,2006,2195,0-1,"Ruy Lopez: Exchange Variation, Bronstein Variation",C69,https://lichess.org/KO6r6Gf2,480+0,Normal,,,blitz,1880.0,1947.0,2125.0,,38609,2772,31901,,,rapid,,,,,198,7,40
+WhyBeNormal,ZeruHmyz,2011,2189,1-0,Slav Indian,A50,https://lichess.org/rq74nPJC,30+1,Time forfeit,,,bullet,2075.0,1898.0,,,27427,874,25704,,,blitz,2613.0,2419.0,,,26551,4835,27784
+bernes,fordo,1709,2452,0-1,Queen's Pawn Game,D00,https://lichess.org/q2cRbt60,60+0,Normal,,,bullet,1488.0,1794.0,,,85323,8449,114995,,,bullet,,,,,188,14,46
+Bagirow,houdini_77,2197,2127,1-0,Modern Defense,A40,https://lichess.org/NU6N4c9e,60+0,Normal,,,bullet,2403.0,,,,41855,3445,41987,,,bullet,2652.0,2337.0,,,29327,2669,20410
+ventilator,kroksy,2145,1867,0-1,Scandinavian Defense: Gruenfeld Variation,B01,https://lichess.org/Xt0ahno8,180+0,Normal,,,unknown,,,,,0,0,0,,,bullet,1806.0,1977.0,,,28073,1806,31227
+dobbo,JerryDark,2005,2111,1-0,"Sicilian Defense: Lasker-Pelikan Variation, Schlechter Variation",B33,https://lichess.org/QFU4kofy,180+0,Time forfeit,,,blitz,2237.0,2206.0,,,9259,905,7822,,,blitz,,2078.0,,,3219,203,2572
+lilleskut,SerGay,2361,1645,1-0,"Caro-Kann Defense: Advance Variation, Short Variation",B12,https://lichess.org/m6FY0Mun,-,Normal,,,puzzle,2000.0,2235.0,,,15678,409,4266,,,bullet,1820.0,,,,9528,1434,10462
+Shaday,GoodLuck1,2268,2136,1-0,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",B31,https://lichess.org/ENBI2ZYh,180+0,Normal,,,blitz,,,,,163,20,161,,,bullet,2428.0,2091.0,,,10758,1585,9714
+Maggy,boardplayer,2269,1789,1-0,"Caro-Kann Defense: Advance Variation, Van der Wiel Attack",B12,https://lichess.org/kwgRi49Z,120+0,Normal,,,bullet,2812.0,,,,43532,3823,28801,,,unknown,,,,,0,0,0
+buffyslayer1,sarikasertan,1983,2035,1-0,"Ruy Lopez: Morphy Defense, Anderssen Variation",C77,https://lichess.org/YwqGVrC7,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2359.0,2241.0,,,9919,1077,8477
+Rumilka,toskekg,2028,2001,1-0,"English Opening: King's English Variation, Reversed Sicilian",A21,https://lichess.org/NZppPR6y,300+0,Time forfeit,,,bullet,2305.0,2218.0,2181.0,,2535,292,2240,,,blitz,,,,,7470,667,7443
+bot111,sergey-lord,2092,1958,1-0,Indian Game: Anti-Nimzo-Indian,E10,https://lichess.org/whh9VSYD,180+0,Normal,,,blitz,,,,,5113,281,2715,,,blitz,,,,,486,42,471
+ash7,BIRDMAN5STAR,2173,1838,1-0,Scandinavian Defense: Blackburne Gambit,B01,https://lichess.org/uvHywgy7,60+0,Normal,,,bullet,,,,,3569,183,2772,,,bullet,,,,,6514,256,6699
+RatherRandom,malkingoesmvp,1929,2279,1/2-1/2,Hungarian Opening,A00,https://lichess.org/eiQHMRXw,60+0,Normal,,,bullet,,,,,6869,604,7184,,,bullet,2506.0,2218.0,2213.0,,29255,3755,12394
+x555,Moh001,1991,2012,0-1,French Defense: Knight Variation,C00,https://lichess.org/nmhhSmpN,900+0,Normal,,,rapid,,,,,2924,345,2595,,,blitz,2112.0,2005.0,,,23667,1799,24026
+zealfredo,fery2008,1963,2052,1-0,Scotch Game: Classical Variation,C45,https://lichess.org/2SJr5GFG,600+8,Normal,,,blitz,,,,,3672,497,4616,,,rapid,,,2175.0,,7160,447,1854
+Yeototl,RRsS,2124,2058,0-1,"Sicilian Defense: Canal-Sokolsky Attack, Sokolsky Variation",B52,https://lichess.org/YDabjzSs,180+0,Normal,,,blitz,,,,,152,12,122,,,blitz,,,,,5096,507,2983
+VilmosZsigmond,ltk,2080,2013,1-0,"Pirc Defense: Austrian Attack, Weiss Variation",B09,https://lichess.org/cR636Cog,60+0,Time forfeit,,,bullet,,,,,3745,305,3170,,,unknown,,,,,0,0,0
+peaudepaillator,mila010,2298,2257,1-0,"Sicilian Defense: Nyezhmetdinov-Rossolimo Attack, Fianchetto Variation",B31,https://lichess.org/VBC4omHM,60+0,Time forfeit,,,blitz,2534.0,2505.0,,,9050,1371,7200,,,bullet,,,,,7583,301,3410
+pmsryu,AcoLaki,1867,2218,0-1,"Queen's Gambit Declined: Neo-Orthodox Variation, Main Line",D55,https://lichess.org/u1RaRhuP,60+0,Time forfeit,,,bullet,,,,,16921,1906,17728,,,bullet,,,,,11374,604,8209
+vidavi,Balchunas,2174,2210,1-0,Nimzo-Indian Defense: Reshevsky Variation,E46,https://lichess.org/YJCVmmZM,180+3,Normal,,FM,blitz,,,,,3934,364,2751,,,bullet,,,,,10330,845,10395
+hendridpc,fredymam,2026,2055,0-1,Caro-Kann Defense: Exchange Variation,B13,https://lichess.org/5DAoE9FY,420+3,Normal,,,rapid,,,,,664,46,776,,,blitz,2044.0,1952.0,,,13292,1659,14991
+dyingcolour,caballero767,1993,2038,1-0,Ruy Lopez: Classical Variation,C64,https://lichess.org/4GQdgJyt,180+0,Normal,,,bullet,,,,,2712,128,1529,,,bullet,2149.0,,,,51297,5463,46995
+migriver,Shera_Dzermany,2217,1810,1-0,"English Opening: Anglo-Indian Defense, Scandinavian Defense, Exchange Variation",A15,https://lichess.org/cK7IpNYg,180+2,Normal,,,blitz,,,,,765,20,224,,,bullet,2146.0,,,,5564,272,5099
+INDOIWONG,FNTMS,2003,2074,0-1,French Defense: Knight Variation,C00,https://lichess.org/QSmpWCvw,600+0,Normal,,,blitz,1717.0,1794.0,,,35869,2898,41869,,,rapid,,1824.0,,,2886,140,1372
+EobardThawne,caddy,2143,1963,1-0,Queen's Pawn Game: Zukertort Variation,D02,https://lichess.org/qaYO8Frc,600+0,Normal,,,bullet,,,,,7395,890,6817,,,rapid,,,1989.0,,18183,3456,17342
+macho2014,marek0,2054,2015,0-1,Catalan Opening: Closed Variation,E06,https://lichess.org/bzxhDTiu,60+1,Time forfeit,,,bullet,2145.0,2272.0,,,11211,752,11629,,,blitz,,2207.0,,,13234,1950,10393
+schnappi,jdcomas,2283,1938,1-0,Alekhine Defense: Saemisch Attack,B02,https://lichess.org/D1pcxVYE,240+0,Time forfeit,,,bullet,2489.0,2360.0,2451.0,,54246,3883,25868,,,blitz,2009.0,2195.0,,,23171,4311,21968
+Iperuranio,RaySalo,2002,2157,0-1,"French Defense: Exchange Variation, Monte Carlo Variation",C01,https://lichess.org/aGYazk02,60+1,Normal,,,bullet,,,,,6559,503,4951,,,bullet,,,,,34838,1097,7856
+Chezzdevil,Kupres,2075,1954,1-0,Sicilian Defense: McDonnell Attack,B21,https://lichess.org/uoSCQkmo,600+0,Normal,,,rapid,,,,,1015,117,501,,,rapid,,,2012.0,,7311,603,7105
+AleksandarSpasov,alouettebaba,2089,2068,1-0,Caro-Kann Defense: Panov Attack,B14,https://lichess.org/dQVcAjFE,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2301.0,2118.0,2171.0,2476.0,10491,1074,7418
+roidumat,rmnp,1961,2159,0-1,Semi-Slav Defense: Anti-Moscow Gambit,D44,https://lichess.org/34qxcBir,300+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2310.0,2319.0,2301.0,,72879,3693,20087
+BUGIOkg,Bainey1,1927,2140,0-1,Torre Attack,A46,https://lichess.org/urK1VoBD,300+3,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,746,56,373
+sidharth13,SirSametAltun,1849,2183,0-1,Nimzo-Larsen Attack: Symmetrical Variation,A01,https://lichess.org/OH2GPHXy,30+0,Time forfeit,,,bullet,,,,,12802,355,12179,,,bullet,,,,,27,0,9
+ricehigh,atri49,1939,2176,0-1,Caro-Kann Defense,B12,https://lichess.org/lNY1cN63,60+0,Normal,,,bullet,1916.0,1914.0,2084.0,,795,31,783,,,bullet,,,,,294,33,230
+Thrallzz,vignesh111,2305,2033,1-0,Colle System,D05,https://lichess.org/ecDySNVO,60+1,Time forfeit,,,puzzle,,,,,187,14,69,,,bullet,,,,,1983,187,1985
+mlrau7,jamonyqueso,2124,1918,1-0,"Sicilian Defense: Najdorf, Lipnitsky Attack",B90,https://lichess.org/Rl1PvQUe,180+0,Normal,,,unknown,,,,,0,0,0,,,blitz,2014.0,1980.0,,,6240,1012,6532
+Nonkel,dlinch221,2348,2103,1-0,"Sicilian Defense: Paulsen Variation, Bastrikov Variation",B47,https://lichess.org/zGUN73jV,60+0,Normal,,,puzzle,,,,,976,41,210,,,bullet,2258.0,2238.0,,,18660,1517,17979
+Keru,Sophophiliac,2437,2221,1-0,Pirc Defense #4,B07,https://lichess.org/YqMC4QdM,180+2,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+natyrlisz,walfrido,2227,1908,1-0,Bird Opening,A02,https://lichess.org/IH3XU0IR,60+0,Time forfeit,,,bullet,2422.0,,,,7153,518,3065,,,blitz,2125.0,2126.0,,,10799,1085,12271
+Miguel_Martins,Paulorezende,2106,2096,1-0,Sodium Attack,A00,https://lichess.org/kmGMP7XB,600+0,Normal,,,rapid,,,,,31,0,15,,,blitz,,,,,3514,358,1782
+Kain08,Xiaomi,2038,2022,1-0,"Italian Game: Two Knights Defense, Ulvestad Variation",C57,https://lichess.org/0l0gBE8m,180+0,Time forfeit,,,bullet,,,,,7019,447,6063,,,blitz,,,,,9513,992,18134
+hachi88,Freeloader,2042,2031,1-0,"French Defense: Advance Variation, Main Line",C02,https://lichess.org/NGxFWvsQ,1500+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+Filippoargenti,badatthegame,1761,2260,0-1,Sicilian Defense: Najdorf Variation,B90,https://lichess.org/uds31Gw3,300+0,Time forfeit,,,puzzle,,,,,1707,134,2233,,,blitz,2354.0,2440.0,,,11314,1200,5888
+pedanticanarchy,notincnicinc,2019,1989,1/2-1/2,Zukertort Opening: Tennison Gambit,A06,https://lichess.org/LCiiOC0g,300+5,Normal,,,blitz,2122.0,2158.0,2282.0,,12410,1542,10279,,,blitz,,,,,611,57,699
+astaren,antikillervex,2027,1997,1-0,"French Defense: Tarrasch Variation, Guimard Defense",C03,https://lichess.org/atHn7cxk,180+2,Normal,,,blitz,2287.0,2215.0,,,19393,1871,17856,,,bullet,2150.0,2010.0,2160.0,,26143,2602,34146
+DarkMistress,xxjanixx,2270,1774,1-0,Robatsch (Modern) Defense,B06,https://lichess.org/x4VKv8NO,600+0,Time forfeit,,,puzzle,,,,,159,15,30,,,unknown,,,,,0,0,0
+Didjou,JakubSmetana2,2055,1980,1-0,"French Defense: Advance Variation, Nimzowitsch System",C02,https://lichess.org/pE3gMWNl,60+0,Normal,,,bullet,,,,,31495,1900,26721,,,unknown,,,,,0,0,0
+NouveauCheckMondial,JeanGoulifet,1863,2303,0-1,Russian Game: Urusov Gambit,C42,https://lichess.org/iKn4zCYM,30+0,Time forfeit,,,bullet,,,,,5040,243,6062,,,unknown,,,,,0,0,0
+spacefrog2,ives_silent_hill,2128,2136,1-0,King's Indian Defense: Makogonov Variation,E71,https://lichess.org/7aXMUUrc,300+0,Time forfeit,,,bullet,2300.0,2206.0,2172.0,,14437,1258,9028,,,blitz,,,,,2209,211,1275
+Simon1993,ahuegle,2122,2116,0-1,"English Opening: King's English Variation, Four Knights Variation #2",A28,https://lichess.org/bytCgoAS,180+0,Normal,,,blitz,,2304.0,2197.0,,9402,2212,5913,,,unknown,,,,,0,0,0
+Gafiiis,asdf_asdf,2258,2472,1-0,Scandinavian Defense: Main Line,B01,https://lichess.org/zrsYTsrF,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,3823,236,2602
+silari,Cliquot,1979,2066,0-1,English Opening,A10,https://lichess.org/JlNeqYFI,300+0,Time forfeit,,,blitz,,,,,521,45,322,,,blitz,2201.0,2119.0,,,15037,884,8306
+Fritzka,pilocl,2381,2165,1-0,Italian Game: Hungarian Defense,C50,https://lichess.org/wmGDlCr7,180+0,Normal,,,blitz,,2309.0,,,30867,2526,21235,,,blitz,,,,,14864,1533,15758
+musaev,sgphwelz,1909,2196,0-1,"Italian Game: Evans Gambit, Anderssen Variation",C51,https://lichess.org/RXI5MJ5A,180+0,Time forfeit,,,blitz,,1891.0,,,7842,947,11877,,,blitz,,2264.0,,,16454,2159,12278
+dragan62,arstelli,1957,2093,1-0,Sicilian Defense: Closed Variation,B23,https://lichess.org/vddR1URS,180+0,Normal,,,blitz,,,,,713,93,889,,,blitz,,,,,19325,2117,15507
+Advclf,LevStolpner,1971,2165,1-0,English Opening: Anglo-Scandinavian Defense,A10,https://lichess.org/BXdvAZqw,240+0,Normal,,,blitz,,2022.0,,,17804,2745,13288,,,blitz,2410.0,2301.0,,,21725,1701,16760
+Lexman661,baronijan,1998,2009,0-1,Nimzo-Larsen Attack: English Variation,A01,https://lichess.org/d49RwQRs,300+0,Normal,,,bullet,1817.0,1966.0,,,20253,1285,19854,,,blitz,,,,,3038,275,3262
+Lavapies,Gorian,2360,2315,0-1,Trompowsky Attack,A45,https://lichess.org/LVoIyh2t,180+0,Normal,,,blitz,,,,,6413,416,2195,,,unknown,,,,,0,0,0
+Armanabraham77,jmozes,2032,2035,0-1,"English Opening: King's English Variation, Two Knights Variation",A22,https://lichess.org/ig4Fw2S8,900+11,Normal,,,rapid,,,,,645,74,494,,,unknown,,,,,0,0,0
+chrisfabian,aiadiv,2082,1958,1-0,"Grob Opening: Spike, Hurst Attack",A00,https://lichess.org/rKczJFdW,180+0,Normal,,,blitz,,,,,4670,408,2740,,,blitz,,,,,6663,647,5704
+B0N0B0,Voyager31,2142,1864,1-0,Horwitz Defense,A40,https://lichess.org/tPZeKtar,60+0,Normal,,,bullet,,,,,19912,1030,9375,,,bullet,2067.0,1965.0,,,27023,2377,38545
+Doodloper,Seredhel,2123,2017,1-0,Mieses Opening,A00,https://lichess.org/gPFDFw2k,300+0,Normal,,,blitz,,2164.0,,,18187,1462,15287,,,bullet,2025.0,2245.0,,,30363,2267,26465
+Babushka_Hulk,muhammedbuba,2013,2002,0-1,Four Knights Game: Italian Variation,C46,https://lichess.org/4vKXzJc2,300+0,Normal,,,blitz,2153.0,1972.0,2100.0,,5332,760,6256,,,puzzle,,,,,8263,711,7817
+FISCHER_FOREVER,GMBlunder,2098,2108,1-0,Indian Game,A45,https://lichess.org/1EZUoAOL,60+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+SHEILAA,magnanimousme,1961,2072,1-0,Old Benoni Defense,A43,https://lichess.org/e3ijbsS5,30+0,Time forfeit,,,bullet,,,,,26029,1768,26429,,,bullet,,2128.0,,,9560,359,8971
+Fringe3141,sagrklija,2048,1960,0-1,Slav Defense: Modern Line,D11,https://lichess.org/gww4LVl5,600+0,Normal,,,unknown,,,,,0,0,0,,,rapid,,,,,823,41,387
+Jakus,chist45,2186,2148,1-0,Tarrasch Defense,D32,https://lichess.org/bTwAvZX5,300+8,Normal,,,blitz,,2040.0,,,22408,2064,21791,,,puzzle,,,,,302,71,338
+chess_maxster,maarccc,1917,2089,0-1,King's Indian Defense: Normal Variation,E70,https://lichess.org/QX117NWV,60+0,Normal,,,blitz,,1968.0,,,13953,1120,16408,,,bullet,,,,,2234,221,1837
+mecker,Riddik345,2319,2368,0-1,"Sicilian Defense: Najdorf Variation, Polugaevsky Variation",B96,https://lichess.org/hRtmD8e8,180+0,Normal,,,blitz,,2348.0,,,13675,2795,16996,,,blitz,2425.0,2289.0,,,22657,3220,14716
+MFdanielrangel,brain_storm,2355,2223,1-0,Nimzo-Larsen Attack: Classical Variation,A01,https://lichess.org/cpuBRLDz,180+0,Normal,,FM,blitz,2443.0,2301.0,,,4730,667,3063,,,unknown,,,,,0,0,0
+NEVENSIAJVKO,Danzawhite,2096,1920,1-0,Queen's Pawn Game: Symmetrical Variation,D02,https://lichess.org/RhqXHiBX,3600+0,Time forfeit,,,classical,,,,,39,11,44,,,unknown,,,,,0,0,0
+themantheman16,moady,1944,2196,0-1,Scandinavian Defense: Mieses-Kotroc Variation,B01,https://lichess.org/C9NuwaHn,60+0,Time forfeit,,,bullet,,,,,14034,917,10025,,,bullet,,,,,43750,2418,30202
+master_mine,Patent,1885,2178,0-1,French Defense: Exchange Variation,C01,https://lichess.org/CqjPgOmg,60+0,Time forfeit,,,puzzle,,,,,161,9,118,,,bullet,2415.0,2036.0,,,75706,6730,56418
+Grga_Grimizni,ojosearp,2101,2059,1-0,French Defense: Steiner Variation,C00,https://lichess.org/8dFII6jk,180+0,Time forfeit,,,blitz,,2130.0,,,11741,1285,10974,,,blitz,,2149.0,,,5233,374,6361
+Imperatore,saza,1952,2136,0-1,Four Knights Game: Italian Variation,C50,https://lichess.org/l8A6EVcM,300+5,Normal,,,unknown,,,,,0,0,0,,,puzzle,,,,,2153,259,2464
+ComputerEasy,jovanns,2013,2086,0-1,Four Knights Game: Italian Variation,C46,https://lichess.org/cXFpOGBB,300+0,Normal,,,blitz,,,,,16715,1735,17069,,,blitz,,,,,21799,1423,15033
+Daccad,Edoardo90,2216,2083,0-1,"English Opening: King's English Variation, Four Knights Variation, Quiet Line #3",A28,https://lichess.org/FKdhjyyK,180+0,Time forfeit,,,blitz,,2251.0,,,22327,1625,13366,,,blitz,2076.0,2128.0,2347.0,,11081,2389,10523
+Kibitz42,anigimi,2255,2115,1-0,"Queen's Gambit Declined: Exchange Variation, Positional Variation",D35,https://lichess.org/hgT6Xv7f,60+0,Time forfeit,,,bullet,2551.0,2437.0,,,28612,2844,23684,,,bullet,2234.0,2045.0,2133.0,,22694,1088,20809
+shmundinsky,sansechess,2109,1902,1-0,Queen's Gambit Declined,D30,https://lichess.org/HiiJT3ti,60+0,Time forfeit,,,bullet,,,,,13143,535,8371,,,bullet,2179.0,2244.0,,,34647,3363,32340
+KingGadamer,escarabajo12,2062,1989,1-0,Modern Defense,A41,https://lichess.org/UPlf19Nl,60+0,Time forfeit,,,bullet,2015.0,1900.0,1939.0,,77733,5159,61244,,,bullet,1994.0,,,,7026,251,9678
+chubaba,waleedkare,1994,2035,0-1,Queen's Gambit Refused: Marshall Defense,D06,https://lichess.org/TTu1gjje,600+10,Normal,,,blitz,2038.0,2033.0,,,13623,1238,15840,,,rapid,,,,,369,64,256
+GoldenAge,tocaifriulano,1906,2097,0-1,"Modern Defense: Averbakh System, Kotov Variation",A42,https://lichess.org/C7jngS2G,120+0,Normal,,,blitz,,1977.0,,,23092,1737,15555,,,bullet,2191.0,2197.0,,,35882,2417,29764
+Illogicalism,Reppko,1854,2312,0-1,King's Knight Opening: Normal Variation,C44,https://lichess.org/SrLDRkbu,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,,,,,30278,946,14744
+boe08,kellmano,2047,2005,1/2-1/2,Old Indian Defense,A53,https://lichess.org/pKlzbVZX,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2189.0,2083.0,,,18351,1849,16111
+sadegh1977,Queribus,2147,2124,0-1,"King's Pawn Game: Tayler Opening, Inverted Hanham",C44,https://lichess.org/1mvVtAfI,180+0,Time forfeit,,,bullet,,,,,56892,4819,80887,,,blitz,2364.0,2317.0,2303.0,2169.0,13637,1870,15946
+Sach,princemolin,2015,2305,0-1,Nimzo-Larsen Attack,A01,https://lichess.org/mgR7vJOK,0+1,Normal,,,bullet,2176.0,,,,13745,554,10819,,,bullet,,,,,2879,177,1396
+amaidel,Patrik_de_Smrt,2494,2162,1-0,"English Opening: Symmetrical Variation, Two Knights Line",A37,https://lichess.org/fB4esOsX,180+0,Normal,,FM,blitz,,2457.0,,,9903,1038,2651,,,blitz,2466.0,2253.0,2293.0,,11002,1713,7944
+zelis_2016,Serg2010,2025,2017,0-1,?,?,https://lichess.org/oX4opsLZ,180+0,Abandoned,,,blitz,1930.0,2008.0,,,22764,1388,19543,,,bullet,,,,,713,45,561
+broskall,karpovs_putzfrau,2135,2147,1-0,Hungarian Opening,A00,https://lichess.org/T5Jd4jiB,60+0,Time forfeit,,,bullet,,,,,12929,977,6379,,,bullet,,,,,40566,1572,21115
+elmondi,kissygirl,2000,2048,0-1,"Sicilian Defense: Kan Variation, Knight Variation",B43,https://lichess.org/OEFWDTiY,180+3,Time forfeit,,,unknown,,,,,0,0,0,,,blitz,,,,,15236,518,2442
+Ragnar66,Ontheroofs,2125,1913,1-0,Reti Opening #2,A04,https://lichess.org/LxOKDLZg,60+0,Time forfeit,,,blitz,2146.0,2088.0,,,48116,2181,23455,,,unknown,,,,,0,0,0
+Evgeny_,Shaeferov,1994,2168,1/2-1/2,Pirc Defense #4,B07,https://lichess.org/2qeekMJU,180+0,Time forfeit,,,bullet,,,,,2724,356,2789,,,unknown,,,,,0,0,0
+kleyton,Kassel123,2045,1992,0-1,"French Defense: Advance Variation, Paulsen Attack",C02,https://lichess.org/W4emMCrC,1800+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+lovac1950,STEPA65,1933,2157,0-1,Philidor Defense: Exchange Variation #2,C41,https://lichess.org/7uI0fmv1,180+0,Normal,,,blitz,,,,,4666,367,4098,,,blitz,,,,,3876,442,1674
+Tijdverspilling,JaffaCakes,2485,2368,1-0,Indian Game: East Indian Defense,E00,https://lichess.org/HkYNLVZq,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2536.0,2254.0,,,32686,2215,19207
+yoavgutt,Sy_Abelman,1979,2149,0-1,Queen's Pawn Game: Stonewall Attack,D00,https://lichess.org/0iwObM5f,60+0,Normal,,,bullet,2308.0,,,,33293,1426,32329,,,bullet,2401.0,,,,14515,899,11122
+batigoal,jc04,2024,2006,0-1,King's Pawn Game: King's Head Opening #2,C20,https://lichess.org/dYKMN8FA,120+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,9855,900,10548
+pectus,achja,2026,2120,1/2-1/2,Englund Gambit,A40,https://lichess.org/gOsztbGE,300+0,Normal,,,blitz,,,,,1804,143,901,,,blitz,2308.0,2230.0,,,64304,4810,21177
+Oleg_sevastopol,Chessbirdie,2129,2028,1-0,Modern Defense,A40,https://lichess.org/ImqdEgc6,300+0,Normal,,,bullet,,,,,34168,1334,15776,,,bullet,2223.0,2246.0,,,5696,359,4833
+luis_alfredop,bazinger,2245,2217,1-0,Colle System,D05,https://lichess.org/2YBwisl7,0+1,Time forfeit,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+bullet222,flyrook123,2005,2038,0-1,Italian Game: Giuoco Pianissimo,C50,https://lichess.org/xJ9aaX3X,60+0,Normal,,,unknown,,,,,0,0,0,,,bullet,2477.0,2166.0,1826.0,,22793,3454,19565
+samira-pa,sp247,1885,2160,0-1,Scandinavian Defense,B01,https://lichess.org/ch0l7Umr,180+0,Normal,,,unknown,,,,,0,0,0,,,unknown,,,,,0,0,0
+lalgherese,pupozz88,1932,2201,1-0,French Defense: Pelikan Variation,C00,https://lichess.org/j9KlaOqF,60+0,Normal,,,bullet,,,,,5004,257,4060,,,bullet,,2246.0,,,5839,354,3018
+GekkeLeon,tt451903,2416,1958,1-0,Sicilian Defense: Paulsen Variation,B44,https://lichess.org/evYybTUW,180+0,Normal,,,bullet,,,,,393,29,175,,,blitz,,,,,390,35,371
+sotac,Rackattack,2181,2124,1-0,Van Geet Opening,A00,https://lichess.org/ZinRpN6M,180+0,Normal,,,bullet,2261.0,2294.0,,,18137,1162,17174,,,blitz,1994.0,2142.0,,,9741,1493,9292
+Thelugalz,mt99,2024,2027,0-1,Nimzo-Indian Defense: Classical Variation,E32,https://lichess.org/nXbquoNK,60+0,Time forfeit,,,bullet,2114.0,,,,5717,207,3800,,,blitz,,,,,10316,1117,9019
+cenapselcuk,chessmaster3000,2026,2326,0-1,Van't Kruijs Opening,A00,https://lichess.org/c1Viru2Y,60+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,2528.0,,,,93099,7833,58259
+Ananais93,traderchess,1996,2010,0-1,Pirc Defense #2,B07,https://lichess.org/vlN79IuX,480+0,Time forfeit,,,blitz,,,,,1407,122,1529,,,bullet,1946.0,,,,1892,89,1348
+cerveza,delta-omicron,2190,1958,1-0,Zukertort Opening: Quiet System,A04,https://lichess.org/9hOtRKp8,60+0,Normal,,,bullet,2111.0,,,,10582,591,9645,,,unknown,,,,,0,0,0
+geniowilde,kingchaos,1963,2043,1-0,Nimzowitsch Defense,B00,https://lichess.org/6lDHVixA,60+0,Time forfeit,,,bullet,,,,,8762,708,5901,,,bullet,,,,,1835,96,1381
+adamschmalhofer,thegreat,2099,1982,1-0,Queen's Gambit Refused: Chigorin Defense #3,D07,https://lichess.org/UpywmvJQ,300+0,Normal,,,puzzle,,2123.0,,,6410,420,4213,,,blitz,,1809.0,2069.0,,22397,2702,23231
+copeica,SMJT,1944,2076,0-1,Sicilian Defense: Delayed Alapin Variation,B40,https://lichess.org/j3mJ7UQp,300+5,Normal,,,bullet,,,,,2744,189,3209,,,rapid,,2103.0,2272.0,,15451,2282,11714
+robinbuk,Kaledak24,1915,2087,0-1,King's Indian Defense: Exchange Variation,E92,https://lichess.org/pSIJTHZZ,300+3,Time forfeit,,,blitz,,,,,5430,640,3155,,,puzzle,,,,,1323,143,771
+skiaxtro,liapmu,2140,2208,1-0,"Pterodactyl Defense: Sicilian, Rhamporhynchus",B06,https://lichess.org/JqjOPJXE,300+0,Normal,,,blitz,2075.0,2138.0,,,10750,1132,10691,,,blitz,,2201.0,,,10228,1716,16839
+lhawta,SotNikov,2022,2000,1-0,Dutch Defense: Leningrad Variation,A87,https://lichess.org/A7uYXWdW,30+0,Time forfeit,,,unknown,,,,,0,0,0,,,bullet,,,,,1164,79,1367
+DemolitionX,kenguerriero,2147,2229,1-0,Saragossa Opening,A00,https://lichess.org/3TvgGflZ,60+0,Normal,,,bullet,,,,,1808,90,1475,,,bullet,,,,,2127,215,2461
+Psyclops322,DarkSchnappz,1984,2080,0-1,Modern Defense: Beefeater Variation,A40,https://lichess.org/1SVmcfrw,30+0,Time forfeit,,,bullet,,,,,466,6,334,,,bullet,,,,,2908,145,2155
+chesspain22,Self-Taught,2037,2049,0-1,"Russian Game: Classical Attack, Closed Variation",C42,https://lichess.org/dItyXH8U,240+2,Time forfeit,,,rapid,,,,,1451,344,1517,,,unknown,,,,,0,0,0
+jlqm_pty,rigoberto_22,2202,1938,1-0,King's Indian Defense,E61,https://lichess.org/GkD2m8i6,600+0,Normal,,,rapid,,,,,296,5,140,,,rapid,,,,,3827,486,5899
+Flaneur,Ader87,2460,2296,0-1,Sicilian Defense: French Variation,B40,https://lichess.org/zGD2tNuQ,60+0,Normal,,LM,bullet,2563.0,2400.0,,,26282,2540,13683,,,bullet,2485.0,2308.0,,,20968,3263,25071
+Gmangeltsadkiel,terra01,1989,2056,1-0,Trompowsky Attack: Edge Variation,A45,https://lichess.org/NIoHH3gY,480+0,Normal,,,blitz,,,,,99,8,125,,,rapid,,,,,1963,178,1533
+corvinusz,Sdelay,2218,1879,1-0,Horwitz Defense,A40,https://lichess.org/bGE9cZgK,180+0,Time forfeit,,,blitz,,,,,775,26,244,,,unknown,,,,,0,0,0
+Swan_ag,Entai,2085,1997,0-1,Van't Kruijs Opening,A00,https://lichess.org/nFwo774h,60+0,Normal,,,bullet,,,,,24865,1231,11556,,,bullet,2061.0,2221.0,,,5199,376,6877
+jhmiii,stergioos,2020,1985,1-0,Queen's Gambit Declined,D30,https://lichess.org/lEJ3lTBs,180+0,Time forfeit,,,blitz,,2169.0,,,18811,1049,6918,,,blitz,1890.0,2130.0,2071.0,,5278,521,4051
+mightytower,Mate96,2070,1947,0-1,"Catalan Opening: Closed Variation, Traditional Variation",E09,https://lichess.org/PzomEeOQ,300+5,Normal,,,blitz,1814.0,2006.0,,,5877,616,4345,,,blitz,,,,,21004,1314,10991
+MaxPower64,inzeitnot,2166,2147,1-0,French Defense: Chigorin Variation,C00,https://lichess.org/bij67qw4,180+2,Time forfeit,,,bullet,2389.0,2208.0,,,25590,1853,28736,,,blitz,,2168.0,,,9276,2205,13072
+broskall2,jiacomo,2220,1795,0-1,Zukertort Opening: Sicilian Invitation,A04,https://lichess.org/wi7Pupnn,60+0,Normal,,,bullet,2647.0,2319.0,,,6567,429,3210,,,bullet,1910.0,,,,88684,2626,91017
+gmarkov1,morpetr,2008,2038,0-1,French Defense: Exchange Variation,C01,https://lichess.org/jSDCQnmJ,300+0,Normal,,,blitz,,2078.0,,,4567,477,4420,,,blitz,,,,,6270,579,5229
+asirmatos,boblegol,2273,2289,1-0,"English Opening: Anglo-Indian Defense, King's Indian Formation",A15,https://lichess.org/2F75xyTr,180+2,Normal,,,unknown,,,,,0,0,0,,,blitz,,,,,893,83,571
+hedayat,yracezor,1942,2062,1-0,Sicilian Defense: Bowdler Attack,B20,https://lichess.org/HK8TCX6Z,600+5,Normal,,,blitz,,,,,1694,255,2663,,,puzzle,,,,,6358,692,4364
+Peristeria,samueldg,2229,1973,1-0,"King's Indian Defense: Fianchetto Variation, Yugoslav Variation, Advance Line",E66,https://lichess.org/ZURFrmPO,300+3,Normal,,,blitz,,2318.0,2385.0,2340.0,11034,1836,5102,,,blitz,,,,,1312,181,1985
+Valtor,khaikeho,2044,2270,0-1,Old Benoni Defense,A43,https://lichess.org/2VjK8DKE,0+1,Time forfeit,,,bullet,,,,,6432,704,8439,,,unknown,,,,,0,0,0
+joni1953,Tiberius5,2011,2037,0-1,"Italian Game: Two Knights Defense, Polerio Defense, Kieseritzky Variation",C58,https://lichess.org/d3CJTW4Z,900+10,Normal,,,rapid,,,,,2167,258,1651,,,rapid,,,,,187,25,103
+upthebut,Fins-DeLaMancha,1929,2090,0-1,Slav Defense #2,D10,https://lichess.org/YDSAb80b,180+0,Normal,,,bullet,,,,,576,28,503,,,blitz,2260.0,2124.0,,,17832,1175,9895
+elcolumbio,Mattslayer,2007,2193,0-1,"Caro-Kann Defense: Advance Variation, Van der Wiel Attack",B12,https://lichess.org/zJrtBqKl,30+0,Time forfeit,,,bullet,2044.0,2140.0,,,20910,1304,17333,,,bullet,,,,,3201,65,526
+EmperioAf,sarthur,2135,2005,0-1,Sicilian Defense: Alapin Variation,B22,https://lichess.org/ZYoYD0nL,180+0,Time forfeit,,,puzzle,,2198.0,,,5577,914,2282,,,bullet,1851.0,1760.0,,,9329,559,10579
+cplyakap1905,Fyodorovich,2178,1919,1-0,Indian Game: West Indian Defense,E61,https://lichess.org/xuCtNkXN,540+8,Normal,,,puzzle,2100.0,2241.0,2370.0,,11866,1788,12058,,,puzzle,,,,,2963,334,2047
+September_Clues,rohangupta4398,1920,2081,0-1,"Sicilian Defense: Modern Variations, Tartakower",B53,https://lichess.org/htNQFx5V,120+1,Time forfeit,,,puzzle,,,,,349,30,239,,,bullet,,,,,9966,918,7308
+brzigonzalez,jona_vfz,2053,2042,1-0,Giuoco Piano,C50,https://lichess.org/b7wZ7LQh,180+0,Normal,,,blitz,,,,,15778,1899,12425,,,blitz,,,,,3166,170,2105
