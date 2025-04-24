@@ -64,7 +64,7 @@ Each player's profile will include:
 ## **Analysis Plan**
 
 1. **Data Preprocessing**
-   - Convert lichess data into structured Data Frames
+   - Convert lichess data into structured [Data Frames](https://github.com/OzanMuhcu/DSA210_Term_Project/tree/main/data)
    - Handle missing or inconsistent values
 
 2. **Exploratory Data Analysis (EDA)**
