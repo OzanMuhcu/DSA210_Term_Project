@@ -47,14 +47,14 @@ Each player's profile will include:
 - **Peak Rating**: Highest rating player got in each time control
 - **Game Preferences**: Most played game type (e.g., Blitz vs. Bullet)
 - **Account Type**: Titled player or a casual player
-- **Total win/lose/draw**: Count of previous recorded win/lose/draw data
+- **Total win/lose/draw**: Number of previous recorded win/lose/draw 
 
 ---
 
 ## **Data Collection Plan**
 
 1. **Extracting Data from Lichess API**
-   - Use Lichess API to download game and player data [Link Text](https://database.lichess.org/)
+   - Use Lichess API to download game and player [data](https://database.lichess.org/)
    - Filter some of the data to keep it simple (time period, rating, country ...)
 
 2. **Ensuring Data Quality**
