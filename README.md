@@ -66,6 +66,7 @@ Each player's profile will include:
 1. **Data Preprocessing**
    - Convert lichess data into structured [Data Frames](https://github.com/OzanMuhcu/DSA210_Term_Project/tree/main/data)
    - Handle missing or inconsistent values
+   - [Enriched game data](https://github.com/OzanMuhcu/DSA210_Term_Project/tree/main/enriched_data) with player metadata from Lichess for deeper analysis. 
 
 2. **Exploratory Data Analysis (EDA)**
    - **Opening Popularity by Elo**: Identify which openings are most common in different rating
