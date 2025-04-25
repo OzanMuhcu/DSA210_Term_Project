@@ -118,6 +118,29 @@ I used a one-sided two-proportion Z-test to compare the White win rates between:
 - **Group 2:** Games using any opening except C20
 ---
 
+### Hypothesis Testing
+
+To move beyond descriptive analysis, I conducted a formal hypothesis test to investigate whether the C41 opening (Philidor Defense) results in more draws than expected compared to all other openings.
+
+### Research Question
+
+Does the C41 opening result in more draws compared to other openings?
+
+### Hypotheses
+
+- **Null Hypothesis (H₀):**  
+  The proportion of draws with C41 is less than or equal to the proportion of draws in all other openings.
+
+- **Alternative Hypothesis (H₁):**  
+  The proportion of draws with C41 is greater than in other openings.
+
+### Test Method
+
+I used a one-sided two-proportion Z-test to compare the draw rates between:
+
+- **Group 1:** Games using the C41 opening (Philidor Defense)
+- **Group 2:** Games using any other opening except C41
+
 ## **Expected Findings**
 
 By the end of this project, I expect to answer questions such as:
