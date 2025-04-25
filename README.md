@@ -95,7 +95,6 @@ To move beyond descriptive analysis, I conducted a formal hypothesis test to inv
   The proportion of Black wins with A45 is **greater than** in other openings.
 
 
-
 ### Test Method
 
 I used a **one-sided two-proportion Z-test** to compare the Black win rates between:
@@ -103,6 +102,22 @@ I used a **one-sided two-proportion Z-test** to compare the Black win rates betw
 - **Group 1:** Games using the A45 opening  
 - **Group 2:** All other games (non-A45)
 
+## Hypotheses
+
+- **Null Hypothesis (H₀):**  
+  The proportion of White wins with the C20 opening is less than or equal to the proportion of White wins across all other openings.
+
+- **Alternative Hypothesis (H₁):**  
+  The proportion of White wins with the C20 opening is greater than in other openings.
+
+---
+
+### Test Method
+
+I used a one-sided two-proportion Z-test to compare the White win rates between:
+
+- **Group 1:** Games using the C20 opening
+- **Group 2:** Games using any opening except C20
 ---
 
 ## **Expected Findings**
