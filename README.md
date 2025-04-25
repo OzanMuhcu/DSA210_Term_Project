@@ -68,7 +68,7 @@ Each player's profile will include:
    - Handle missing or inconsistent values
    - [Enriched game data](https://github.com/OzanMuhcu/DSA210_Term_Project/tree/main/enriched_data) with player metadata from Lichess for deeper analysis. 
 
-2. **Exploratory Data Analysis (EDA)**
+2. **Exploratory Data Analysis [(EDA)](https://github.com/OzanMuhcu/DSA210_Term_Project/tree/main/EDA_on_data)**
    - **Opening Popularity by Elo**: Identify which openings are most common in different rating
    - **Win Rate by Opening**: Determine which openings perform best
    - **Player Profile Trends**: Find correlations between player country, rating, and preferred game type.
