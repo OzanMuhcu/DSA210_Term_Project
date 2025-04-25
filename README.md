@@ -102,7 +102,7 @@ I used a **one-sided two-proportion Z-test** to compare the Black win rates betw
 - **Group 1:** Games using the A45 opening  
 - **Group 2:** All other games (non-A45)
 
-## Hypotheses
+### Hypotheses
 
 - **Null Hypothesis (H₀):**  
   The proportion of White wins with the C20 opening is less than or equal to the proportion of White wins across all other openings.
