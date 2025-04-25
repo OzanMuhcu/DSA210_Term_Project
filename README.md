@@ -110,8 +110,6 @@ I used a **one-sided two-proportion Z-test** to compare the Black win rates betw
 - **Alternative Hypothesis (H₁):**  
   The proportion of White wins with the C20 opening is greater than in other openings.
 
----
-
 ### Test Method
 
 I used a one-sided two-proportion Z-test to compare the White win rates between:
