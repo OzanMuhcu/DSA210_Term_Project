@@ -77,32 +77,32 @@ Each player's profile will include:
 
 ## Hypothesis Testing
 
-To move beyond descriptive analysis, I conducted a formal hypothesis test to investigate whether **Black wins more frequently than expected when using the A45 opening** compared to all other openings.
+### Research Question 1: A45 Opening
 
+To go beyond descriptive analysis, a formal hypothesis test was conducted to investigate whether Black wins more frequently when using the A45 opening compared to all other openings.
 
-### Research Question
+#### Hypotheses
 
-**Does the A45 opening give Black a statistically significant advantage compared to other openings?**
+- **Null Hypothesis (H₀):**  
+  The proportion of Black wins with the A45 opening is less than or equal to the proportion of Black wins in all other openings.
 
+- **Alternative Hypothesis (H₁):**  
+  The proportion of Black wins with the A45 opening is greater than in other openings.
 
+#### Test Method
 
-### Hypotheses
-
-- **Null Hypothesis (H₀)**:  
-  The proportion of Black wins with A45 is **less than or equal to** the proportion of Black wins in all other openings.
-
-- **Alternative Hypothesis (H₁)**:  
-  The proportion of Black wins with A45 is **greater than** in other openings.
-
-
-### Test Method
-
-I used a **one-sided two-proportion Z-test** to compare the Black win rates between:
+A one-sided two-proportion Z-test was used to compare the Black win rates between:
 
 - **Group 1:** Games using the A45 opening  
 - **Group 2:** All other games (non-A45)
 
-### Hypotheses
+---
+
+### Research Question 2: C20 Opening
+
+Similarly, a hypothesis test was conducted to determine whether the C20 opening results in more White wins compared to all other openings.
+
+#### Hypotheses
 
 - **Null Hypothesis (H₀):**  
   The proportion of White wins with the C20 opening is less than or equal to the proportion of White wins across all other openings.
@@ -110,35 +110,32 @@ I used a **one-sided two-proportion Z-test** to compare the Black win rates betw
 - **Alternative Hypothesis (H₁):**  
   The proportion of White wins with the C20 opening is greater than in other openings.
 
-### Test Method
+#### Test Method
 
-I used a one-sided two-proportion Z-test to compare the White win rates between:
+A one-sided two-proportion Z-test was used to compare the White win rates between:
 
-- **Group 1:** Games using the C20 opening
+- **Group 1:** Games using the C20 opening  
 - **Group 2:** Games using any opening except C20
+
 ---
 
-### Hypothesis Testing
+### Research Question 3: C41 Opening (Philidor Defense)
 
-To move beyond descriptive analysis, I conducted a formal hypothesis test to investigate whether the C41 opening (Philidor Defense) results in more draws than expected compared to all other openings.
+To explore whether the C41 opening (Philidor Defense) leads to more draws than expected compared to other openings, a formal hypothesis test was conducted.
 
-### Research Question
-
-Does the C41 opening result in more draws compared to other openings?
-
-### Hypotheses
+#### Hypotheses
 
 - **Null Hypothesis (H₀):**  
-  The proportion of draws with C41 is less than or equal to the proportion of draws in all other openings.
+  The proportion of draws with the C41 opening is less than or equal to the proportion of draws in all other openings.
 
 - **Alternative Hypothesis (H₁):**  
-  The proportion of draws with C41 is greater than in other openings.
+  The proportion of draws with the C41 opening is greater than in other openings.
 
-### Test Method
+#### Test Method
 
-I used a one-sided two-proportion Z-test to compare the draw rates between:
+A one-sided two-proportion Z-test was used to compare the draw rates between:
 
-- **Group 1:** Games using the C41 opening (Philidor Defense)
+- **Group 1:** Games using the C41 opening (Philidor Defense)  
 - **Group 2:** Games using any other opening except C41
 
 ## **Expected Findings**
