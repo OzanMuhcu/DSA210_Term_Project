@@ -79,13 +79,12 @@ Each player's profile will include:
 
 To move beyond descriptive analysis, I conducted a formal hypothesis test to investigate whether **Black wins more frequently than expected when using the A45 opening** compared to all other openings.
 
----
 
 ### Research Question
 
 **Does the A45 opening give Black a statistically significant advantage compared to other openings?**
 
----
+
 
 ### Hypotheses
 
@@ -95,7 +94,7 @@ To move beyond descriptive analysis, I conducted a formal hypothesis test to inv
 - **Alternative Hypothesis (H₁)**:  
   The proportion of Black wins with A45 is **greater than** in other openings.
 
----
+
 
 ### Test Method
 
@@ -103,12 +102,6 @@ I used a **one-sided two-proportion Z-test** to compare the Black win rates betw
 
 - **Group 1:** Games using the A45 opening  
 - **Group 2:** All other games (non-A45)
-
----
-
-### Why This Matters
-
-If the test shows statistical significance, it suggests that **A45 might provide a competitive advantage for Black**. This could highlight its value as a counter-strategy or underused weapon in certain rating ranges.
 
 ---
 
