@@ -77,7 +77,7 @@ Each player's profile will include:
 
 ## Hypothesis Testing
 
-### Research Question 1: A45 Opening
+### Research Question 1: A45 - Queen's pawn game - Opening
 
 To go beyond descriptive analysis, a formal hypothesis test was conducted to investigate whether Black wins more frequently when using the A45 opening compared to all other openings.
 
@@ -98,7 +98,7 @@ A one-sided two-proportion Z-test was used to compare the Black win rates betwee
 
 ---
 
-### Research Question 2: C20 Opening
+### Research Question 2: C20 - King's pawn game - Opening
 
 Similarly, a hypothesis test was conducted to determine whether the C20 opening results in more White wins compared to all other openings.
 
@@ -119,7 +119,7 @@ A one-sided two-proportion Z-test was used to compare the White win rates betwee
 
 ---
 
-### Research Question 3: C41 Opening (Philidor Defense)
+### Research Question 3: C41  - Philidor Defense - Opening
 
 To explore whether the C41 opening (Philidor Defense) leads to more draws than expected compared to other openings, a formal hypothesis test was conducted.
 
