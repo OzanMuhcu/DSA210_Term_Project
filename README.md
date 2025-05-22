@@ -173,6 +173,79 @@ The goal is to predict the outcome of a chess game (Win/Loss) for a player based
 #### Here is the results for [low](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/Logistic_Regression/low_elo_LogisticRegression.ipynb), [mid](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/Logistic_Regression/mid_elo_LogisticRegression.ipynb) and, [high](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/Logistic_Regression/high_elo_LogisticRegression.ipynb) elo games
 
 
+# Player Clustering Summary -
+
+This file explains how to interpret the `**_elo_cluster_summary.csv` output generated from clustering low/mid/high -Elo chess players using KMeans.
+
+The goal of this analysis is to group similar players based on:
+- Elo rating
+- Win/loss history
+- Preferred openings (ECO codes)
+- Common game termination types
+
+Each row in `cluster_summary.csv` represents a **cluster** of similar players, and each column is a **feature** summarizing that group's average behavior.
+
+---
+
+## Understanding the Columns
+
+### Numerical Features (Standardized)
+
+These are **z-scores**, which represent how far a value is from the overall dataset average in standard deviations:
+
+| Column | Meaning |
+|--------|---------|
+| `white_elo` | Player Elo rating. Positive = stronger players, Negative = weaker players. |
+| `white_total_wins` | Total number of wins. Positive = more wins than average. |
+| `white_total_losses` | Total number of losses. Positive = more losses than average. |
+
+> Example: `white_elo = 0.8` means the average Elo in this cluster is **0.8 standard deviations above** the overall average.
+
+---
+
+### ♟️ Opening Features (ECO Codes)
+
+Columns like `eco_C20`, `eco_D10`, etc., represent the **percentage of players in the cluster** who frequently use a specific opening.
+
+| Column | Meaning |
+|--------|---------|
+| `eco_C50 = 0.7` | 70% of players in the cluster often play this opening. |
+| `eco_other = 0.1` | 10% use openings outside the top 10 most frequent. |
+
+These are one-hot encoded dummy variables.
+
+---
+
+### Termination Features
+
+Columns like `termination_resignation`, `termination_timeout`, etc., show **what percent of games** in each cluster end in that way.
+
+| Column | Meaning |
+|--------|---------|
+| `termination_resignation = 0.85` | 85% of games ended by resignation. |
+| `termination_timeout = 0.05` | 5% of games ended by timeout. |
+
+---
+
+## Example Row: Cluster 0
+
+| Feature | Value | Interpretation |
+|---------|-------|----------------|
+| `white_elo` | 0.5 | Slightly higher-rated players |
+| `eco_C50` | 0.7 | 70% use opening C50 |
+| `termination_resignation` | 0.8 | Most games end in resignation |
+
+---
+
+## 📌 Summary
+
+You can use `**_elo_cluster_summary.csv` to:
+- Understand **common patterns** among players
+- Discover **typical play styles** within rating groups
+- Label clusters (e.g., *High Elo Resigners*, *Low Elo Timeout Players*)
+- Improve chess insights or player modeling
+
+---
 
 
 
