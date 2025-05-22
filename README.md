@@ -138,6 +138,38 @@ A one-sided two-proportion Z-test was used to compare the draw rates between:
 - **Group 1:** Games using the C41 opening (Philidor Defense)  
 - **Group 2:** Games using any other opening except C41
 
+
+
+# Logistic Regression Analysis on Low Elo Chess Games
+
+This project uses **Logistic Regression** to classify outcomes of low Elo chess games based on various game features. The dataset is preprocessed, analyzed, and used to train and evaluate a binary classification model.
+
+## Objective
+
+The goal is to predict the outcome of a chess game (Win/Loss) for a player based on game statistics. The model focuses on **low Elo players**, aiming to uncover patterns in their gameplay that may lead to wins or losses.
+
+---
+
+## Data Overview
+
+- The dataset contains chess games with a focus on players with **low Elo ratings**.
+- Each game record includes features like:
+  - Number of turns
+  - Victory status
+  - Increment code (time control)
+  - Opening name
+  - Ratings of white and black players
+  - Other metadata related to game duration and outcome
+
+---
+
+## Preprocessing
+
+- **Label Encoding**: Categorical variables such as `winner` and `opening_name` were label-encoded.
+- **Feature Selection**: Features used for training include:
+  - `turns`, `white_rating`, `black_rating`, and `opening_eco`.
+- **Train-Test Split**: 80% training, 20% testing
+
 ## **Expected Findings**
 
 By the end of this project, I expect to answer questions such as:
