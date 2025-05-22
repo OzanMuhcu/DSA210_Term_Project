@@ -175,7 +175,7 @@ The goal is to predict the outcome of a chess game (Win/Loss) for a player based
 
 # Player Clustering 
 
-This file explains how to interpret the `**_elo_cluster_summary.csv` output generated from clustering low/mid/high -Elo chess players using KMeans.
+This file explains how to interpret the `k-means clustering` output generated from clustering low/mid/high -Elo chess players using KMeans.
 
 The goal of this analysis is to group similar players based on:
 - Elo rating
@@ -183,7 +183,7 @@ The goal of this analysis is to group similar players based on:
 - Preferred openings (ECO codes)
 - Common game termination types
 
-Each row in `cluster_summary.csv` represents a **cluster** of similar players, and each column is a **feature** summarizing that group's average behavior.
+Each row in `cluster summary` represents a **cluster** of similar players, and each column is a **feature** summarizing that group's average behavior.
 
 ---
 
@@ -239,7 +239,7 @@ Columns like `termination_resignation`, `termination_timeout`, etc., show **what
 
 ## Summary
 
-You can use `**_elo_cluster_summary.csv` to:
+You can use `low_elo_cluster_summary`, `mid_elo_cluster_summary` and `high_elo_cluster_summary.csv` to:
 - Understand **common patterns** among players
 - Discover **typical play styles** within rating groups
 - Label clusters (e.g., *High Elo Resigners*, *Low Elo Timeout Players*)
