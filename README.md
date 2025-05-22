@@ -173,6 +173,10 @@ The goal is to predict the outcome of a chess game (Win/Loss) for a player based
 #### Here is the results for [low](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/Logistic_Regression/low_elo_LogisticRegression.ipynb), [mid](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/Logistic_Regression/mid_elo_LogisticRegression.ipynb) and, [high](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/Logistic_Regression/high_elo_LogisticRegression.ipynb) elo games
 
 
+
+
+
+
 ## **Expected Findings**
 
 By the end of this project, I expect to answer questions such as:
