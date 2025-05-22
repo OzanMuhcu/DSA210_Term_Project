@@ -203,7 +203,7 @@ These are **z-scores**, which represent how far a value is from the overall data
 
 ---
 
-### ♟️ Opening Features (ECO Codes)
+### Opening Features (ECO Codes)
 
 Columns like `eco_C20`, `eco_D10`, etc., represent the **percentage of players in the cluster** who frequently use a specific opening.
 
@@ -237,7 +237,7 @@ Columns like `termination_resignation`, `termination_timeout`, etc., show **what
 
 ---
 
-## 📌 Summary
+## Summary
 
 You can use `**_elo_cluster_summary.csv` to:
 - Understand **common patterns** among players
