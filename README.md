@@ -239,7 +239,7 @@ Columns like `termination_resignation`, `termination_timeout`, etc., show **what
 
 ## Summary
 
-You can use `low_elo_cluster_summary`, `mid_elo_cluster_summary` and `high_elo_cluster_summary.csv` to:
+You can use [`low_elo_cluster_summary`](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/cluster_summary/low_elo_cluster.ipynb), [`mid_elo_cluster_summary`](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/cluster_summary/mid_elo_cluster.ipynb) and [`high_elo_cluster_summary.csv`](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/cluster_summary/high_elo_cluster.ipynb) to:
 - Understand **common patterns** among players
 - Discover **typical play styles** within rating groups
 - Label clusters (e.g., *High Elo Resigners*, *Low Elo Timeout Players*)
