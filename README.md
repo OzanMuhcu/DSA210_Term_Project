@@ -250,19 +250,20 @@ You can use [`low_elo_cluster_summary`](https://github.com/OzanMuhcu/DSA210_Term
 ---
 
 
+## Limitations and Future Work
 
+### Limitations
 
-## **Expected Findings**
+- **Slow Data Retrieval:** Fetching from the Lichess server was slow, reducing the dataset size.
+- **Short Timeframe:** Data was collected over a limited period, missing long-term trends.
+- **Missing Context:** Factors like mood, time of day, or distractions weren’t considered.
 
-By the end of this project, I expect to answer questions such as:
-- What openings tend to be most effective at various Elo levels?  
-- What are some common counter strategies for popular openings?  
-- Do players from specific countries show a preference for particular openings or styles of play?  
-- How do the opening choices of Blitz and Bullet (or other gametypes) players differ from one another?  
+### Future Work
 
-These insights could be truly valuable for me and my other players who are looking to improve their game strategies. 
-
----
+- **Optimize Fetching:** Use asynchronous or bulk methods to overcome Lichess delays.
+- **Collect Over Time:** Extend the study to observe long-term playing patterns.
+- **Add Contextual Data:** Incorporate variables like time, mood, or performance pressure.
+- **Use Advanced Analysis:** Apply more deeper statistical or machine learning models for better insights.
 
 ## **Conclusion**
 This project aims to uncover meaningful insights from chess games and player profiles by analyzing opening trends, player behaviors, and win probabilities across different rating levels. Through data visualization and statistical testing, I hope to identify useful strategies that can help chess players improve their game while also applying my data analysis skills to a subject I’m passionate about.
@@ -270,6 +271,3 @@ This project aims to uncover meaningful insights from chess games and player pro
 By exploring chess through the data science, I’ll not only deepen my understanding of game patterns but also strengthen my skills in data collection, processing, and statistical evaluation.
 
 ---
-
-I’m excited to see what the data reveals and to deepen my chess knowledge through this analysis.
-
