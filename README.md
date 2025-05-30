@@ -79,7 +79,7 @@ Each player's profile will include:
 
 ### Research Question 1: A45 - Queen's pawn game - Opening
 
-To go beyond descriptive analysis, a formal hypothesis test was conducted to investigate whether Black wins more frequently when using the A45 opening compared to all other openings [***for high elo.***](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/EDA_on_data/eda_high_elo_games.ipynb) (“The hypothesis test is at the bottom of the .ipynb file, next to the distribution graph that supports the choice of hypothesis.”)
+To go beyond descriptive analysis, a formal hypothesis test was conducted to investigate whether Black wins more frequently when using the A45 opening compared to all other openings [***for high elo.***](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/EDA_on_data/eda_high_elo_games.ipynb) **_The hypothesis test is at the bottom of the `.ipynb` file, next to the distribution graph that supports the choice of hypothesis for low, mid ,and high elo games in this chapter._**
 
 #### Hypotheses
 
@@ -100,7 +100,7 @@ A one-sided two-proportion Z-test was used to compare the Black win rates betwee
 
 ### Research Question 2: C20 - King's pawn game - Opening
 
-Similarly, a hypothesis test was conducted to determine whether the C20 opening results in more White wins compared to all other openings [***for low elo.***](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/EDA_on_data/eda_low_elo_games.ipynb) (“The hypothesis test is at the bottom of the .ipynb file, next to the distribution graph that supports the choice of hypothesis.”)
+Similarly, a hypothesis test was conducted to determine whether the C20 opening results in more White wins compared to all other openings [***for low elo.***](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/EDA_on_data/eda_low_elo_games.ipynb) 
 
 #### Hypotheses
 
@@ -121,7 +121,7 @@ A one-sided two-proportion Z-test was used to compare the White win rates betwee
 
 ### Research Question 3: C41  - Philidor Defense - Opening
 
-To explore whether the C41 opening leads to more draws than expected compared to other openings [***for mid elo.***](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/EDA_on_data/eda_mid_elo_games.ipynb) (“The hypothesis test is at the bottom of the .ipynb file, next to the distribution graph that supports the choice of hypothesis.”)
+To explore whether the C41 opening leads to more draws than expected compared to other openings [***for mid elo.***](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/EDA_on_data/eda_mid_elo_games.ipynb) 
 
 #### Hypotheses
 
