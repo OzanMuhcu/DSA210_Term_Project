@@ -77,9 +77,11 @@ Each player's profile will include:
 
 ## Hypothesis Testing
 
+#### **_!!The hypothesis test is at the bottom of the `.ipynb` file, next to the distribution graph that supports the choice of hypothesis for low, mid ,and high elo games in this chapter.!!_**
+
 ### Research Question 1: A45 - Queen's pawn game - Opening
 
-To go beyond descriptive analysis, a formal hypothesis test was conducted to investigate whether Black wins more frequently when using the A45 opening compared to all other openings [***for high elo.***](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/EDA_on_data/eda_high_elo_games.ipynb) **_The hypothesis test is at the bottom of the `.ipynb` file, next to the distribution graph that supports the choice of hypothesis for low, mid ,and high elo games in this chapter._**
+To go beyond descriptive analysis, a formal hypothesis test was conducted to investigate whether Black wins more frequently when using the A45 opening compared to all other openings [***for high elo.***](https://github.com/OzanMuhcu/DSA210_Term_Project/blob/main/EDA_on_data/eda_high_elo_games.ipynb) 
 
 #### Hypotheses
 
