@@ -77,7 +77,7 @@ Each player's profile will include:
 
 ## Hypothesis Testing
 
-#### **_!!The hypothesis test is at the bottom of the `.ipynb` file, next to the distribution graph that supports the choice of hypothesis for low, mid ,and high elo games in this chapter.!!_**
+> **The hypothesis test for each ELO in this chapter is located at the bottom of the `.ipynb` file, right next to the distribution graph that supports the choice of hypothesis.**
 
 ### Research Question 1: A45 - Queen's pawn game - Opening
 
